@@ -2,7 +2,7 @@
 
 # WhichKey
 
-> Your shortcut Reminder
+> Simplified Shortcut Search
 
 **WhichKey** is your new Windows buddy for easily finding and searching keyboard shortcuts related to the currently active app with a breeze! Instead of hunting for shortcuts online for every single app, WhichKey brings them all together in one convenient place, right at your fingertips.
 
