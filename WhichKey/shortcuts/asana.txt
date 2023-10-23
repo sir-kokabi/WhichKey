@@ -1,0 +1,122 @@
+TAB+Y
+Mark as Today in your My Tasks
+
+TAB+U
+Mark as Upcoming in your My Tasks
+
+TAB+L
+Mark as Later in your My Tasks
+
+K OR J
+Move Up/Down
+
+H
+Jump to Inbox tab
+
+S
+Jump to Archive tab
+
+F
+Follow or Unfollow
+
+I
+Archive
+
+U
+Move to Inbox
+
+ENTER
+New Task
+
+TAB+BACKSPACE
+Delete Selected Task(s)
+
+BACKSPACE
+Delete current task (when task name is empty)
+
+CTRL+ENTER
+Complete Selected Task(s)
+
+CTRL+UP OR CTRL+DOWN
+Move Up/Down
+
+CTRL+SHIFT+UP OR CTRL+SHIFT+DOWN
+Jump Up/Down to the next Section
+
+CTRL+C
+Copy Selected Tasks
+
+CTRL+V
+Paste Tasks (One per line)
+
+TAB+M
+Assign to Me
+
+TAB+H
+Access Home
+
+TAB+N
+Create a Section
+
+TAB+P
+Add to a project
+
+TAB+Z
+Navigate to My Tasks
+
+TAB+I
+Navigate to Inbox
+
+TAB+O
+Collapse Sidebar
+
+TAB+C
+Comment on Selected Task
+
+TAB+A
+Assign Selected Task
+
+TAB+D
+Set Due Date
+
+TAB+F
+Add Follower
+
+TAB+T
+Add a tag to the task
+
+TAB+S
+Focus Subtasks
+
+TAB+/
+Search for a project, tag, person, or task
+
+UP OR DOWN
+Change Selection
+
+SHIFT+CLICK
+Select Range
+
+SHIFT+UP OR SHIFT+DOWN
+Select Range
+
+CTRL+CLICK
+Multi-select Individual Task
+
+CTRL+/
+Show Keyboard Shortcuts
+
+ESC
+Collapse the right pane
+
+TAB+X
+Enter Focus Mode
+
+TAB+Q
+Quick Add
+
+TAB+ENTER
+Post Comment (From comment field)
+
+TAB+B
+What it sounds like

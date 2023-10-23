@@ -1,0 +1,113 @@
+META+X  C
+Run command prompt in normal mode
+
+META+X  A
+Run command prompt with administrative privileges
+
+HOME
+Move to beginning of line
+
+END
+Move to end of line
+
+CTRL+LEFT
+Move one word to the left (backward).
+
+CTRL+RIGHT
+Move one word to the right (forward).
+
+CTRL+M
+Enter or Exit Mark mode.
+
+CTRL+UP OR PAGEUP
+Scroll window up
+
+CTRL+DOWN OR PAGEDOWN
+Scroll window down
+
+CTRL+A
+Select all
+
+SHIFT+LEFT
+Extend selection one character to the left
+
+SHIFT+RIGHT
+Extend selection one character to the right
+
+CTRL+SHIFT+LEFT
+Extend selection one word to the left
+
+CTRL+SHIFT+RIGHT
+Extend selection one word to the right
+
+SHIFT+UP
+Extend selection one line up
+
+SHIFT+DOWN
+Extend selection one line down
+
+SHIFT+HOME
+Extend selection to beginning of line
+
+SHIFT+END
+Extend selection to end of line
+
+CTRL+SHIFT+HOME
+Extend selection to beginning of screen buffer
+
+CTRL+SHIFT+END
+Extend selection to end of screen buffer
+
+SHIFT+PAGEUP
+Extend selection one page up
+
+SHIFT+PAGEDOWN
+Extend selection one page down
+
+CTRL+C OR CTRL+INS
+Copy selected text
+
+F2  C
+copy text to the right of insertion point up to letter c
+
+CTRL+V OR SHIFT+INS
+Paste text
+
+BACKSPACE
+Delete character to the left
+
+TAB
+Autocomplete folder name
+
+INS
+toggle insertion mode
+
+CTRL+HOME
+Delete text to beginning of line
+
+CTRL+END
+Delete text to end of line
+
+CTRL+Z
+Mark end of line (ignore further text)
+
+F3
+Repeat previous command
+
+F7
+Show history of previous commands
+
+DOWN OR UP
+Scroll through history of commands
+
+RIGHT OR F1
+Recreate previous command character by character
+
+ALT+F7
+Clear command history
+
+F8
+Move backward in history to matching command
+
+CTRL+C
+Abort current line or currently executing command

@@ -1,0 +1,272 @@
+ESC
+Close dialog
+
+F1
+Guide
+
+CTRL+SHIFT+P
+Switch Profile
+
+CTRL+SHIFT+I
+Import
+
+CTRL+E
+Export
+
+CTRL+Q
+Exit
+
+CTRL+Z
+Undo
+
+N/A
+Start Dictation...
+
+N/A
+Emoji & Symbols
+
+/
+Study Deck
+
+F
+Create Filtered Deck...
+
+CTRL+SHIFT+A
+Add-ons
+
+CTRL+SHIFT+N
+Manage Note Types
+
+CTRL+P
+Preferences...
+
+D
+Decks
+
+A
+Add
+
+B
+Browse
+
+T
+Stats
+
+Y
+Sync
+
+CTRL+SHIFT+I
+Import File
+
+1
+Press the first answer button
+
+2
+Press the 2nd answer button
+
+3
+Press the 3rd answer button
+
+4
+Press the 4th answer button
+
+E
+Edit Card
+
+SPACE OR ENTER
+Flip Card/Answer Good
+
+CTRL+1
+Red Flag
+
+CTRL+2
+Orange Flag
+
+CTRL+3
+Green Flag
+
+CTRL+4
+Blue Flag
+
+*
+Mark Note
+
+-
+Bury Card
+
+=
+Bury Note
+
+@
+Suspend Card
+
+!
+Suspend Note
+
+CTRL+DEL
+Delete Note
+
+O
+Options
+
+R
+Replay Audio
+
+5
+Pause Audio
+
+6
+Audio -5s
+
+7
+Audio +5s
+
+SHIFT+V
+Record Own Voice
+
+V
+Replay Own Voice
+
+CTRL+L
+Customize Card Templates
+
+CTRL+B
+Bold
+
+CTRL+I
+Italic
+
+CTRL+U
+Underline
+
+CTRL+PLUS
+Superscript
+
+CTRL+=
+Subscript
+
+CTRL+R
+Remove format
+
+F7
+Set foreground
+
+F8
+Change Colour
+
+CTRL+SHIFT+C
+Cloze deletion
+
+F3
+Attach pictures/audio/video
+
+F5
+Record audio
+
+CTRL+SHIFT+T
+Focus tags
+
+CTRL+M  M
+Insert mathjax inline
+
+CTRL+M  E
+Insert mathjax block
+
+CTRL+M  C
+Insert mathjax chemistry
+
+CTRL+T  T
+Insert latex
+
+CTRL+T  E
+Insert latex equation
+
+CTRL+T  M
+Insert latex math environment
+
+CTRL+SHIFT+X
+Edit HTML
+
+CTRL+ENTER
+Add card
+
+CTRL+H
+History
+
+CTRL+ALT+Z
+Undo
+
+CTRL+ALT+A
+Select all
+
+CTRL+ALT+S
+Invert selection
+
+CTRL+E
+Add Notes
+
+CTRL+SHIFT+E
+Export Notes
+
+CTRL+SHIFT+A
+Add tags
+
+CTRL+ALT+SHIFT+A
+Remove tags
+
+CTRL+K
+Toggle mark
+
+CTRL+SHIFT+M
+Change note type
+
+CTRL+ALT+F
+Find and replace
+
+CTRL+DEL
+Delete
+
+CTRL+D
+Change deck
+
+CTRL+SHIFT+D
+Reschedule
+
+CTRL+SHIFT+S
+Reposition
+
+CTRL+J
+Suspend
+
+CTRL+SHIFT+I
+Info
+
+CTRL+F
+Find
+
+CTRL+SHIFT+F
+Filter
+
+CTRL+SHIFT+R
+Goto sidebar
+
+CTRL+SHIFT+N
+Goto note
+
+CTRL+SHIFT+L
+Goto card list
+
+HOME
+First card
+
+CTRL+N
+Goto next card
+
+CTRL+P
+Goto previous card
+
+END
+Last card
+
+CTRL+SHIFT+P
+Preview

@@ -1,0 +1,377 @@
+ESC
+Deselect all selected issues.
+
+DOWN
+Set focus to the issue below the current issue.
+
+UP
+Set focus to the issue above the current issue.
+
+RIGHT
+Expand the detail for the current issue in the list.
+
+LEFT
+Collapse the detail for the current issue in the list.
+
+SPACE
+Toggle the selection of the current issue.
+
+CTRL+A
+Select or deselect all of the issues on the current page.
+
+CTRL+M
+Assign the selected issues to yourself.
+
+F2
+Open the current issue in edit mode.
+
+F3
+Open the current issue in view mode without navigating away from the page.
+
+CTRL+LEFT
+Show previous issue in view or edit mode.
+
+CTRL+RIGHT
+Show next issue in view or edit mode.
+
+CTRL+SHIFT+BACKSPACE
+Toggle the visibility of the sidebar.
+
+CTRL+SHIFT+!
+Open your personal list of Saved Searches and Tags from the Issues menu.
+
+CTRL+C
+Copy the ID of the current issue to the clipboard.
+
+CTRL+ALT+SHIFT+C
+Copy the issue ID and summary of the current issue to the clipboard.
+
+ENTER
+Open the current issue in single issue view.
+
+CTRL+ALT+INS
+Open the New Issue page to create a subtask of the current issue.
+
+CTRL+ALT+J
+Open the Apply Command dialog. Applied to the current issue or all selected issues.
+
+CTRL+ALT+K
+Suggest to apply the most recent command to all selected issues in the list.
+
+CTRL+SHIFT+S
+Opens a list of issues that are similar to the current issue in a new browser tab.
+
+CTRL+V
+Attach an image from the clipboard to the current issue.
+
+ALT+INS
+Open the New Issue page.
+
+DEL
+Delete the current issue or all selected issues.
+
+CTRL+/
+View keyboard shortcuts.
+
+CTRL+UP
+Return to the Issues list.
+
+CTRL+RIGHT
+Go to the next issue in the search results.
+
+CTRL+LEFT
+Go to the previous issue in the search results.
+
+CTRL+SHIFT+C
+Toggle comments visibility in the activity stream.
+
+CTRL+SHIFT+H
+Toggle issue history visibility in the activity stream.
+
+ALT+CLICK
+Select a single activity type in the activity stream.
+
+CTRL+SHIFT+L
+Show/hide linked issues.
+
+CTRL+ALT+SHIFT+L
+Link issue.
+
+F2
+Open the issue in edit mode.
+
+CTRL+C
+Copy the ID of the current issue to the clipboard.
+
+CTRL+ALT+SHIFT+C
+Copy the issue ID and summary to the clipboard.
+
+CTRL+ALT+INS
+Open the New Issue page to create a subtask for the issue.
+
+CTRL+ALT+A
+Open a dialog to locate and attach files to the issue.
+
+CTRL+ALT+C
+Set focus to the input field for a new comment.
+
+CTRL+ALT+J
+Open the Apply Command dialog.
+
+CTRL+ALT+K
+Open the Apply Command dialog with the most recent command in the input field.
+
+CTRL+V
+Attach an image from the clipboard to the issue or comment.
+
+CTRL+ALT+SHIFT+V
+Open a dialog to attach and set visibility for files.
+
+CTRL+ENTER
+Submit changes when editing the issue or adding comments.
+
+CTRL+SHIFT+!
+Open your personal list of Saved Searches and Tags. Press Esc to close.
+
+CTRL+SHIFT+? OR CTRL+ALT+SHIFT+PLUS
+Toggle the default setting to expand or collapse exception stack traces.
+
+ALT+INS
+Open the New Issue page.
+
+CTRL+M
+Assign the issue to yourself.
+
+CTRL+SHIFT+@
+Open the New Issue menu to link a new issue to the current issue.
+
+CTRL+K
+Open the quick search overlay.
+
+CTRL+SHIFT+)
+Add or remove the star tag for the current issue.
+
+ESC
+Toggle focus between the issue and the search box.
+
+CTRL+ALT+D
+Toggle between distraction-free mode and single issue view.
+
+CTRL+SHIFT+S
+Open a list of similar issues in a new browser tab.
+
+CTRL+/
+View keyboard shortcuts.
+
+CTRL+B
+Sets the current selection of characters in a boldface font.
+
+CTRL+I
+Sets the current selection of characters in an italic font.
+
+CTRL+SHIFT+S
+Sets the current selection of characters with a horizontal line through the center.
+
+CTRL+SHIFT+M
+Sets the current selection in a monospace font on a light background.
+
+CTRL+SHIFT+P
+Switches between Visual and Markdown mode.
+
+ENTER
+Apply command.
+
+CTRL+ENTER
+Apply command.
+
+CTRL+SHIFT+ENTER
+Apply command without generating notification messages.
+
+ESC
+Cancel the command and close the Apply Command dialog.
+
+CTRL+/
+View keyboard shortcuts.
+
+SHIFT+TAB
+Switch to the Search Context drop-down menu.
+
+CTRL+SPACE
+Show suggestions.
+
+ENTER
+Submit the search request.
+
+CTRL+/
+View keyboard shortcuts.
+
+CTRL+ALT+J
+Open the Apply Command dialog.
+
+ESC
+Switch focus between the board and the search box.
+
+SPACE
+Toggle the selection of the current card.
+
+F2
+Open the current card in edit mode.
+
+F3
+Open the current card in view mode.
+
+F4
+Edit the estimation for the current card.
+
+DEL
+Remove the selected cards from the board.
+
+LEFT
+Set focus to the card on the left.
+
+RIGHT
+Set focus to the card on the right.
+
+UP
+Set focus to the card above the current card.
+
+DOWN
+Set focus to the card below the current card.
+
+HOME
+Set focus to the first card that is visible on the board.
+
+END
+Set focus to the last card that is visible on the board.
+
+CTRL+LEFT
+Move the current card to the left.
+
+CTRL+RIGHT
+Move the current card to the right.
+
+CTRL+UP
+Move the current card up.
+
+CTRL+DOWN
+Move the current card down.
+
+CTRL+M
+Assign the current card to yourself.
+
+CTRL+ALT+SHIFT+INS
+Add an issue as a new swimlane.
+
+CTRL+SHIFT+|
+Expand or collapse all swimlanes.
+
+CTRL+ALT+A
+Open a dialog to locate and attach files.
+
+ALT+INS
+Add a card to the board.
+
+CTRL+ALT+INS
+Create a subtask for the current card.
+
+CTRL+SHIFT+BACKSPACE
+Toggle backlog visibility.
+
+TAB
+Select the next custom field to the right.
+
+SHIFT+TAB
+Select the next custom field to the left.
+
+CTRL+SHIFT+!
+Open your personal list of Saved Searches and Tags. Press Esc to close.
+
+CTRL+ALT+K
+Open the Apply Command dialog with the most recent command in the input field.
+
+CTRL+C
+Copy the issue ID for the current card to the clipboard.
+
+CTRL+ALT+SHIFT+C
+Copy the issue ID and summary for the current card to the clipboard.
+
+CTRL+ALT+D
+Switch to TV mode. Press Esc to exit.
+
+CTRL+/
+View keyboard shortcuts.
+
+CTRL+ENTER
+Save widget.
+
+ALT+SHIFT+INS OR CTRL+ALT+N
+Open the Add widget menu.
+
+ALT+SHIFT+N
+Create new dashboard.
+
+SHIFT+LEFT
+View previous dashboard.
+
+SHIFT+RIGHT
+View next dashboard.
+
+SHIFT+DOWN
+Open dashboards list.
+
+LEFT
+Select the widget to the left of the current widget.
+
+RIGHT
+Select the widget to the right of the current widget.
+
+UP
+Select the widget above the current widget.
+
+DOWN
+Select the widget below the current widget.
+
+E
+Open the widget menu.
+
+ESC
+Deselect widget.
+
+ALT+SHIFT+R
+Refresh all widgets.
+
+CTRL+ALT+T
+Toggle preview in Markdown Notes widget.
+
+CTRL+/
+View keyboard shortcuts.
+
+ALT+C
+Select the crop tool.
+
+ALT+B
+Select the brush tool. Drag to draw a line on the image.
+
+ALT+H
+Select the highlight tool.
+
+ALT+T
+Select the text tool.
+
+ALT+U
+Select the blur tool. Drag to select an area to blur on the image.
+
+CTRL
+Hold down to draw straight line with the brush tool.
+
+ALT+L
+Revert all changes to the image.
+
+CTRL+Z
+Undo the previous action.
+
+CTRL+SHIFT+Z
+Redo the previous action.
+
+DEL
+Remove the selected element. Available in YouTrack Lite.

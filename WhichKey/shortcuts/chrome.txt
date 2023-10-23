@@ -1,0 +1,182 @@
+CTRL+N
+Open a new window
+
+CTRL+SHIFT+N
+Open a new window in Incognito mode
+
+CTRL+T
+Open a new tab, and jump to it
+
+CTRL+SHIFT+T
+Reopen previously closed tabs in the order they were closed
+
+CTRL+TAB
+Jump to the next open tab
+
+CTRL+SHIFT+TAB
+Jump to the previous open tab
+
+CTRL+3
+Jump to third tab
+
+CTRL+9
+Jump to the last tab
+
+ALT+LEFT
+Open the previous page from your browsing history in the current tab
+
+ALT+RIGHT
+Open the next page from your browsing history in the current tab
+
+CTRL+W
+Close the current tab
+
+ALT+F4
+Close the current window
+
+ALT+SPACE  N
+Minimize the current window
+
+ALT+F  X
+Quit Google Chrome
+
+CTRL+SHIFT+A
+Tab search
+
+ALT+F
+Open the Chrome menu
+
+CTRL+SHIFT+B
+Show or hide the Bookmarks bar
+
+CTRL+SHIFT+O
+Open the Bookmarks Manager
+
+CTRL+H
+Open the History page in a new tab
+
+CTRL+J
+Open the Downloads page in a new tab
+
+SHIFT+ESC
+Open the Chrome Task Manager
+
+ALT+SHIFT+T
+Set focus on the first item in the Chrome toolbar
+
+F10
+Set focus on the rightmost item in the Chrome toolbar
+
+F6
+Cycle focus to unfocused dialog (if showing) and all toolbars
+
+CTRL+F
+Open the Find Bar to search the current page
+
+ENTER OR CTRL+G
+Jump to the next match to your Find Bar search
+
+SHIFT+ENTER OR CTRL+SHIFT+G
+Jump to the previous match to your Find Bar search
+
+N/A
+When Find Bar is open, search for selected text
+
+CTRL+SHIFT+J
+Open Developer Tools
+
+CTRL+SHIFT+DEL
+Open the Clear Browsing Data options
+
+F1
+Open the Chrome Help Center in a new tab
+
+CTRL+SHIFT+M
+Log in as a different user, browse as a Guest, or access payment and password info
+
+N/A
+Jump to the main menu bar
+
+ALT+SHIFT+I
+Open a feedback form
+
+CTRL+L
+Jump to the address bar
+
+CTRL+K
+Search the web from anywhere on the page
+
+CTRL+F5
+Move cursor to the address bar
+
+CTRL+P
+Open options to print the current page
+
+CTRL+S
+Open options to save the current page
+
+F5
+Reload the current page
+
+SHIFT+F5
+Reload the current page, ignoring cached content
+
+ESC
+Stop the page loading
+
+TAB
+Browse clickable items moving forward
+
+SHIFT+TAB
+Browse clickable items moving backward
+
+CTRL+O
+Open a file from your computer in Chrome
+
+CTRL+U
+Display non-editable HTML source code for the current page
+
+CTRL+D
+Save your current webpage as a bookmark
+
+CTRL+SHIFT+D
+Save all open tabs as bookmarks in a new folder
+
+F11
+Turn full-screen mode on or off
+
+CTRL+PLUS
+Make everything on the page bigger
+
+CTRL+-
+Make everything on the page smaller
+
+CTRL+0
+Return everything on the page to default size
+
+SPACE
+Scroll down a webpage, a screen at a time
+
+SHIFT+SPACE
+Scroll up a webpage, a screen at a time
+
+HOME
+Go to the top of the page
+
+END
+Go to the bottom of the page
+
+CTRL+LEFT
+Move your cursor to the beginning of the previous word in a text field
+
+CTRL+RIGHT
+Move your cursor to the next word
+
+CTRL+BACKSPACE
+Delete the previous word in a text field
+
+ALT+HOME
+Open the Home page in the current tab
+
+CTRL+0
+Reset page zoom level

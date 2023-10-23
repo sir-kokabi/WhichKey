@@ -1,0 +1,425 @@
+BACKSPACE
+Go Up
+
+DEL
+Delete
+
+F2
+Inline Rename
+
+ALT+ENTER
+Properties
+
+CTRL+-
+Zoom Out
+
+CTRL+0
+Zoom Reset
+
+CTRL+=
+Zoom In
+
+CTRL+BACKSPACE
+Go Root
+
+CTRL+F4
+Close Tab
+
+CTRL+F5
+Refresh Thumbnails
+
+CTRL+LEFT
+Previous Tab
+
+CTRL+NUM*
+Restore Filter
+
+CTRL+NUM_PLUS
+Autosize Columns
+
+CTRL+PAGEDOWN
+Next Tab
+
+CTRL+PAGEUP
+Previous Tab
+
+CTRL+RIGHT
+Next Tab
+
+SHIFT+DEL
+Delete Force
+
+SHIFT+ENTER
+Path Entry
+
+SHIFT+ESC
+Close Lister
+
+SHIFT+F5
+Refresh Thumbnails
+
+CTRL+SHIFT+8
+Restore Filter
+
+CTRL+SHIFT+LEFT
+Previous Tab (Dest)
+
+CTRL+SHIFT+PAGEDOWN
+Next Tab (Dest)
+
+CTRL+SHIFT+PAGEUP
+Previous Tab (Dest)
+
+CTRL+SHIFT+RIGHT
+Next Tab (Dest)
+
+BROWSER_BACK
+Back
+
+BROWSER_FOR WARD
+Forward
+
+BROWSER_REFRESH
+Refresh
+
+CTRL+SHIFT+BROWSER_BACK
+Previous Tab
+
+CTRL+SHIFT+BROWSER_FOR WARD
+Next Tab
+
+META+SHIFT+E
+New Lister
+
+BACKSPACE OR PAGEUP
+Previous Picture
+
+END
+Last Picture
+
+HOME
+First Picture
+
+SPACE OR PAGEDOWN
+Next Picture
+
+DEL OR SHIFT+DEL
+Delete
+
+F
+Fit To Page
+
+F1
+Help
+
+F2
+Rename
+
+F5
+Refresh
+
+F9
+Edit Metadata
+
+F10
+Show Information
+
+G
+Grow To Page
+
+H
+Flip Horizontally
+
+L
+Rotate Left
+
+M OR INS
+Mark
+
+O OR NUM*
+Original Size
+
+R
+Rotate Right
+
+S
+Slideshow
+
+V
+Flip Vertically
+
+ALT+ENTER
+Full Screen
+
+CTRL+1
+25%
+
+CTRL+2
+50%
+
+CTRL+3
+75%
+
+CTRL+4
+150%
+
+CTRL+5
+200%
+
+CTRL+6
+300%
+
+CTRL+7
+400%
+
+CTRL+8
+800%
+
+CTRL+A
+Select All
+
+CTRL+B
+Status Bar
+
+CTRL+C
+Copy
+
+CTRL+DOWN
+Last Marked
+
+CTRL+I
+Convert Image...
+
+CTRL+L
+Control Bar
+
+CTRL+LEFT
+Previous Marked
+
+CTRL+M
+Show Marked Pictures Pane
+
+CTRL+N
+Menu Bar
+
+CTRL+O
+Open...
+
+CTRL+P
+Print...
+
+CTRL+R
+Crop
+
+CTRL+RIGHT
+Next Marked
+
+CTRL+S
+Save
+
+CTRL+SPACE
+Return from "Go"
+
+CTRL+UP
+First Marked
+
+CTRL+V
+Move To...
+
+CTRL+X
+Cut File
+
+CTRL+Y
+Copy To...
+
+CTRL+Z
+Undo
+
+SHIFT+A
+Hide Alpha Channel
+
+SHIFT+M
+Exchange Mark
+
+SHIFT+NUM*
+Reset
+
+SHIFT+NUM_PLUS
+Increase
+
+SHIFT+NUM-
+Decrease
+
+SHIFT+R
+Reselect
+
+SHIFT+X
+View As Hex
+
+CTRL+SHIFT+S
+Save As...
+
+- OR NUM-
+Zoom Out
+
+0
+0°
+
+1
+90°
+
+2
+180°
+
+3
+270°
+
+NUM_PLUS OR=
+Zoom In
+
+F1
+Help
+
+F3
+Search
+
+F4 OR ALT+D OR CTRL+L
+Location
+
+F5
+Refresh
+
+F6
+Dual Display
+
+F7
+Viewer Pane
+
+F8
+Folder Tree
+
+F9
+Metadata Pane
+
+ALT+LEFT
+Back
+
+ALT+RIGHT
+Forward
+
+CTRL+1
+Copy Files
+
+CTRL+2
+Move
+
+CTRL+3
+Rename
+
+CTRL+4
+Archive Files
+
+CTRL+A
+Select All
+
+CTRL+B
+Attributes
+
+CTRL+C
+Copy
+
+CTRL+D
+Add To Favorites
+
+CTRL+E
+Open New Lister
+
+CTRL+F
+Find Files
+
+CTRL+H
+New Archive...
+
+CTRL+I
+Invert Selection
+
+CTRL+K
+Calculate Folder Sizes
+
+CTRL+M
+Edit Metadata
+
+CTRL+N
+New Folder
+
+CTRL+O
+New Text Document
+
+CTRL+P
+Description
+
+CTRL+Q
+FTP Connect...
+
+CTRL+S
+Select by Pattern
+
+CTRL+T
+New Tab for Current
+
+CTRL+U
+Find Duplicate Files
+
+CTRL+V
+Paste
+
+CTRL+W
+Close Tab
+
+CTRL+X
+Cut
+
+CTRL+Y
+Synchronize
+
+CTRL+Z
+Undo
+
+SHIFT+F8
+Dual Folder Tree
+
+CTRL+SHIFT+1
+Copy As
+
+CTRL+SHIFT+2
+Move As
+
+CTRL+SHIFT+4
+Files to Separate Archives
+
+CTRL+SHIFT+A
+Admin
+
+CTRL+SHIFT+C
+Copy Full Pathnames
+
+CTRL+SHIFT+D
+Details
+
+CTRL+SHIFT+H
+Details+Thumbnails
+
+CTRL+SHIFT+M
+Thumbnails
+
+CTRL+SHIFT+N
+Copy File Names
+
+CTRL+SHIFT+Q
+Edit Address Book...
+
+CTRL+SHIFT+T
+New Tabs for Selected
+
+CTRL+SHIFT+W
+Undo Close Tab

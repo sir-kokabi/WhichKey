@@ -1,0 +1,257 @@
+F1
+Help
+
+SHIFT+F1
+Context Sensitive Help
+
+B
+Paths
+
+O
+Color Picker
+
+Z
+Zoom
+
+SHIFT+M
+Measure
+
+T
+Text
+
+CTRL+B
+Toolbox
+
+D
+Default Colors (black foreground, white background)
+
+X
+Swap Colors
+
+CTRL+N
+New Image
+
+CTRL+SHIFT+V
+Create a new Image from Clipboard
+
+CTRL+O
+Open Image
+
+CTRL+ALT+O
+Open as Layers
+
+CTRL+S
+Save Image
+
+CTRL+SHIFT+S
+Save As
+
+CTRL+P
+Print
+
+CTRL+W
+Close
+
+CTRL+SHIFT+W
+Close All
+
+CTRL+Q
+Quit
+
+CTRL+Z
+Undo
+
+CTRL+Y
+Redo
+
+CTRL+X
+Cut
+
+CTRL+C
+Copy
+
+CTRL+SHIFT+C
+Copy Visible
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+V
+Past as New Image
+
+DEL
+Clear
+
+CTRL+,
+Fill with FG Color
+
+CTRL+.
+Fill with BG Color
+
+CTRL+;
+Fill with Pattern
+
+CTRL+A
+Select All
+
+CTRL+SHIFT+A
+Select None
+
+CTRL+I
+Invert Selection
+
+CTRL+T
+Toggle Selection
+
+SHIFT+V
+Path to selection
+
+CTRL+SHIFT+L
+Float Selection
+
+SHIFT+O
+Select by Color
+
+SHIFT+V
+Select from Path
+
+SHIFT+Q
+Toggle Quick Mask
+
+CTRL+E
+Shrink Wrap - Reduce image window to size of image
+
+F11
+Toggle Fullscreen View
+
+CTRL+T
+Show Selection
+
+CTRL+SHIFT+T
+Show Guides
+
+CTRL+SHIFT+R
+Show Rulers
+
+CTRL+D
+Duplicate Image
+
+CTRL+M
+Merge Visible Layers
+
+ALT+ENTER
+Display Image Properties
+
+CTRL+SHIFT+N
+New Layer
+
+CTRL+SHIFT+D
+Duplicate Layer
+
+CTRL+H
+Anchor Layer
+
+PAGEUP
+Select previous layer
+
+PAGEDOWN
+Select next layer
+
+HOME
+Select Top layer
+
+END
+Select bottom layer
+
+R
+Rectangle Select
+
+E
+Ellipse Select
+
+F
+Free Select
+
+U
+Fuzzy Select
+
+SHIFT+O
+Select by Color
+
+I
+Intelligent Scissors
+
+SHIFT+B
+Bucket Fill
+
+L
+Blend
+
+N
+Pencil
+
+P
+Paintbrush
+
+SHIFT+E
+Eraser
+
+A
+Airbrush
+
+K
+Ink
+
+C
+Clone
+
+H
+Heal
+
+SHIFT+U
+Blur / Sharpen
+
+S
+Smudge
+
+SHIFT+D
+Dodge / Burn
+
+Q
+Align
+
+M
+Move
+
+SHIFT+C
+Crop
+
+SHIFT+R
+Rotate
+
+SHIFT+T
+Scale
+
+SHIFT+S
+Shear
+
+SHIFT+P
+Perspective
+
+SHIFT+F
+Flip
+
+CTRL+L
+Layers
+
+CTRL+SHIFT+B
+Brushes
+
+CTRL+SHIFT+P
+Patterns
+
+CTRL+G
+Gradients
+
+CTRL+B
+Toolbox

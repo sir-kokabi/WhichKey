@@ -1,0 +1,1374 @@
+CTRL+T
+Free Transform
+
+`
+Toggle between painting and erasing with the same brush
+
+[
+Decrease Brush Size
+
+]
+Increase Brush Size
+
+{
+Decrease Brush Hardness
+
+}
+Increase Brush Hardness
+
+LEFT OR RIGHT
+Rotate the brush tip by 1 degree
+
+SHIFT+LEFT OR SHIFT+RIGHT
+Rotate the brush tip by 15 degrees
+
+D
+Default Foreground/Background colors
+
+X
+Switch Foreground/Background colors
+
+ALT+CLICK
+Fit layer(s) to screen
+
+CTRL+J
+New layer via copy
+
+CTRL+SHIFT+J
+New layer via cut
+
+SHIFT+DRAG
+Add to a selection
+
+ALT+CLICK
+Delete brush or swatch
+
+CTRL+CLICK
+Toggle auto-select with the move tool
+
+CTRL+ALT+P
+Close all open documents other than the current document
+
+ESC
+Cancel any modal dialog window (including the Start Workspace)
+
+ENTER
+Select the first edit field of the toolbar
+
+TAB
+Navigate between fields
+
+SHIFT+TAB
+Navigate between fields in the opposite direction
+
+ALT
+Change Cancel to Reset
+
+CTRL+F
+Search across Photoshop
+
+F1
+Start Help
+
+N/A
+Undo/Redo
+
+F2
+Cut
+
+F3
+Copy
+
+F4
+Paste
+
+F5
+Show/Hide Brush panel
+
+F6
+Show/Hide Color panel
+
+F7
+Show/Hide Layers panel
+
+F8
+Show/Hide Info panel
+
+F9
+Show/Hide Actions panel
+
+F12
+Revert
+
+SHIFT+F5
+Fill
+
+SHIFT+F6
+Feather Selection
+
+SHIFT+F7
+Inverse Selection
+
+SHIFT+KEY
+Cycle through tools with the same shortcut key
+
+ALT+CLICK
+Cycle through hidden tools
+
+V
+Move tool
+
+M
+Rectangular Marquee tool† / Elliptical Marquee tool
+
+L
+Lasso tool / Polygonal Lasso tool / Magnetic Lasso tool
+
+W
+Magic Wand tool / Quick Selection tool
+
+C
+Crop tool / Slice tool / Slice Select tool
+
+I
+Eyedropper tool / Color Sampler tool / Ruler tool / Note tool
+
+J
+Spot Healing Brush tool / Healing Brush tool / Patch tool / Red Eye tool
+
+B
+Brush tool / Pencil tool / Color Replacement tool / Mixer Brush tool
+
+S
+Clone Stamp tool / Pattern Stamp tool
+
+Y
+History Brush tool / Art History Brush tool
+
+E
+Eraser tool / Background Eraser tool / Magic Eraser tool
+
+G
+Gradient tool / Paint Bucket tool
+
+O
+Dodge tool / Burn tool / Sponge tool
+
+P
+Pen tool / Freeform Pen tool
+
+T
+Type tools
+
+A
+Path Selection tool / Direct Selection tool
+
+U
+Shape tools
+
+H
+Hand tool
+
+R
+Rotate View tool
+
+Z
+Zoom tool
+
+D
+Default Foreground/Background colors
+
+X
+Switch Foreground/Background colors
+
+Q
+Toggle Standard/Quick Mask modes
+
+J
+Content-Aware Move tool
+
+C
+Perspective Crop tool
+
+V
+Artboard tool
+
+R
+Rotate View tool
+
+/
+Toggle Preserve Transparency
+
+{
+Decrease Brush Hardness
+
+}
+Increase Brush Hardness
+
+,
+Previous Brush
+
+.
+Next Brush
+
+<
+First Brush
+
+>
+Last Brush
+
+CTRL+TAB
+Cycle through open documents
+
+CTRL+SHIFT+TAB
+Switch to previous document
+
+CTRL+SHIFT+W
+Close a file in Photoshop and open Bridge
+
+Q
+Toggle between Standard mode and Quick Mask mode
+
+F
+Toggle screen modes
+
+SHIFT+F
+Toggle screen modes backward
+
+SPACE+F
+Toggle (forward) canvas color
+
+SHIFT+SPACE+F
+Toggle (backward) canvas color
+
+CTRL+1
+Magnify 100%
+
+SPACE
+Switch to Hand tool (when not in text-edit mode)
+
+SHIFT+DRAG
+Simultaneously pan multiple documents with Hand tool
+
+CTRL+SPACE
+Switch to Zoom In tool
+
+ALT+SPACE
+Switch to Zoom Out tool
+
+SPACE+DRAG
+Move Zoom marquee while dragging with the Zoom tool
+
+SHIFT+ENTER
+Apply zoom percentage, and keep zoom percentage box active
+
+CTRL+DRAG
+Zoom in on specified area of an image
+
+SPACE+DRAG
+Scroll image with Hand tool
+
+UP
+Scroll 1 page up
+
+DOWN
+Scroll 1 page down
+
+CTRL+UP
+Scroll left 1 screen
+
+CTRL+DOWN
+Scroll right 1 screen
+
+SHIFT+PAGEUP
+Scroll up 10 units
+
+SHIFT+PAGEDOWN
+Scroll down 10 units
+
+CTRL+SHILFT+PAGEUP
+Scroll left 10 units
+
+CTRL+SHIFT+PAGEDOWN
+Scroll right 10 units
+
+HOME
+Move view to upper-left corner
+
+END
+Move view to lower-right corner
+
+\
+Toggle layer mask on/off as rubylith (layer mask must be selected)
+
+ESC
+Cancel completely
+
+CTRL+Z
+Undo last pin adjustment
+
+CTRL+A
+Select all pins
+
+CTRL+D
+Deselect all pins
+
+SHIFT+CLICK
+Select multiple pins
+
+SHIFT+DRAG
+Move multiple selected pins
+
+H
+Temporarily hide pins
+
+CTRL+ALT+R
+Open the Select and Mask workspace
+
+F
+Cycle (forward) through preview modes
+
+SHIFT+F
+Cycle (backward) through preview modes
+
+X
+Toggle between original image and selection preview
+
+P
+Toggle between original selection and refined version
+
+J
+Toggle radius preview on and off
+
+ALT+CLICK
+Apply a new filter on top of selected
+
+CTRL+ALT+F
+Reapply last-used filter
+
+ALT+CLICK
+Open/close all disclosure triangles
+
+CTRL
+Change Cancel button to Default
+
+ALT
+Change Cancel button to Reset
+
+CTRL+Z
+Undo/Redo
+
+CTRL+SHIFT+Z
+Step forward
+
+CTRL+ALT+Z
+Step backward
+
+W
+Forward Warp tool
+
+R
+Reconstruct tool
+
+C
+Twirl Clockwise tool
+
+S
+Pucker tool
+
+B
+Bloat tool
+
+O
+Push Left tool
+
+M
+Mirror tool
+
+T
+Turbulence tool
+
+F
+Freeze Mask tool
+
+D
+Thaw Mask tool
+
+ALT+TOOL
+Reverse direction for Bloat, Pucker, Push Left, and Mirror tools
+
+DOWN
+Decrease brush size by 2, or density, pressure, rate, or turbulent jitter by 1
+
+UP
+Increase brush size by 2, or density, pressure, rate, or turbulent jitter by 1
+
+LEFT
+Decrease brush size by 2, or density, pressure, rate, or turbulent jitter by 1
+
+RIGHT
+Increase brush size by 2, or density, pressure, rate, or turbulent jitter by 1
+
+TAB
+Cycle through controls on right from top
+
+SHIFT+TAB
+Cycle through controls on right from bottom
+
+ALT
+Change Cancel to Reset
+
+X
+Zoom 2x (temporary)
+
+CTRL+PLUS
+Zoom in
+
+CTRL+-
+Zoom out
+
+]
+Increase brush size (Brush, Stamp tools)
+
+[
+Decrease brush size (Brush, Stamp tools)
+
+SHIFT+]
+Increase brush hardness (Brush, Stamp tools)
+
+SHIFT+[
+Decrease brush hardness (Brush, Stamp tools)
+
+CTRL+Z
+Undo last action
+
+CTRL+SHIFT+Z
+Redo last action
+
+CTRL+D
+Deselect all
+
+CTRL+H
+Hide selection and planes
+
+UP OR DOWN OR LEFT OR RIGHT
+Move selection 1 pixel
+
+SHIFT+UP OR SHIFT+DOWN OR SHIFT+LEFT OR SHIFT+RIGHT
+Move selection 10 pixels
+
+CTRL+C
+Copy
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+T
+Repeat last duplicate and move
+
+CTRL+ALT+T
+Create a floating selection from the current selection
+
+CTRL+DRAG
+Fill a selection with image under the pointer
+
+CTRL+ALT+DRAG
+Create a duplicate of the selection as a floating selection
+
+ALT+SHIFT
+Constrain selection to a 15° rotation
+
+CTRL+CLICK+DRAG
+Select a plane under another selected plane
+
+CTRL+DRAG
+Create 90° plane off parent plane
+
+BACKSPACE
+Delete last node while creating plane
+
+Z
+Zoom tool
+
+H
+Hand tool
+
+I
+White Balance tool
+
+S
+Color Sampler tool
+
+C
+Crop tool
+
+A
+Straighten tool
+
+B
+Spot Removal tool
+
+E
+Red Eye Removal tool
+
+CTRL+ALT+1
+Basic panel
+
+CTRL+ALT+2
+Tone Curve panel
+
+CTRL+ALT+3
+Detail panel
+
+CTRL+ALT+4
+HSL/Grayscale panel
+
+CTRL+ALT+5
+Split Toning panel
+
+CTRL+ALT+6
+Lens Corrections panel
+
+CTRL+ALT+7
+Camera Calibration panel
+
+CTRL+ALT+9
+Presets panel
+
+CTRL+ALT+9
+Open Snapshots panel
+
+CTRL+ALT+SHIFT+T
+Parametric Curve Targeted Adjustment tool
+
+CTRL+ALT+SHIFT+H
+Hue Targeted Adjustment tool
+
+CTRL+ALT+SHIFT+S
+Saturation Targeted Adjustment tool
+
+CTRL+ALT+SHIFT+L
+Luminance Targeted Adjustment tool
+
+CTRL+ALT+SHIFT+G
+Grayscale Mix Targeted Adjustment tool
+
+T
+Last-used Targeted Adjustment tool
+
+K
+Adjustment Brush tool
+
+G
+Graduated Filter tool
+
+]
+Increase brush size
+
+[
+Decrease brush size
+
+SHIFT+]
+Increase brush feather
+
+SHIFT+[
+Decrease brush feather
+
+ALT
+Temporarily switch between Add and Erase modes for Adjustment Brush
+
+ALT+]
+Increase temporary Adjustment Brush tool size
+
+ALT+[
+Decrease temporary Adjustment Brush tool size
+
+ALT+SHIFT+]
+Increase temporary Adjustment Brush tool feather
+
+ALT+SHIFT+[
+Decrease temporary Adjustment Brush tool feather
+
+ALT+=
+Increase temporary Adjustment Brush tool flow in increments of 10
+
+ALT+-
+Decrease temporary Adjustment Brush tool flow in increments of 10
+
+N
+Switch to New mode from Add or Erase mode
+
+M
+Toggle Auto Mask for Adjustment Brush tool
+
+Y
+Toggle Show Mask for Adjustment Brush tool
+
+V
+Toggle pins for Adjustment Brush tool
+
+V
+Toggle overlay for Graduated Filter, Spot Removal tool, or Red Eye Removal tool.
+
+L OR CTRL+]
+Rotate image left
+
+R OR CTRL+[
+Rotate image right
+
+CTRL+PLUS
+Zoom in
+
+CTRL+-
+Zoom out
+
+CTRL
+Temporarily switch to Zoom In tool
+
+ALT
+Temporarily switch to Zoom Out tool
+
+P
+Toggle preview
+
+F
+Full screen mode
+
+SHIFT
+Temporarily activate White Balance tool
+
+SHIFT+CLICK
+Select multiple points in Curves panel
+
+CTRL+CLICK
+Add point to curve in Curves panel
+
+UP OR DOWN OR LEFT OR RIGHT
+Move selected point in Curves panel (1 unit)
+
+SHIFT+UP OR SHIFT+DOWN OR SHIFT+LEFT OR SHIFT+RIGHT
+Move selected point in Curves panel (10 units)
+
+CTRL+R
+Open selected images in Camera Raw dialog box from Bridge
+
+ALT+DRAG
+Display highlights that will be clipped in Preview
+
+O
+Highlight clipping warning
+
+U
+Shadows clipping warning
+
+CTRL+1  -  5
+(Filmstrip mode) Add 1 - 5 star rating
+
+CTRL+.
+(Filmstrip mode) Increase rating
+
+CTRL+,
+Decrease rating
+
+CTRL+6
+(Filmstrip mode) Add red label
+
+CTRL+7
+(Filmstrip mode) Add yellow label
+
+CTRL+8
+(Filmstrip mode) Add green label
+
+CTRL+9
+(Filmstrip mode) Add blue label
+
+CTRL+SHIFT+0
+(Filmstrip mode) Add purple label
+
+CTRL+K
+Camera Raw preferences
+
+CTRL+ALT
+Deletes Adobe Camera Raw preferences
+
+CTRL+ALT+SHIFT+B
+Open the Black-and-White dialog box
+
+UP
+Increase selected value by 1%
+
+DOWN
+Decrease selected value by 1%
+
+SHIFT+UP
+Increase selected value by 10%
+
+SHIFT+DOWN
+Decrease selected value by 10%
+
+CLICK+DRAG
+Change the values of the closest color slider
+
+CTRL+M
+Open the Curves dialog box
+
+-
+Select the previous point on the curve
+
+SHIFT+CLICK
+Select multiple points on the curve
+
+CTRL+D
+Deselect a point
+
+SELECT+DEL
+To delete a point on the curve
+
+UP OR DOWN OR LEFT OR RIGHT
+Move the selected point 1 unit
+
+SHIFT+UP OR SHIFT+DOWN OR SHIFT+LEFT OR SHIFT+RIGHT
+Move the selected point 10 units
+
+ALT+DRAG  BLACK OR WHITE
+Display highlights and shadows that will be clipped
+
+CTRL+CLICK
+Set a point to the composite curve
+
+CTRL+SHIFT+CLICK
+Set a point to the channel curves
+
+ALT+CLICK
+Toggle grid size
+
+SPACE+DRAG
+Reposition marquee while selecting
+
+SHIFT+SELECTION+DRAG
+Add to a selection
+
+ALT+SELECTION+DRAG
+Subtract from a selection
+
+ALT+SHIFT+SELECTION+DRAG
+Intersect a selection
+
+SHIFT+DRAG
+ALT+DRAG
+Draw marquee from center
+
+ALT+SHIFT+DRAG
+Constrain shape and draw marquee from center
+
+CTRL
+Switch to Move tool
+
+ALT+DRAG
+Switch from Magnetic Lasso tool to Lasso tool
+
+ALT+CLICK
+Switch from Magnetic Lasso tool to polygonal Lasso tool
+
+ENTER OR CTRL+.
+Apply an operation of the Magnetic Lasso
+
+ESC
+Cancel an operation of the Magnetic Lasso
+
+ALT+DRAG
+Move copy of selection
+
+CTRL+UP OR CTRL+DOWN OR CTRL+RIGHT OR CTRL+LEFT
+Move layer 1 pixel when nothing selected on layer
+
+/
+Toggle crop shield off and on
+
+SHIFT+DRAG
+Snap guide to ruler ticks
+
+ALT+DRAG
+Convert between horizontal and vertical guide
+
+ALT
+Transform from the center or reflect
+
+SHIFT
+Constrain
+
+CTRL
+Distort
+
+ENTER
+Apply
+
+CTRL+. OR ESC
+Cancel
+
+CTRL+ALT+T
+Free transform with duplicate data
+
+CTRL+ALT+SHIFT+T
+Transform again with duplicate data
+
+ALT+SHIFT+NUMBER
+Mixer Brush changes Mix setting
+
+NUMBER
+Mixer Brush changes Wet setting
+
+0
+Mixer Brush changes Wet and Mix to zero
+
+SHIFT+PLUS OR SHIFT+-
+Cycle through blending modes
+
+BACKSPACE OR SHIFT+BACKSPACE
+Open Fill dialog box on the background or standard layer
+
+ALT+BACKSPACE OR CTRL+BACKSPACE
+Fill with foreground or background color
+
+CTRL+ALT+BACKSPACE
+Fill from history
+
+SHIFT+BACKSPACE
+Displays Fill dialog box
+
+/
+Lock transparent pixels on/off
+
+SHIFT+PLUS OR-
+Cycle through blending modes
+
+ALT+SHIFT+N
+Normal
+
+ALT+SHIFT+I
+Dissolve
+
+ALT+SHIFT+Q
+Behind (Brush tool only)
+
+ALT+SHIFT+R
+Clear (Brush tool only)
+
+ALT+SHIFT+K
+Darken
+
+ALT+SHIFT+M
+Multiply
+
+ALT+SHIFT+B
+Color Burn
+
+ALT+SHIFT+A
+Linear Burn
+
+ALT+SHIFT+G
+Lighten
+
+ALT+SHIFT+S
+Screen
+
+ALT+SHIFT+D
+Color Dodge
+
+ALT+SHIFT+W
+Linear Dodge
+
+ALT+SHIFT+O
+Overlay
+
+ALT+SHIFT+F
+Soft Light
+
+ALT+SHIFT+H
+Hard Light
+
+ALT+SHIFT+V
+Vivid Light
+
+ALT+SHIFT+J
+Linear Light
+
+ALT+SHIFT+Z
+Pin Light
+
+ALT+SHIFT+L
+Hard Mix
+
+ALT+SHIFT+E
+Difference
+
+ALT+SHIFT+X
+Exclusion
+
+ALT+SHIFT+U
+Hue
+
+ALT+SHIFT+T
+Saturation
+
+ALT+SHIFT+C
+Color
+
+ALT+SHIFT+Y
+Luminosity
+
+ALT+SHIFT+D
+Desaturate
+
+ALT+SHIFT+S
+Saturate
+
+ALT+SHIFT+S
+Dodge/burn shadows
+
+ALT+SHIFT+M
+Dodge/burn midtones
+
+ALT+SHIFT+H
+Dodge/burn highlights
+
+ALT+SHIFT+N
+Set blending mode to Threshold for bitmap images, Normal for all other images
+
+CTRL+DRAG
+Move type in image
+
+SHIFT+UP OR SHIFT+DOWN OR SHIFT+LEFT OR SHIFT+RIGHT
+Select 1 character left/right or 1 line down/up
+
+CTRL+SHIFT+LEFT OR CTRL+SHIFT+RIGHT
+Select 1 word left/right
+
+SHIFT+CLICK
+Select characters from insertion point to mouse click point
+
+UP OR DOWN OR LEFT OR RIGHT
+Move 1 character left/right, 1 line down/up
+
+CTRL+LEFT OR CTRL+RIGHT
+Move 1 word left/right
+
+SHIFT+CLICK
+Create a new text layer, when a text layer is selected in the Layers panel
+
+CTRL+H
+Show/Hide selection on selected type
+
+CTRL
+Display the bounding box for transforming text when editing text
+
+CTRL+DRAG
+Scale text within a bounding box when resizing the bounding box
+
+SPACE+DRAG
+Move text box while creating text box
+
+CTRL+SHIFT+X
+Choose 100% horizontal scale
+
+CTRL+ALT+SHIFT+X
+Choose 100% vertical scale
+
+CTRL+ALT+SHIFT+A
+Choose Auto leading
+
+CTRL+SHIFT+Q
+Choose 0 for tracking
+
+CTRL+SHIFT+J
+Justify paragraph, left aligns last line
+
+CTRL+SHIFT+F
+Justify paragraph, justifies all
+
+CTRL+ALT+SHIFT+H
+Toggle paragraph hyphenation on/off
+
+CTRL+ALT+SHIFT+T
+Toggle single/every-line composer on/off
+
+CTRL+SHIFT+<
+Increase type size of selected text 2 points or pixels
+
+CTRL+SHIFT+>
+Decrease type size of selected text 2 points or pixels
+
+ALT+UP
+Increase leading 2 points or pixels
+
+ALT+DOWN
+Decrease leading 2 points or pixels
+
+ALT+SHIFT+UP
+Increase baseline shift 2 points or pixels
+
+ALT+SHIFT+DOWN
+Decrease baseline shift 2 points or pixels
+
+ALT+RIGHT
+Increase kerning/tracking 20/1000 ems
+
+ALT+LEFT
+Decrease kerning/tracking 20/1000 ems
+
+CTRL
+Toggle between Slice tool and Slice Selection tool
+
+SHIFT+DRAG
+Draw square slice
+
+ALT+DRAG
+Draw from center outward
+
+ALT+SHIFT+DRAG
+Draw square slice from center outward
+
+SPACE+DRAG
+Reposition slice while creating slice
+
+RIGHT+CLICK
+Open context-sensitive menu
+
+ALT+CLICK
+Set options for new items
+
+ALT+CLICK
+Delete without confirmation
+
+SHIFT+ENTER
+Apply value and keep text box active
+
+TAB
+Show/Hide all panels
+
+SHIFT+TAB
+Show/Hide all panels except the toolbox and options bar
+
+TOOL+ENTER
+Highlight options bar
+
+SHIFT+DOWN
+Decrease selected values by 10
+
+SHIFT+UP
+Increase selected values by 10
+
+ALT+3 OR ALT+4 OR ALT+5
+Choose specific channel for adjustment
+
+ALT+2
+Choose composite channel for adjustment
+
+DEL OR BACKSPACE
+Delete adjustment layer
+
+SHIFT+CLICK
+Select/deselect multiple contiguous frames
+
+CTRL+CLICK
+Select/deselect multiple discontiguous frames
+
+,
+Select previous brush size
+
+.
+Select next brush size
+
+SHIFT+,
+Select first brush
+
+SHIFT+.
+Select last brush
+
+ALT+SHIFT+P
+Toggle airbrush option
+
+CTRL+3 OR CTRL+4 OR CTRL+5
+Select individual channels
+
+CTRL+2
+Select composite channel
+
+CTRL+ALT+3 OR CTRL+ALT+4 OR CTRL+ALT+5
+Load channel as selection
+
+CTRL+SHIFT+CLICK
+Add to current selection
+
+CTRL+ALT+CLICK
+Subtract from current selection
+
+CTRL+ALT+SHIFT+CLICK
+Intersect with current selection
+
+ALT+CLICK
+Set options for Save Selection As Channel button
+
+CTRL+CLICK
+Create a new spot channel
+
+SHIFT+CLICK
+Select/deselect multiple color-channel selection
+
+SHIFT+CLICK
+Select/deselect alpha channel and show/hide as a rubylith overlay
+
+ALT+SHIFT
+Show Clone Source (overlays image)
+
+ALT+SHIFT+UP OR ALT+SHIFT+DOWN OR ALT+SHIFT+LEFT OR ALT+SHIFT+RIGHT
+Nudge Clone Source
+
+ALT+SHIFT+< OR ALT+SHIFT+>
+Rotate Clone Source
+
+ALT+SHIFT+[ OR ALT+SHIFT+]
+Scale (increase or reduce size) Clone Source
+
+ALT+CLICK
+Select background color
+
+RIGHT+CLICK
+Display Color Bar menu
+
+SHIFT+CLICK
+Cycle through color choices
+
+CTRL+SHIFT+Z
+Step forward through image states
+
+CTRL+ALT+Z
+Step backward through image states
+
+ALT+CLICK
+Duplicate any image state, except the current state
+
+ALT
+Permanently clear history (no Undo)
+
+CTRL+SHIFT+N
+New layer
+
+CTRL+J
+New layer via copy
+
+CTRL+SHIFT+J
+New layer via cut
+
+CTRL+G
+Group layers
+
+CTRL+SHIFT+G
+Ungroup layers
+
+CTRL+ALT+G
+Create/release clipping mask
+
+CTRL+ALT+A
+Select all layers
+
+CTRL+SHIFT+E
+Merge visible layers
+
+ALT+CLICK
+Create new empty layer with dialog box
+
+CTRL+CLICK
+Create new layer below target layer
+
+ALT+.
+Select top layer
+
+ALT+,
+Select bottom layer
+
+ALT+SHIFT+[ OR ALT+SHIFT+]
+Add to layer selection in Layers panel
+
+ALT+[
+Select next layer down
+
+ALT+]
+Select next layer up
+
+CTRL+[
+Move target layer down
+
+CTRL+]
+Move target layer up
+
+CTRL+ALT+SHIFT+E
+Merge a copy of all visible layers into target layer
+
+CTRL+E
+Merge layers
+
+CTRL+SHIFT+[
+Move layer to bottom
+
+CTRL+SHIFT+]
+Move layer to top
+
+/
+Toggle lock transparency for target layer, or last applied lock
+
+SHIFT+CLICK
+Disable/enable vector mask
+
+SHIFT+CLICK
+Toggle layer mask on/off
+
+SHIFT+CLICK
+Toggle filter mask on/off
+
+ALT+CLICK
+Toggle between layer mask/composite image
+
+ALT+CLICK
+Toggle between filter mask/composite image
+
+\ OR ALT+SHIFT+CLICK
+Toggle rubylith mode for layer mask on/off
+
+ALT+CLICK
+Create a clipping mask
+
+CTRL+CLICK
+Create new layer group below current layer/layer set
+
+ALT+CLICK
+Create new layer group with dialog box
+
+ALT+CLICK
+Create layer mask that hides all/selection
+
+CTRL+CLICK
+Create vector mask that reveals all/path area
+
+CTRL+CLICK
+Create vector mask that hides all or displays path area
+
+SHIFT+CLICK
+Select/deselect multiple contiguous layers
+
+CTRL+CLICK
+Select/deselect multiple discontiguous layers
+
+CTRL+0
+Fit in window
+
+CTRL+PLUS
+Zoom in
+
+CTRL+-
+Zoom out
+
+TAB
+Cycle through controls on right from top
+
+SHIFT+TAB
+Cycle through controls on right from bottom
+
+SPACE
+Temporarily activate Hand tool
+
+ALT
+Change Cancel to Reset
+
+B
+Edge Highlighter tool
+
+G
+Fill tool
+
+I
+Eyedropper tool
+
+C
+Cleanup tool
+
+T
+Edge Touchup tool
+
+ALT+DEL
+Remove current highlight
+
+CTRL+DEL
+Highlight entire image
+
+SHIFT+CLICK
+Fill foreground area and preview extraction
+
+CTRL+DRAG
+Move mask when Edge Touchup tool is selected
+
+ALT+DRAG
+Add opacity when Cleanup tool is selected
+
+X
+Toggle Show menu options in preview between Original and Extracted
+
+SHIFT+X
+Enable Cleanup and Edge Touchup tools before preview
+
+F
+Cycle through Display menu in preview from top to bottom
+
+SHIFT+F
+Cycle through Display menu in preview from bottom to top
+
+DOWN
+Decrease brush size by 1
+
+UP
+Increase brush size by 1
+
+LEFT
+Decrease brush size by 1
+
+RIGHT
+Increase brush size by 1
+
+0 OR 1 OR 2 OR 9
+Set strength of Cleanup or Edge Touch‑up tool
+
+CTRL+D
+Delete current selection
+
+CTRL+Z
+Undo a selection move
+
+CTRL+G
+Generate or generate again
+
+ALT+SHIFT
+Intersect with current selection
+
+X
+Toggle view: original/generated pattern
+
+HOME
+Go to first tile in Tile History
+
+END
+Go to last tile in Tile History
+
+LEFT OR UP
+Go to previous tile in Tile History
+
+RIGHT OR DOWN
+Go to next tile in Tile History
+
+DEL
+Delete current tile from Tile History
+
+RIGHT OR LEFT OR UP OR DOWN
+Nudge selection when viewing the original
+
+SHIFT+RIGHT OR SHIFT+LEFT OR SHIFT+UP OR SHIFT+DOWN
+Increase selection nudging when viewing the original

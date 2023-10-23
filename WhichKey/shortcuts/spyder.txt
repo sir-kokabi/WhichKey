@@ -1,0 +1,434 @@
+CTRL+SHIFT+F4
+Close pane
+
+CTRL+SHIFT+F5
+Lock unlock panes
+
+ALT+SHIFT+PAGEDOWN
+Use next layout
+
+ALT+SHIFT+PAGEUP
+Use previous layout
+
+CTRL+ALT+SHIFT+P
+Preferences
+
+CTRL+ALT+SHIFT+M
+Maximize pane
+
+F11
+Fullscreen mode
+
+ALT+SHIFT+S
+Save current layout
+
+ALT+SHIFT+P
+Layout preferences
+
+ALT+SHIFT+T
+Show toolbars
+
+F1
+Spyder documentation
+
+ALT+SHIFT+R
+Restart
+
+CTRL+Q
+Quit
+
+CTRL+SPACE
+Code completion
+
+CTRL+ALT+UP
+Duplicate line up
+
+CTRL+ALT+DOWN
+Duplicate line down
+
+CTRL+D
+Delete line
+
+CTRL+SHIFT+U
+Transform to uppercase
+
+CTRL+U
+Transform to lowercase
+
+CTRL+]
+Indent
+
+CTRL+[
+Unindent
+
+ALT+UP
+Move line up
+
+ALT+DOWN
+Move line down
+
+CTRL+SHIFT+ENTER
+Go to new line
+
+CTRL+G
+Go to definition
+
+CTRL+1
+Toggle comment
+
+CTRL+4
+Blockcomment
+
+CTRL+5
+Unblockcomment
+
+META+A
+Start of line
+
+META+E
+End of line
+
+META+P
+Previous line
+
+META+N
+Next line
+
+META+B
+Previous char
+
+META+F
+Next char
+
+CTRL+LEFT
+Previous word
+
+CTRL+RIGHT
+Next word
+
+META+K
+Kill to line end
+
+META+U
+Kill to line start
+
+META+Y
+Yank
+
+META+SHIFT+Y
+Rotate kill ring
+
+META+BACKSPACE
+Kill previous word
+
+META+D
+Kill next word
+
+CTRL+HOME
+Start of document
+
+CTRL+END
+End of document
+
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+CTRL+X
+Cut
+
+CTRL+C
+Copy
+
+CTRL+V
+Paste
+
+DEL
+Delete
+
+CTRL+A
+Select all
+
+CTRL+I
+Inspect current object
+
+F12
+Breakpoint
+
+SHIFT+F12
+Conditional breakpoint
+
+F9
+Run selection
+
+CTRL+L
+Go to line
+
+CTRL+SHIFT+TAB
+Go to previous file
+
+CTRL+TAB
+Go to next file
+
+CTRL+PAGEUP
+Cycle to previous file
+
+CTRL+PAGEDOWN
+Cycle to next file
+
+CTRL+N
+New file
+
+CTRL+SHIFT+T
+Open last closed
+
+CTRL+O
+Open file
+
+CTRL+S
+Save file
+
+CTRL+ALT+S
+Save all
+
+CTRL+SHIFT+S
+Save as
+
+CTRL+SHIFT+W
+Close all
+
+CTRL+ALT+SHIFT+LEFT
+Last edit location
+
+ALT+LEFT
+Previous cursor position
+
+ALT+RIGHT
+Next cursor position
+
+CTRL+ALT+SHIFT+,
+Previous warning
+
+CTRL+ALT+SHIFT+.
+Next warning
+
+CTRL+PLUS OR CTRL+=
+Zoom in
+
+CTRL+-
+Zoom out
+
+CTRL+0
+Zoom reset
+
+CTRL+W OR CTRL+F4
+Close file
+
+CTRL+ENTER
+Run cell
+
+SHIFT+ENTER
+Run cell and advance
+
+ALT+SHIFT+ENTER
+Debug cell
+
+CTRL+DOWN
+Go to next cell
+
+CTRL+UP
+Go to previous cell
+
+ALT+ENTER
+Re-run last cell
+
+CTRL+{
+Split vertically
+
+CTRL+_
+Split horizontally
+
+ALT+SHIFT+W
+Close split panel
+
+CTRL+ALT+D
+Docstring
+
+CTRL+ALT+I
+Autoformatting
+
+BLANK
+Show in external file explorer
+
+CTRL+P
+File switcher
+
+CTRL+ALT+P
+Symbol finder
+
+CTRL+F5
+Debug
+
+CTRL+F10
+Debug step over
+
+CTRL+F12
+Debug continue
+
+CTRL+F11
+Debug step into
+
+CTRL+SHIFT+F11
+Debug step return
+
+CTRL+SHIFT+F12
+Debug exit
+
+F5
+Run
+
+CTRL+F6
+Configure
+
+F6
+Re-run last script
+
+CTRL+SHIFT+H
+Switch to help
+
+CTRL+SHIFT+O
+Switch to outline_explorer
+
+CTRL+SHIFT+E
+Switch to editor
+
+CTRL+SHIFT+L
+Switch to historylog
+
+CTRL+SHIFT+D
+Switch to onlinehelp
+
+CTRL+SHIFT+P
+Switch to project_explorer
+
+CTRL+SHIFT+I
+Switch to ipython_console
+
+CTRL+SHIFT+V
+Switch to variable_explorer
+
+CTRL+SHIFT+F
+Switch to find_in_files
+
+CTRL+SHIFT+X
+Switch to explorer
+
+CTRL+SHIFT+G
+Switch to plots
+
+CTRL+SHIFT+C
+Switch to pylint
+
+CTRL+SHIFT+R
+Switch to profiler
+
+CTRL+SHIFT+B
+Switch to breakpoints
+
+CTRL+F
+Find text
+
+F3
+Find next
+
+SHIFT+F3
+Find previous
+
+CTRL+R
+Replace text
+
+ESC
+Hide find and replace
+
+CTRL+ALT+F
+Find in files
+
+CTRL+I
+Inspect current object
+
+CTRL+L
+Clear shell
+
+SHIFT+ESC
+Clear line
+
+F8
+Run analysis
+
+F10
+Run profiler
+
+CTRL+ALT+M
+Enter array inline
+
+CTRL+M
+Enter array table
+
+CTRL+C
+Copy
+
+CTRL+F
+Search
+
+CTRL+R
+Refresh
+
+CTRL+T
+New tab
+
+CTRL+ALT+R
+Reset namespace
+
+CTRL+.
+Restart kernel
+
+CTRL+C
+Copy
+
+CTRL+PAGEUP
+Previous figure
+
+CTRL+PAGEDOWN
+Next figure
+
+CTRL+S
+Save
+
+CTRL+ALT+S
+Save all
+
+CTRL+W
+Close
+
+CTRL+SHIFT+W
+Close all
+
+CTRL+PLUS
+Zoom in
+
+CTRL+-
+Zoom out
+
+CTRL+C
+Copy file
+
+CTRL+V
+Paste file
+
+CTRL+ALT+C
+Copy absolute path
+
+CTRL+ALT+SHIFT+C
+Copy relative path

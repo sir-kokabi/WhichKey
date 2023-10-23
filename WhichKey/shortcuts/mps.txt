@@ -1,0 +1,377 @@
+CTRL+SPACE
+Code completion
+
+ALT+ENTER
+Show contextual intention actions
+
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+TAB
+Move to the next cell
+
+SHIFT+TAB
+Move to the previous cell
+
+CTRL+ALT+T
+Surround with...
+
+CTRL+X OR SHIFT+DEL
+Cut current line or selected block to buffer
+
+CTRL+C OR CTRL+INS
+Copy current line or selected block to buffer
+
+CTRL+V OR SHIFT+INS
+Paste from buffer
+
+CTRL+D
+Duplicate current line or selected block
+
+CTRL+UP
+Expand/Shrink block selection region
+
+CTRL+DOWN
+Shrink block selection region
+
+CTRL+SHIFT+UP
+Move statements up
+
+CTRL+SHIFT+DOWN
+Move statements down
+
+SHIFT+ARROWS
+Extend the selected region to siblings
+
+CTRL+Y
+Delete line
+
+F5
+Refresh the error messages in the editor
+
+CTRL+-
+Collapse
+
+CTRL+SHIFT+-
+Collapse all
+
+CTRL+PLUS
+Expand
+
+CTRL+SHIFT+PLUS
+Expand all
+
+CTRL+ALT+CLICK
+Show descriptions of error or warning at caret
+
+CTRL+M
+Import model
+
+CTRL+L
+Import language
+
+CTRL+R
+Import model by a root name
+
+ALT+F7
+Find usages
+
+ALT+F6
+Find concept instances
+
+CTRL+ALT+SHIFT+H
+Highlight cell dependencies
+
+CTRL+SHIFT+F6
+Highlight instances
+
+CTRL+SHIFT+F7
+Highlight usages
+
+CTRL+F
+Find text
+
+F3
+Find next
+
+SHIFT+F3
+Find previous
+
+CTRL+B
+Go to declaration
+
+CTRL+N
+Go to root node by name
+
+CTRL+SHIFT+N
+Go to file by name
+
+CTRL+G
+Go to node by id
+
+CTRL+SHIFT+A
+Go to action by name
+
+CTRL+ALT+SHIFT+M
+Go to model
+
+CTRL+ALT+SHIFT+S
+Go to solution
+
+CTRL+SHIFT+S
+Go to concept declaration
+
+ALT+SHIFT+E
+Go to concept editor declaration
+
+ALT+RIGHT
+Go to next editor tab
+
+ALT+LEFT
+Go to previous editor tab
+
+ESC
+Go to editor (from tool window)
+
+SHIFT+ESC
+Hide active or last active window
+
+SHIFT+F12
+Restore default window layout
+
+CTRL+SHIFT+F12
+Hide all tool windows
+
+F12
+Jump to the last tool window
+
+CTRL+E
+Recent nodes popup
+
+CTRL+SHIFT+E
+Recent locations popup
+
+CTRL+ALT+LEFT/RIGHT
+Navigate back/forward
+
+ALT+F1
+Select current node in any view
+
+CTRL+H
+Concept/Class hierarchy
+
+F4 OR ENTER
+Edit source / View source
+
+CTRL+F4
+Close active editor tab
+
+ALT+2
+Go to inspector
+
+CTRL+F10
+Show structure
+
+CTRL+ALT+]
+Go to next project window
+
+CTRL+ALT+[
+Go to previous project window
+
+CTRL+SHIFT+RIGHT
+Go to next aspect tab
+
+CTRL+SHIFT+LEFT
+Go to previous aspect tab
+
+CTRL+ALT+SHIFT+R
+Go to type-system rules
+
+CTRL+SHIFT+P
+Show type
+
+CTRL+H
+Show in hierarchy view
+
+CTRL+I
+Inspect node
+
+CTRL+O
+Override methods
+
+CTRL+I
+Implement methods
+
+CTRL+/
+Comment/uncomment with block comment
+
+CTRL+F12
+Show nodes
+
+CTRL+P
+Show parameters
+
+CTRL+Q
+Show node information
+
+ALT+INS
+Create new ...
+
+CTRL+ALT+B
+Go to overriding methods / Go to inherited classifiers
+
+CTRL+U
+Go to super method
+
+F6
+Move
+
+SHIFT+F6
+Rename
+
+ALT+DEL
+Safe Delete
+
+CTRL+ALT+N
+Inline
+
+CTRL+ALT+M
+Extract Method
+
+CTRL+ALT+V
+Introduce Variable
+
+CTRL+ALT+C
+Introduce constant
+
+CTRL+ALT+F
+Introduce field
+
+CTRL+ALT+P
+Introduce parameter
+
+CTRL+ALT+M
+Extract method
+
+CTRL+F9
+Generate current module
+
+CTRL+SHIFT+F9
+Generate current model
+
+SHIFT+F10
+Run
+
+SHIFT+F9
+Debug
+
+CTRL+SHIFT+F10
+Run context configuration
+
+ALT+SHIFT+F10
+Select and run a configuration
+
+CTRL+SHIFT+F9
+Debug context configuration
+
+ALT+SHIFT+F9
+Select and debug a configuration
+
+CTRL+ALT+SHIFT+F9
+Preview generated text
+
+CTRL+SHIFT+X
+Show type-system trace
+
+F8
+Step over
+
+F7
+Step into
+
+SHIFT+F8
+Step out
+
+F9
+Resume
+
+ALT+F8
+Evaluate expression
+
+CTRL+F8
+Toggle breakpoints
+
+CTRL+SHIFT+F8
+View breakpoints
+
+CTRL+K
+Commit project to VCS
+
+CTRL+T
+Update project from VCS
+
+CTRL+V
+VCS operations popup
+
+CTRL+ALT+A
+Add to VCS
+
+CTRL+ALT+E
+Browse history
+
+CTRL+D
+Show differences
+
+CTRL+S
+Save all
+
+CTRL+ALT+F11
+Toggle full screen mode
+
+CTRL+SHIFT+F12
+Toggle maximizing editor
+
+CTRL+`
+Quick switch current scheme
+
+CTRL+ALT+S
+Open Settings dialog
+
+CTRL+ALT+C
+Model Checker
+
+SHOW  PROJECT  WINDOW
+cmd+1
+
+SHOW  FAVOR ITES  WINDOW
+cmd+2
+
+SHOW  FIND  WINDOW
+cmd+3
+
+SHOW  RUN  WINDOW
+cmd+4
+
+SHOW  DEBUG  WINDOW
+cmd+5
+
+SHOW  PROBLEMS  WINDOW
+cmd+6
+
+SHOW  STRUCTURE  WINDOW
+cmd+7
+
+SHOW  SERVICES  WINDOW
+cmd+8
+
+SHOW  VERSION  CTRL  WINDOW
+cmd+9
+
+SHOW  COMMIT  WINDOW
+cmd+0
+
+SHOW  TERMINAL  WINDOW
+cmd+F12

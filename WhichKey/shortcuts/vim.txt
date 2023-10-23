@@ -1,0 +1,629 @@
+:H KEYWOR D
+open help for keyword
+
+:SAV FILE
+save file as
+
+:CLO
+close current pane
+
+:TER
+open a terminal window
+
+K
+open man page for word under the cursor
+
+H
+move cursor left
+
+J
+move cursor down
+
+K
+move cursor up
+
+L
+move cursor right
+
+H
+move to top of screen
+
+M
+move to middle of screen
+
+L
+move to bottom of screen
+
+W
+jump forwards to the start of a word
+
+W
+jump forwards to the start of a word (words can contain punctuation)
+
+E
+jump forwards to the end of a word
+
+E
+jump forwards to the end of a word (words can contain punctuation)
+
+B
+jump backwards to the start of a word
+
+B
+jump backwards to the start of a word (words can contain punctuation)
+
+%
+move to matching character (default supported pairs: '()', '{}', '[]' - use :h matchpairs in vim for more info)
+
+0
+jump to the start of the line
+
+^
+jump to the first non-blank character of the line
+
+$
+jump to the end of the line
+
+G_
+jump to the last non-blank character of the line
+
+GG
+go to the first line of the document
+
+G
+go to the last line of the document
+
+5GG
+go to line 5
+
+FX
+jump to next occurrence of character x
+
+TX
+jump to before next occurrence of character x
+
+FX
+jump to previous occurence of character x
+
+TX
+jump to after previous occurence of character x
+
+;
+repeat previous f, t, F or T movement
+
+,
+repeat previous f, t, F or T movement, backwards
+
+}
+jump to next paragraph (or function/block, when editing code)
+
+{
+jump to previous paragraph (or function/block, when editing code)
+
+ZZ
+center cursor on screen
+
+CTRL+E
+move screen down one line (without moving cursor)
+
+CTRL+Y
+move screen up one line (without moving cursor)
+
+CTRL+B
+move back one full screen
+
+CTRL+F
+move forward one full screen
+
+CTRL+D
+move forward 1/2 a screen
+
+CTRL+U
+move back 1/2 a screen
+
+I
+insert before the cursor
+
+I
+insert at the beginning of the line
+
+A
+insert (append) after the cursor
+
+A
+insert (append) at the end of the line
+
+O
+append (open) a new line below the current line
+
+O
+append (open) a new line above the current line
+
+EA
+insert (append) at the end of the word
+
+CTRL+H
+delete the character before the cursor during insert mode
+
+CTRL+W
+delete word before the cursor during insert mode
+
+CTRL+J
+begin new line during insert mode
+
+CTRL+T
+indent (move right) line one shiftwidth during insert mode
+
+CTRL+D
+de-indent (move left) line one shiftwidth during insert mode
+
+CTRL+N
+insert (auto-complete) next match before the cursor during insert mode
+
+CTRL+P
+insert (auto-complete) previous match before the cursor during insert mode
+
+ESC
+exit insert mode
+
+R
+replace a single character
+
+J
+join line below to the current one with one space in between
+
+GJ
+join line below to the current one without space in between
+
+GWIP
+reflow paragraph
+
+G~
+switch case up to motion
+
+GU
+change to lowercase up to motion
+
+GU
+change to uppercase up to motion
+
+CC
+change (replace) entire line
+
+C
+change (replace) to the end of the line
+
+C$
+change (replace) to the end of the line
+
+CIW
+change (replace) entire word
+
+CW
+change (replace) to the end of the word
+
+S
+delete character and substitute text
+
+S
+delete line and substitute text (same as cc)
+
+XP
+transpose two letters (delete and paste)
+
+U
+undo
+
+U
+restore (undo) last changed line
+
+CTRL+R
+redo
+
+.
+repeat last command
+
+V
+start visual mode, mark lines, then do a command (like y-yank)
+
+V
+start linewise visual mode
+
+O
+move to other end of marked area
+
+CTRL+V
+start visual block mode
+
+O
+move to other corner of block
+
+AW
+mark a word
+
+AB
+a block with ()
+
+AB
+a block with {}
+
+AT
+a block with <> tags
+
+IB
+inner block with ()
+
+IB
+inner block with {}
+
+IT
+inner block with <> tags
+
+ESC
+exit visual mode
+
+>
+shift text right
+
+<
+shift text left
+
+Y
+yank (copy) marked text
+
+D
+delete marked text
+
+~
+switch case
+
+U
+change marked text to lowercase
+
+U
+change marked text to uppercase
+
+:REG
+show registers content
+
+"XY
+yank into register x
+
+"XP
+paste contents of register x
+
+"+Y
+yank into the system clipboard register
+
+"+P
+paste from the system clipboard register
+
+:MARKS
+list of marks
+
+MA
+set current position for mark A
+
+`A
+jump to position of mark A
+
+Y`A
+yank text to position of mark A
+
+`0
+go to the position where Vim was previously exited
+
+`"
+go to the position when last editing this file
+
+`.
+go to the position of the last change in this file
+
+``
+go to the position before the last jump
+
+:JU
+list of jumps
+
+CTRL+I
+go to newer position in jump list
+
+CTRL+O
+go to older position in jump list
+
+:CHANGES
+list of changes
+
+G,
+go to newer position in change list
+
+G;
+go to older position in change list
+
+CTRL+]
+jump to the tag under cursor
+
+QA
+record macro a
+
+Q
+stop recording macro
+
+@A
+run macro a
+
+@@
+rerun last run macro
+
+YY
+yank (copy) a line
+
+2YY
+yank (copy) 2 lines
+
+YW
+yank (copy) the characters of the word from the cursor position to the start of the next word
+
+Y$
+yank (copy) to end of line
+
+P
+put (paste) the clipboard after cursor
+
+P
+put (paste) before cursor
+
+DD
+delete (cut) a line
+
+2DD
+delete (cut) 2 lines
+
+DW
+delete (cut) the characters of the word from the cursor position to the start of the next word
+
+D
+delete (cut) to the end of the line
+
+D$
+delete (cut) to the end of the line
+
+X
+delete (cut) character
+
+>>
+indent (move right) line one shiftwidth
+
+<<
+de-indent (move left) line one shiftwidth
+
+>%
+indent a block with () or {} (cursor on brace)
+
+>IB
+indent inner block with ()
+
+>AT
+indent a block with <> tags
+
+3==
+re-indent 3 lines
+
+=%
+re-indent a block with () or {} (cursor on brace)
+
+=IB
+re-indent inner block with {}
+
+GG=G
+re-indent entire buffer
+
+]P
+paste and adjust indent to current line
+
+:W
+write (save) the file, but don't exit
+
+:W !SUDO TEE %
+write out the current file using sudo
+
+:WQ
+write (save) and quit
+
+:Q
+quit (fails if there are unsaved changes)
+
+:Q!
+quit and throw away unsaved changes
+
+:WQA
+write (save) and quit on all tabs
+
+/PATTERN
+search for pattern
+
+?PATTERN
+search backward for pattern
+
+\VPATTERN
+search for 'very magic' pattern (auto-interpret non-alphanumeric chars as special regex symbols)
+
+N
+repeat search in same direction
+
+N
+repeat search in opposite direction
+
+:%S/OLD/NEW/G
+replace all old with new throughout file
+
+:%S/OLD/NEW/GC
+replace all old with new throughout file with confirmations
+
+:NOH
+remove highlighting of search matches
+
+:VIM /FOO/ **/*.JS
+search for pattern 'foo' in all .js files in every sub-directory (recursively)
+
+:CN
+jump to the next match
+
+:CP
+jump to the previous match
+
+:COPE
+open a window containing the list of matches
+
+:E FILE
+edit a file in a new buffer
+
+:BN
+go to the next buffer
+
+:BP
+go to the previous buffer
+
+:BD
+delete a buffer (close a file)
+
+:B#
+go to a buffer by #
+
+:B FILE
+go to a buffer by file
+
+:LS
+list all open buffers
+
+:SP FILE
+open a file in a new buffer and split window
+
+:VS FILE
+open a file in a new buffer and vertically split window
+
+:VERT BA
+edit all buffers as vertical windows
+
+:TAB BA
+edit all buffers as tabs
+
+CTRL+W  S
+split window
+
+CTRL+W  V
+split window vertically
+
+CTRL+W  W
+switch windows
+
+CTRL+W  Q
+quit a window
+
+CTRL+W  X
+exchange current window with next one
+
+CTRL+W  =
+make all windows equal height & width
+
+CTRL+W  H
+move cursor to the left window (vertical split)
+
+CTRL+W  L
+move cursor to the right window (vertical split)
+
+CTRL+W  J
+move cursor to the window below (horizontal split)
+
+CTRL+W  K
+move cursor to the window above (horizontal split)
+
+:TABNEW
+open a file in a new tab
+
+CTRL+W  T
+move the current split window into its own tab
+
+GT
+move to the next tab
+
+GT
+move to the previous tab
+
+#GT
+move to tab number #
+
+:TABM #
+move current tab to the #th position (indexed from 0)
+
+:TABC
+close the current tab and all its windows
+
+:TABO
+close all tabs except for the current one
+
+:TABDO COMMAND
+run the command on all tabs (e.g. :tabdo q - closes all opened tabs)
+
+]C
+jump to start of next change
+
+[C
+jump to start of previous change
+
+DO
+obtain (get) difference (from other buffer)
+
+DP
+put difference (to other buffer)
+
+:DIFFTHIS
+make current window part of diff
+
+:DIF
+update differences
+
+:DIFFO
+switch off diff mode for current window
+
+ZF
+manually define a fold up to motion
+
+ZD
+delete fold under the cursor
+
+ZA
+toggle fold under the cursor
+
+ZO
+open fold under the cursor
+
+ZO
+open all folds at the cursor
+
+ZC
+close fold under the cursor
+
+ZR
+reduce (open) all folds by one level
+
+ZR
+open all folds
+
+ZM
+fold more (close) all folds by one level
+
+ZM
+close all open folds
+
+ZE
+delete all folds
+
+ZI
+toggle folding functionality
+
+[Z
+move to start of open fold.
+
+]Z
+move to end of open fold.

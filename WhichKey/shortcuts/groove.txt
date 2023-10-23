@@ -1,0 +1,38 @@
+CTRL+P
+Play or pause
+
+CTRL+F
+Skip to next song
+
+CTRL+B
+Restart current song or skip to previous
+
+F9
+Volume up
+
+F8
+Volume down
+
+F7
+Mute volume
+
+CTRL+ENTER
+Select an item and enter selection mode
+
+CTRL+A
+Select all
+
+DEL
+Delete selected item(s)
+
+CTRL+SHIFT+P
+Play selected item
+
+CTRL+T
+Repeat on or off
+
+CTRL+H
+Shuffle on or off
+
+CTRL+Q
+Search

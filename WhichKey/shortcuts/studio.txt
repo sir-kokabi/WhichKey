@@ -1,0 +1,380 @@
+CTRL+S
+Save all
+
+CTRL+ALT+Y
+Synchronize
+
+CTRL+SHIFT+F12
+Maximize/minimize editor
+
+ALT+SHIFT+F
+Add to favorites
+
+ALT+SHIFT+I
+Inspect current file with current profile
+
+CTRL+`
+Quick switch scheme
+
+CTRL+ALT+S
+Open settings dialogue
+
+CTRL+ALT+SHIFT+S
+Open project structure dialog
+
+CTRL+TAB
+Switch between tabs and tool window
+
+SHIFT  SHIFT
+Search everything (including code and menus)
+
+CTRL+F
+Find
+
+F3
+Find next
+
+SHIFT+F3
+Find previous
+
+CTRL+R
+Replace
+
+CTRL+SHIFT+A
+Find action
+
+CTRL+ALT+SHIFT+N
+Search by symbol name
+
+CTRL+N
+Find class
+
+CTRL+SHIFT+N
+Find file (instead of class)
+
+CTRL+SHIFT+F
+Find in path
+
+CTRL+F12
+Open file structure pop-up
+
+ALT+RIGHT OR ALT+LEFT
+Navigate between open editor tabs
+
+F4 OR CTRL+ENTER
+Jump to source
+
+SHIFT+F4
+Open current editor tab in new window
+
+CTRL+E
+Recently opened files pop-up
+
+CTRL+SHIFT+E
+Recently edited files pop-up
+
+CTRL+SHIFT+BACKSPACE
+Go to last edit location
+
+CTRL+F4
+Close active editor tab
+
+ESC
+Return to editor window from a tool window
+
+SHIFT+ESC
+Hide active or last active tool window
+
+CTRL+G
+Go to line
+
+CTRL+H
+Open type hierarchy
+
+CTRL+SHIFT+H
+Open method hierarchy
+
+CTRL+ALT+H
+Open call hierarchy
+
+CTRL+PLUS OR CTRL+MINUS
+Zoom in/out
+
+CTRL+0
+Fit to screen
+
+CTRL+SHIFT+1
+Actual size
+
+B
+Toggle between Design and Blueprint modes
+
+O
+Toggle between Portrait and Landscape modes
+
+D
+Toggle devices
+
+R
+Force refresh
+
+E
+Toggle render errors panel
+
+DEL OR CTRL+CLICK
+Delete constraints
+
+CTRL+PLUS
+Zoom in
+
+CTRL+MINUS
+Zoom out
+
+CTRL+0
+Zoom to fit
+
+SPACE+CLICK+DRAG
+Pan
+
+CTRL+B
+Go to XML
+
+CTRL+A
+Select all components
+
+SHIFT+CLICK OR CTRL+CLICK
+Select multiple components
+
+CTRL+PLUS
+Zoom in
+
+CTRL+MINUS
+Zoom out
+
+CTRL+0
+Zoom to fit
+
+SPACE+CLICK+DRAG
+Pan
+
+CTRL+B
+Go to XML
+
+E
+Toggle render errors panel
+
+CTRL+G
+Group into nested graph
+
+TAB OR SHIFT+TAB
+Cycle through destinations
+
+CTRL+A
+Select all destinations
+
+SHIFT+CLICK OR CTRL+CLICK
+Select multiple destinations
+
+ALT+INS
+Generate code (getters, setters, constructors, hashCode/equals, toString, new file, new class)
+
+CTRL+O
+Override methods
+
+CTRL+I
+Implement methods
+
+CTRL+ALT+T
+Surround with (if...else / try...catch / etc.)
+
+CTRL+Y
+Delete line at caret
+
+CTRL+MINUS OR CTRL+PLUS
+Collapse/expand current code block
+
+CTRL+SHIFT+MINUS OR CTRL+SHIFT+PLUS
+Collapse/expand all code blocks
+
+CTRL+D
+Duplicate current line or selection
+
+CTRL+SPACE
+Basic code completion
+
+CTRL+SHIFT+SPACE
+Smart code completion (filters the list of methods and variables by expected type)
+
+CTRL+SHIFT+ENTER
+Complete statement
+
+CTRL+Q
+Quick documentation lookup
+
+CTRL+P
+Show parameters for selected method
+
+CTRL+B OR CTRL+CLICK
+Go to declaration (directly)
+
+CTRL+ALT+B
+Go to implementations
+
+CTRL+U
+Go to super-method/super-class
+
+CTRL+SHIFT+I
+Open quick definition lookup
+
+ALT+1
+Toggle project tool window visibility
+
+F11
+Toggle bookmark
+
+CTRL+F11
+Toggle bookmark with mnemonic
+
+CTRL+/
+Comment/uncomment with line comment
+
+CTRL+SHIFT+/
+Comment/uncomment with block comment
+
+CTRL+W
+Select successively increasing code blocks
+
+CTRL+SHIFT+W
+Decrease current selection to previous state
+
+CTRL+[
+Move to code block start
+
+CTRL+]
+Move to code block end
+
+CTRL+SHIFT+[
+Select to the code block start
+
+CTRL+SHIFT+]
+Select to the code block end
+
+CTRL+DEL
+Delete to end of word
+
+CTRL+BACKSPACE
+Delete to start of word
+
+CTRL+ALT+O
+Optimize imports
+
+ALT+ENTER
+Project quick fix (show intention actions and quick fixes)
+
+CTRL+ALT+L
+Reformat code
+
+CTRL+ALT+I
+Auto-indent lines
+
+TAB OR SHIFT+TAB
+Indent/unindent lines
+
+CTRL+SHIFT+J
+Smart line join
+
+CTRL+ENTER
+Smart line split
+
+SHIFT+ENTER
+Start new line
+
+F2 OR SHIFT+F2
+Next/previous highlighted error
+
+CTRL+F9
+Build
+
+SHIFT+F10
+Build and run
+
+CTRL+F10
+Apply Changes and Restart Activity
+
+CTRL+ALT+F10
+Apply Code Changes
+
+SHIFT+F9
+Debug
+
+F8
+Step over
+
+F7
+Step into
+
+SHIFT+F7
+Smart step into
+
+SHIFT+F8
+Step out
+
+ALT+F9
+Run to cursor
+
+ALT+F8
+Evaluate expression
+
+F9
+Resume program
+
+CTRL+F8
+Toggle breakpoint
+
+CTRL+SHIFT+F8
+View breakpoints
+
+F5
+Copy
+
+F6
+Move
+
+ALT+DEL
+Safe delete
+
+SHIFT+F6
+Rename
+
+CTRL+F6
+Change signature
+
+CTRL+ALT+N
+Inline
+
+CTRL+ALT+M
+Extract method
+
+CTRL+ALT+V
+Extract variable
+
+CTRL+ALT+F
+Extract field
+
+CTRL+ALT+C
+Extract constant
+
+CTRL+ALT+P
+Extract parameter
+
+CTRL+K
+Commit project to VCS
+
+CTRL+T
+Update project from VCS
+
+ALT+SHIFT+C
+View recent changes
+
+ALT+`
+Open VCS popup

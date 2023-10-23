@@ -1,0 +1,146 @@
+?
+Open Shortcuts Page
+
+B
+Open Header Boards Menu
+
+/
+Focus Search Box
+
+Z
+Undo Action
+
+SHIFT+Z
+Redo Action
+
+R
+Repeat Action
+
+W
+Toggle Board Menu
+
+X
+Clear All Filters
+
+RIGHT
+Select card to right
+
+LEFT
+Select card to left
+
+DOWN OR J
+Select card below
+
+UP OR K
+Select card above
+
+C
+Archive Card
+
+D
+Due Date
+
+-
+Add Checklist
+
+E
+Quick Edit Mode
+
+ESC
+Close Menu / Cancel Editing
+
+CTRL+ENTER
+Save Text
+
+ENTER
+Open Card
+
+F
+Open Card Filter Menu
+
+M
+Add / Remove Members
+
+S
+Watch
+
+SPACE
+Assign Self
+
+T
+Edit Title
+
+V
+Vote
+
+N
+Insert New Card
+
+,
+Move card to bottom list to the left
+
+.
+Move card to bottom of list to the right
+
+<
+Move card to top of list to the left
+
+>
+Move card to top of list to the right
+
+Q
+My Cards Filter
+
+CTRL+C
+Copy Card
+
+CTRL+V
+Paste Copied Card
+
+CTRL+X
+Cut Card
+
+L
+Open Label Pop-over
+
+1
+Toggle Green Label
+
+2
+Toggle Yellow Label
+
+3
+Toggle Orange Label
+
+4
+Toggle Red Label
+
+5
+Toggle Purple Label
+
+6
+Toggle Blue Label
+
+7
+Toggle Sky Label
+
+8
+Toggle Lime Label
+
+9
+Toggle Pink Label
+
+0
+Toggle Black Label
+
+;
+Toggle Label Names
+
+@
+Autocomplete Members
+
+#
+Autocomplete Labels
+
+^
+Autocomplete Position

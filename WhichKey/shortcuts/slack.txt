@@ -1,0 +1,185 @@
+CTRL+K
+Jump to a conversation
+
+F6
+Move focus to the next section
+
+SHIFT+F6
+Move focus to the previous section
+
+CTRL+SHIFT+K
+Open direct messages menu
+
+CTRL+N
+Compose a new message
+
+CTRL+SHIFT+L
+Open channel browser
+
+CTRL+SHIFT+T
+Open the Threads view
+
+ALT+SHIFT+UP
+Previous unread channel or DM
+
+ALT+SHIFT+DOWN
+Next unread channel or DM
+
+ALT+LEFT
+Previous channel or DM visited
+
+ALT+RIGHT
+Next channel or DM visited
+
+CTRL+,
+Preferences
+
+CTRL+.
+Open or close right pane
+
+CTRL+SHIFT+I
+Channel info pane
+
+CTRL+SHIFT+M
+Mentions & reactions
+
+CTRL+SHIFT+E
+People
+
+CTRL+SHIFT+S
+Saved items
+
+CTRL+F
+Search current channel or conversation
+
+CTRL+G
+Open previous search
+
+CTRL+SHIFT+F
+Toggle full screen view
+
+CTRL+SHIFT+A
+Open All Unreads view
+
+ALT+CLICK
+Mark messages as unread
+
+UP
+Move to message above
+
+DOWN
+Move to message below
+
+RIGHT
+Open channels
+
+LEFT
+Collapse channels
+
+CTRL+SHIFT+TAB
+Switch to previous workspace
+
+CTRL+TAB
+Switch to next workspace
+
+CTRL+1
+Switch to workspace 1 (see assigned number under the workspace icon in your Slack app)
+
+ESC
+Mark all messages in current channel or DM as read
+
+SHIFT+ESC
+Mark all messages as read
+
+ALT+CLICK
+Set a message as your oldest unread message
+
+E
+Edit your message
+
+R
+Add an emoji reaction
+
+T
+Open or reply to a thread
+
+P
+Pin or unpin a message
+
+S
+Share a message
+
+A
+Save a message or remove from Saved items
+
+U
+Mark as unread starting from a message
+
+DEL
+Delete your message
+
+M
+Create a reminder about a message
+
+CTRL+UP
+Edit your last message
+
+SHIFT+UP
+Select text to beginning of current line
+
+SHIFT+DOWN
+Select text to end of current line
+
+SHIFT+ENTER
+Create a new line in your message
+
+CTRL+SHIFT+\
+Add an emoji reaction to a message
+
+CTRL+B
+Bold selected text
+
+CTRL+I
+Italicize selected text
+
+CTRL+SHIFT+X
+Strikethrough selected text
+
+CTRL+SHIFT+9
+Quote selected text
+
+CTRL+SHIFT+C
+Code selected text
+
+CTRL+ALT+SHIFT+C
+Codeblock selected text
+
+CTRL+SHIFT+7
+Turn selected text into a numbered list
+
+CTRL+SHIFT+8
+Turn selected text into a bulleted list
+
+CTRL+SHIFT+F
+Apply formatting to markdown text
+
+CTRL+Z
+Undo message formatting
+
+CTRL+U
+Upload file
+
+CTRL+SHIFT+ENTER
+Create new Snippet
+
+M
+Toggle mute on and off (Hold down to talk when muted)
+
+V
+Toggle video on and off
+
+A
+Show invite list
+
+E  1
+View emoji reactions and select first

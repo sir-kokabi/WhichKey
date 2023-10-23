@@ -1,0 +1,485 @@
+CTRL+N OR CTRL+M
+New message
+
+CTRL+R
+Reply to Message (sender only)
+
+CTRL+SHIFT+R
+Reply to All in Message (sender and all recipients)
+
+CTRL+SHIFT+L
+Reply to List
+
+CTRL+L
+Forward Message
+
+CTRL+E
+Edit Message as New
+
+F5 OR F9
+Get New Messages for Current Account
+
+SHIFT+F5 OR SHIFT+F9
+Get New Messages for All Accounts
+
+CTRL+O OR ENTER
+Open message (in new window or tab)
+
+CTRL+SHIFT+O
+Open message in conversation
+
+CTRL+PLUS OR CTRL+=
+Zoom In
+
+CTRL+-
+Zoom Out
+
+CTRL+0
+Reset Zoom
+
+RIGHT
+Expand Collapsed Thread
+
+LEFT
+Collapse Expanded Thread
+
+*
+Expand All Threads
+
+\
+Collapse All Threads
+
+K
+Newsgroups: Ignore or Unignore Thread
+
+SHIFT+K
+Newsgroups: Ignore or Unignore Subthread
+
+W
+Newsgroups: Watch Thread
+
+CTRL+P
+Print message or selected message text
+
+CTRL+S
+Save Message as File
+
+CTRL+U
+View Message Source
+
+CTRL+A
+Select All (messages, text, or attachments)
+
+CTRL+SHIFT+A
+Select Thread
+
+F7
+Toggle Caret browsing (select text with keyboard)
+
+CTRL+C
+Copy selected text
+
+CTRL+X
+Cut selected search text
+
+CTRL+V
+Paste text into search or filter fields
+
+CTRL+SHIFT+M
+Move/Copy message to previous target folder Again
+
+A
+Archive Message
+
+DEL
+Delete selected element
+
+SHIFT+DEL
+Delete message bypassing trash (no Undo!)
+
+CTRL+Z
+Undo
+
+CTRL+Y
+Redo
+
+F2
+Rename Folder
+
+1 OR 2 OR 9
+Add/Remove Tag
+
+0
+Remove All Tags from Message
+
+M
+Mark Message as Read/Unread
+
+R
+Mark Thread as Read
+
+SHIFT+C
+Mark All Read
+
+C
+Mark as Read By Date
+
+J
+Mark as Junk
+
+SHIFT+J
+Mark as Not Junk
+
+S
+Add/Remove Star
+
+CTRL+K
+Search All Messages of All Accounts
+
+CTRL+SHIFT+K
+Quick Filter
+
+ESC
+Clear current Quick Filter; hide Quick Filter Bar
+
+CTRL+SHIFT+F
+Search Messages (advanced search in folder)
+
+CTRL+F
+Find Text in Current Message
+
+CTRL+G OR F3
+Find Again in Current Message
+
+CTRL+SHIFT+G OR SHIFT+F3
+Find Previous in Current Message
+
+ALT+HOME
+Go to Mail Start Page
+
+SPACE
+Scroll Down Current Message and go to next Unread
+
+F
+Go to Next Message
+
+B
+Go to Previous Message
+
+N
+Go to Next Unread Message
+
+P
+Go to Previous Unread Message
+
+T
+Go to Next Unread Thread (and mark current as read)
+
+]
+Go to Next Viewed Message
+
+[
+Go to Previous Viewed Message
+
+TAB
+Move to Next UI Element
+
+SHIFT+TAB
+Move to Previous UI Element
+
+F6
+Move to Next Mail Pane
+
+SHIFT+F6
+Move to Previous Mail Pane
+
+CTRL+TAB OR CTRL+PAGEDOWN
+Next Tab
+
+CTRL+SHIFT+TAB OR CTRL+PAGEUP
+Previous Tab
+
+ALT+1
+Mail & Newsgroups Home Tab (Tab 1)
+
+ALT+1 OR ALT+2 OR ALT+8
+Tab 2 to 8
+
+ALT+9
+Last Tab
+
+CTRL+SHIFT+B
+Address Book
+
+CTRL+J
+Saved Files
+
+F1
+Help
+
+CTRL+SHIFT+I
+Developer Tools
+
+F8
+Toggle Message Pane
+
+N/A
+Minimize current window (Mac only)
+
+N/A
+Hide Thunderbird (Mac only)
+
+N/A
+Hide Other Windows (Mac only)
+
+CTRL+W
+Close window or tab
+
+CTRL+SHIFT+T
+Undo close tab
+
+CTRL+Q
+Quit Thunderbird (Exit Application)
+
+CTRL+N OR CTRL+M
+New message (see Starting a new message)
+
+CTRL+S
+Save Draft
+
+CTRL+P
+Print Draft
+
+CTRL+ENTER
+Send Message Now
+
+CTRL+SHIFT+ENTER
+Send Message Later
+
+F9
+Toggle Contacts Sidebar
+
+F6 OR CTRL+TAB
+Move to next main UI element
+
+SHIFT+F6 OR CTRL+SHIFT+TAB
+Move to previous main UI element
+
+CTRL+PLUS OR CTRL+=
+Zoom In
+
+CTRL+-
+Zoom Out
+
+CTRL+0
+Reset Zoom
+
+ALT+M
+Toggle Attachment Pane
+
+CTRL+1
+Show Main Mail Window (Mail & Newsgroups)
+
+CTRL+C
+Copy
+
+CTRL+X
+Cut
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+O
+Paste as quotation
+
+CTRL+SHIFT+V
+Paste without formatting
+
+CTRL+R
+Rewrap message text
+
+DEL
+Delete selected text, attachment, etc.
+
+CTRL+DEL
+Delete word to the right
+
+CTRL+BACKSPACE
+Delete word to the left
+
+CTRL+A
+Select All (text in a message, or attachments)
+
+CTRL+K
+Insert Link
+
+CTRL+SHIFT+K
+Discontinue Link, or Remove Links from selection
+
+CTRL+SHIFT+R
+Remove Named Anchors
+
+CTRL+Z
+Undo
+
+CTRL+Y
+Redo
+
+CTRL+H
+Find and Replace Text in Current Message
+
+CTRL+G OR F3
+Find Again in Current Message
+
+CTRL+SHIFT+G OR SHIFT+F3
+Find Previous in Current Message
+
+CTRL+SHIFT+P
+Check Spelling
+
+CTRL+SHIFT+A
+Attach File
+
+F2
+Rename Attachment
+
+ALT+X
+Reorder Attachments
+
+SHIFT+ENTER
+Insert a line break instead of a new paragraph
+
+ALT+HOME
+Move to Top
+
+ALT+UP
+Move Up
+
+ALT+LEFT
+Move together
+
+ALT+DOWN
+Move Down
+
+ALT+END
+Move to Bottom
+
+ALT+Y
+Sort (All attachments or selected attachments)
+
+CTRL+> OR CTRL+.
+Larger Font Size
+
+CTRL+< OR CTRL+,
+Smaller Font Size
+
+CTRL+B
+Text Style Bold
+
+CTRL+I
+Text Style Italics
+
+CTRL+U
+Text Style Underline
+
+CTRL+T
+Text Style "<tt>Fixed Width</tt>"
+
+CTRL+SHIFT+Y OR CTRL+SPACE
+Discontinue or Remove Text Styles
+
+CTRL+]
+Increase Indent
+
+CTRL+[
+Decrease Indent
+
+CTRL+N
+New Address Book Contact
+
+CTRL+M
+Write new message to selected contact(s)
+
+CTRL+SHIFT+F
+Addressbook Advanced Search
+
+CTRL+I
+Edit Properties of selected contact or address book
+
+CTRL+A
+Select all (contacts, or search text)
+
+CTRL+P
+Print selected contacts
+
+DEL
+Delete (selected text, contact, or address book)
+
+CTRL+1
+Show Main Mail Window (Mail & Newsgroups)
+
+ESC
+Clear current Events Filter
+
+ALT+END
+Go to Today
+
+ALT+1
+Day View
+
+ALT+2
+Week View
+
+ALT+3
+Multiweek View
+
+ALT+4
+Month View
+
+CTRL+SHIFT+K
+Filter Tasks
+
+ESC
+Clear current Tasks Filter
+
+F11
+Show or hide Today Pane
+
+CTRL+SHIFT+C
+Calendar tab
+
+CTRL+SHIFT+D
+Tasks tab
+
+ALT+1
+Mail & Newsgroups Home Tab (Tab 1)
+
+CTRL+I
+New Event
+
+CTRL+D
+New Task
+
+CTRL+C
+Copy (selected events, tasks, or text)
+
+CTRL+X
+Cut (selected events, tasks, or text)
+
+CTRL+V
+Paste
+
+DEL
+Delete (selected events, tasks, or text)
+
+CTRL+Z
+Undo
+
+CTRL+Y
+Redo
+
+CTRL+P
+Print
+
+CTRL+SHIFT+DEL
+Clear History

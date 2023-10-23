@@ -1,0 +1,86 @@
+ALT+D
+Select the address bar.
+
+CTRL+E
+Select the search box.
+
+CTRL+F
+Select the search box.
+
+CTRL+N
+Open a new window.
+
+CTRL+W
+Close the active window.
+
+CTRL+MOUSE-WHEEL
+Change the size and appearance of file and folder icons.
+
+CTRL+SHIFT+E
+Display all folders above the selected folder.
+
+CTRL+SHIFT+N
+Create a new folder.
+
+NUMLOCK+*
+Display all subfolders under the selected folder.
+
+NUMLOCK+PLUS
+Display the contents of the selected folder.
+
+NUMLOCK+-
+Collapse the selected folder.
+
+ALT+P
+Display the preview panel.
+
+ALT+ENTER
+Open the Properties dialog box for the selected item.
+
+ALT+RIGHT
+View the next folder.
+
+ALT+UP
+View the folder that the folder was in.
+
+ALT+LEFT
+View the previous folder.
+
+BACKSPACE
+View the previous folder.
+
+END
+Display the bottom of the active window.
+
+HOME
+Display the top of the active window.
+
+F11
+Maximize or minimize the active window.
+
+ALT+D  TAB  TAB
+Focus left navigation pane
+
+UP OR DOWN
+One item up / down
+
+PAGEUP OR PAGEDOWN
+One page up / down
+
+HOME
+Go to first item
+
+END
+Go to last item
+
+CTRL+UP
+Scroll directory tree up without changing focus
+
+CTRL+DOWN
+Scroll directory tree down without changing focus
+
+RIGHT OR LEFT
+Open / close selected directory tree
+
+SHIFT+LEFT
+Change to parent element in tree when in sub-element

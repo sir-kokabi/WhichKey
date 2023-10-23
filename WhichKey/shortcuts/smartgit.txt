@@ -1,0 +1,263 @@
+CTRL+O
+Add or create
+
+CTRL+SHIFT+O
+Clone
+
+CTRL+F4
+Close
+
+ALT+ENTER
+Settings
+
+ALT+X
+Exit
+
+CTRL+F
+Filter files
+
+CTRL+SHIFT+A
+Select commitable files
+
+ALT+INS
+Copy path
+
+ALT+SHIFT+INS
+Copy relative path
+
+CTRL+BACKSPACE
+Clear output
+
+CTRL+,
+Preferences
+
+SHIFT+F6
+Previous change
+
+F6
+Next change
+
+F5
+Refresh
+
+CTRL+0
+Files from subdirectories
+
+CTRL+1
+Show unchanged files
+
+CTRL+2
+Show unversioned files
+
+CTRL+3
+Show ignored files
+
+CTRL+4
+Show staged files
+
+CTRL+5
+Show assume-unchanged files
+
+CTRL+6
+Show skipped files
+
+CTRL+7
+Show rename source files
+
+CTRL+8
+Show files from submodules
+
+N/A
+Set Anchor Commit
+
+ALT+PAGEDOWN
+Pull
+
+ALT+SHIFT+PAGEDOWN
+Fetch
+
+CTRL+Y
+Synchronize
+
+ALT+PAGEUP
+Push
+
+ALT+SHIFT+PAGEUP
+Push to
+
+F2
+Rename
+
+CTRL+T
+Stage
+
+CTRL+SHIFT+T
+Unstage
+
+CTRL+ALT+T
+Index editor
+
+CTRL+I
+Ignore
+
+F2
+Rename
+
+CTRL+SHIFT+V
+Resolve
+
+CTRL+K
+Commit
+
+CTRL+SHIFT+K
+Use message for commit
+
+CTRL+R
+Reset
+
+CTRL+SHIFT+R
+Reset advanced
+
+CTRL+ALT+R
+Undo last commit
+
+CTRL+Z
+Discard
+
+CTRL+-
+Remove
+
+DEL
+Delete
+
+CTRL+S
+Stash all
+
+CTRL+SHIFT+S
+Apply stash
+
+F2
+Rename stash
+
+CTRL+G
+Check out
+
+CTRL+M
+Merge
+
+CTRL+SHIFT+M
+Cherry-pick
+
+CTRL+ALT+M
+Revert
+
+CTRL+D
+Rebase HEAD to
+
+CTRL+SHIFT+D
+Rebase to HEAD
+
+F7
+Add branch
+
+SHIFT+F7
+Add tag
+
+F2
+Rename
+
+CTRL+J
+Squash commits
+
+F4
+Show changes
+
+SHIFT+F4
+Compare with working tree
+
+CTRL+S
+Save as
+
+CTRL+L
+Log
+
+CTRL+SHIFT+L
+Blame
+
+CTRL+ALT+SHIFT+L
+Investigate
+
+N/A
+Create Pull Request...
+
+N/A
+Next Comment
+
+N/A
+Previous Comment
+
+N/A
+Review Sync
+
+CTRL+N
+New window
+
+CTRL+SHIFT+N
+Show log window
+
+F11
+Full screen
+
+SHIFT+F11
+Maximize view
+
+CTRL+SHIFT+F4
+Hide view
+
+CTRL+SHIFT+1
+Repositories
+
+CTRL+SHIFT+2
+Branches
+
+CTRL+SHIFT+3
+Files
+
+CTRL+SHIFT+4
+Changes
+
+CTRL+SHIFT+5
+Journal
+
+CTRL+SHIFT+6
+Commit
+
+CTRL+SHIFT+7
+Output
+
+N/A
+Comments
+
+CTRL+ALT+1
+Main perspective
+
+CTRL+ALT+2
+Review perspective
+
+CTRL+SHIFT+P
+Find command
+
+CTRL+P
+Find object
+
+DEL
+Repositories > Remove
+
+F2
+Repositories > Rename
+
+SHIFT+F5
+Reload
+
+CTRL+.
+Compact change display

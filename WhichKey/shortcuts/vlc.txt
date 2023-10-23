@@ -1,0 +1,179 @@
+F
+Fullscreen
+
+SPACE
+Pause or play
+
+V
+Subtitles cycle/off
+
+B
+Audio track cycle
+
+CTRL+UP
+Volume Up
+
+CTRL+DOWN
+Volume Down
+
+CTRL+O
+Open Single file(s)
+
+CTRL+T
+Goto
+
+SHIFT+LEFT
+Very short jump backward – 3 secs
+
+SHIFT+RIGHT
+Very short jump forward – 3 secs
+
+ALT+LEFT
+Short jump backward – 10 secs
+
+ALT+RIGHT
+Short jump forward – 10 secs
+
+CTRL+LEFT
+Medium jump backward – 1 min
+
+CTRL+RIGHT
+Medium jump forward - 1 min
+
+CTRL+ALT+LEFT
+Long jump backward
+
+CTRL+ALT+RIGHT
+Long jump forward
+
+E
+Next frame
+
+N
+Next in playlist
+
+P
+Current from beginn­ing­/Pr­evious in playlist
+
+CTRL+D
+Open disc menu
+
+CTRL+F
+Open folder (browse folder menu)
+
+CTRL+R OR CTRL+S
+Advanced open file
+
+CTRL+O
+Open single file(s)
+
+M
+Mute and unmute audio
+
+S
+Stop movie
+
+ESC
+Exit full screen mode
+
+PLUS
+Faster
+
+-
+Slower
+
+=
+Normal
+
+A
+Aspect ratio
+
+C
+Crop screen
+
+G
+Increase subtitle delay
+
+H
+Decrease subtitle delay
+
+J
+Increase audio delay
+
+K
+Decrease audio delay
+
+Z
+Change zoom mode
+
+CTRL+1 OR CTRL+2 OR CTRL+3 OR CTRL+4
+Recent media (in Media - Recent media menu)
+
+T
+Show time
+
+R
+Random
+
+CTRL+H
+Hide / unhide controls
+
+CTRL+P
+Prefer­ences/ interface settings
+
+CTRL+E
+Adjust­ments and audio/­video effects
+
+CTRL+B
+Edit bookmarks
+
+CTRL+M
+Open messages
+
+CTRL+N
+Open network
+
+CTRL+C
+Open capture device
+
+CTRL+L
+Open playlist
+
+CTRL+Y
+Save playlist
+
+CTRL+I OR CTRL+J
+Media inform­ation
+
+ALT+A
+Open audio menu
+
+ALT+H
+Open help menu
+
+ALT+M
+Open media menu
+
+ALT+P
+Open playlist menu
+
+ALT+T
+Open tool menu
+
+ALT+V
+Open video menu
+
+ALT+L
+Open playback menu
+
+D
+Show movie path
+
+F1
+Show Help
+
+F11
+Window full-s­creen (not equal to pressing F)
+
+ALT+F4 OR ALT+Q OR CTRL+Q
+Quit VLC

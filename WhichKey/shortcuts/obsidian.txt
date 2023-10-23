@@ -1,0 +1,137 @@
+CTRL+O
+Open quick switcher
+
+CTRL+G
+Open graph view
+
+BLANK
+Open backlinks for the current file
+
+CTRL+P
+Open command palette
+
+BLANK
+Open Markdown importer
+
+CTRL+ALT+LEFT
+Navigate back
+
+CTRL+ALT+RIGHT
+Navigate forward
+
+BLANK
+Open another vault
+
+BLANK
+Open today's note
+
+BLANK
+Open previous daily note
+
+BLANK
+Open next daily note
+
+F1
+Open help
+
+ALT+ENTER
+Follow link under cursor
+
+CTRL+ALT+ENTER
+Open link under cursor in new pane
+
+CTRL+,
+Open settings
+
+BLANK
+Focus on pane above
+
+BLANK
+Focus on pane below
+
+BLANK
+Focus on pane to the left
+
+BLANK
+Focus on pane to the right
+
+BLANK
+Toggle pin
+
+BLANK
+Split vertical
+
+BLANK
+Split horizontal
+
+CTRL+N
+Create new note
+
+CTRL+W
+Close active pane
+
+BLANK
+Close all other panes
+
+BLANK
+Toggle left sidebar
+
+BLANK
+Toggle right sidebar
+
+BLANK
+Toggle default view mode
+
+BLANK
+Use dark mode
+
+BLANK
+Use light mode
+
+CTRL+F
+Search current file
+
+CTRL+H
+Search & replace in current file
+
+CTRL+SHIFT+F
+Search in all files
+
+BLANK
+Toggle fold on the current line
+
+BLANK
+Fold all headings and lists
+
+BLANK
+Unfold all headings and lists
+
+BLANK
+Swap line up
+
+BLANK
+Swap line down
+
+CTRL+B
+Toggle bold for selection
+
+CTRL+I
+Toggle italics for selection
+
+BLANK
+Toggle highlight for selection
+
+CTRL+K
+Insert link
+
+CTRL+D
+Delete paragraph
+
+CTRL+E
+Toggle edit/preview mode
+
+BLANK
+Delete current file
+
+CTRL+S
+Editor: save file

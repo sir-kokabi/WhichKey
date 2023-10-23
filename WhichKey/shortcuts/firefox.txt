@@ -1,0 +1,425 @@
+ALT+LEFT
+Back
+
+ALT+RIGHT
+Forward
+
+ALT+HOME
+Home
+
+CTRL+O
+Open File
+
+F5 OR CTRL+R
+Reload
+
+CTRL+F5 OR CTRL+SHIFT+R
+Reload (override cache)
+
+ESC
+Stop
+
+TAB
+Focus Next Link or Input Field
+
+SHIFT+TAB
+Focus Previous Link or Input Field
+
+PAGEDOWN OR SPACE
+Go Down a Screen
+
+PAGEUP OR SHIFT+SPACE
+Go Up a Screen
+
+END OR CTRL+DOWN
+Go to Bottom of Page
+
+HOME OR CTRL+UP
+Go to Top of Page
+
+F6
+Move to Next Frame
+
+SHIFT+F6
+Move to Previous Frame
+
+CTRL+P
+Print
+
+ALT+ENTER
+Save Focused Link (requires non-default browser.altClickSave setting)
+
+CTRL+S
+Save Page As
+
+CTRL+PLUS
+Zoom In
+
+CTRL+-
+Zoom Out
+
+CTRL+0
+Zoom Reset
+
+CTRL+C
+Copy
+
+CTRL+X
+Cut
+
+DEL
+Delete
+
+CTRL+BACKSPACE
+Delete Word to the Left
+
+CTRL+DEL
+Delete Word to the Right
+
+CTRL+LEFT
+Go one Word to the Left
+
+CTRL+RIGHT
+Go one Word to the Right
+
+HOME
+Go to Beginning of Line
+
+END
+Go to End of Line
+
+CTRL+HOME
+Go to Beginning of Text
+
+CTRL+END
+Go to End of Text
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+V
+Paste (as plain text)
+
+CTRL+Y OR CTRL+SHIFT+Z
+Redo
+
+CTRL+A
+Select All
+
+CTRL+Z
+Undo
+
+CTRL+F
+Find in This Page
+
+F3 OR CTRL+G
+Find Again
+
+SHIFT+F3 OR CTRL+SHIFT+G
+Find Previous
+
+'
+Quick Find within link-text only
+
+/
+Quick Find
+
+ESC
+Close the Find or Quick Find bar
+
+ALT+DOWN OR ALT+UP
+Switch Search Engine
+
+CTRL+K
+Focus Address bar for Web Search (writes "? " there)
+
+CTRL+K
+Focus Search bar (if search bar is shown)
+
+CTRL+DOWN OR CTRL+UP
+Change the Default Search Engine (in the Search bar or new tab page)
+
+ALT+DOWN OR ALT+UP OR F4
+View search engine menu (when Search bar is focused)
+
+CTRL+W OR CTRL+F4
+Close Tab
+
+CTRL+SHIFT+W OR ALT+F4
+Close Window
+
+CTRL+TAB
+Cycle through Tabs in Recently Used Order (if enabled in Preferences)
+
+CTRL+Q
+Quit
+
+CTRL+PAGEUP OR CTRL+SHIFT+TAB
+Go one Tab to the Left
+
+CTRL+PAGEDOWN OR CTRL+TAB
+Go one Tab to the Right
+
+ALT+1 OR ALT+2 OR ALT+9
+Go to Tab 1 to 9
+
+ALT+9
+Go to Last Tab
+
+CTRL+SHIFT+PAGEUP
+Move Tab Left
+
+CTRL+SHIFT+PAGEDOWN
+Move Tab Right
+
+CTRL+SHIFT+HOME
+Move Tab to start (tab element must be focused)
+
+CTRL+SHIFT+END
+Move Tab to end (tab element must be focused)
+
+CTRL+M
+Mute/Unmute Audio
+
+CTRL+T
+New Tab
+
+CTRL+N
+New Window
+
+CTRL+SHIFT+P
+New Private Window
+
+ALT+SHIFT+ENTER
+Open Address or Search in New Background Tab (from address bar)
+
+ALT+ENTER
+Open Address or Search in New Foreground Tab (from address/search bar)
+
+SHIFT+ENTER
+Open Address or Search in New Window (from address bar)
+
+CTRL+ENTER
+Open Search in New Background Tab (from new tab page search field)
+
+CTRL+SHIFT+ENTER
+Open Search in New Foreground Tab
+
+ENTER
+Open Focused Bookmark or Link in Current Tab
+
+CTRL+ENTER
+Open Focused Bookmark in New Foreground Tab
+
+CTRL+SHIFT+ENTER
+Open Focused Bookmark in New Background Tab
+
+CTRL+ENTER
+Open Focused Link in New Background Tab
+
+CTRL+SHIFT+ENTER
+Open Focused Link in New Foreground Tab
+
+SHIFT+ENTER
+Open Focused Bookmark or Link in New Window
+
+CTRL+SHIFT+T
+Undo Close Tab
+
+CTRL+SHIFT+N
+Undo Close Window
+
+CTRL+SHIFT+X
+Moves the URL left or right (if cursor is in the address bar)
+
+CTRL+H
+History sidebar
+
+CTRL+SHIFT+H
+Library window (History)
+
+CTRL+SHIFT+DEL
+Clear Recent History
+
+CTRL+D
+Bookmark This Page
+
+CTRL+B
+Bookmarks sidebar
+
+CTRL+SHIFT+O
+Library window (Bookmarks)
+
+SPACE
+Show List of All Bookmarks (in empty search field)
+
+CTRL+SHIFT+Y
+Downloads
+
+CTRL+SHIFT+A
+Add-ons
+
+F12 OR CTRL+SHIFT+I
+Toggle Developer Tools
+
+CTRL+SHIFT+K
+Web Console
+
+CTRL+SHIFT+C
+Inspector
+
+CTRL+SHIFT+S
+Debugger
+
+SHIFT+F7
+Style Editor
+
+SHIFT+F5
+Profiler
+
+CTRL+SHIFT+E
+Network
+
+SHIFT+F2
+Developer Toolbar
+
+CTRL+SHIFT+M
+Responsive Design View
+
+SHIFT+F4
+Scratchpad
+
+CTRL+U
+Page Source
+
+CTRL+SHIFT+J
+Browser Console
+
+CTRL+I
+Page Info
+
+N OR J OR RIGHT
+Next page
+
+P OR K OR LEFT
+Previous page
+
+CTRL  PLUS
+Zoom in
+
+CTRL+-
+Zoom out
+
+CTRL+0
+Automatic Zoom
+
+R
+Rotate the document clockwise
+
+SHIFT+R
+Rotate counterclockwise
+
+CTRL+ALT+P
+Switch to Presentation Mode
+
+S
+Choose Text Selection Tool
+
+H
+Choose Hand Tool
+
+CTRL+ALT+G
+Focus the Page Number input box
+
+CTRL+ENTER
+Complete .com Address
+
+SHIFT+DEL
+Delete Selected Autocomplete Entry
+
+F11
+Toggle Full Screen
+
+ALT OR F10
+Toggle Menu Bar activation (showing it temporarily when hidden)
+
+CTRL+ALT+R
+Toggle Reader Mode
+
+F7
+Caret Browsing
+
+F6 OR ALT+D OR CTRL+L
+Focus Address Bar
+
+F6 OR CTRL+F
+Focus Search Field in Library
+
+ESC
+Stop Autoscroll Mode
+
+ESC
+Cancel Drag-and-Drop Operation
+
+ESC
+Clear Search Field in Library or Sidebar
+
+ESC OR ALT OR F10
+Close a Menu
+
+SHIFT+F10
+Toggle Context Menu
+
+SPACE
+Toggle Play / Pause
+
+DOWN
+Decrease volume
+
+UP
+Increase volume
+
+CTRL+DOWN
+Mute audio
+
+CTRL+UP
+Unmute audio
+
+LEFT
+Seek back 15 seconds
+
+CTRL+LEFT
+Seek back 10 %
+
+RIGHT
+Seek forward 15 seconds
+
+CTRL+RIGHT
+Seek forward 10 %
+
+HOME
+Seek to the beginning
+
+END
+Seek to the end
+
+LEFT OR RIGHT
+Select left or right tab.
+
+HOME
+Select first tab
+
+END
+Select last tab
+
+CTRL+LEFT OR CTRL+RIGHT
+Move the dotted rectangle to left or right tab
+
+CTRL+HOME
+Move the dotted rectangle to first tab
+
+CTRL+END
+Move the dotted rectangle to last tab
+
+CTRL+SPACE
+Select or deselect the tab with the dotted rectangle.

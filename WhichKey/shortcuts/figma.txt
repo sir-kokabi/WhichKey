@@ -1,0 +1,398 @@
+CTRL+\
+Show/Hide UI
+
+I
+Pick Color
+
+CTRL+/
+Search
+
+V
+Move Tool
+
+F
+Frame Tool
+
+P
+Pen Tool
+
+SHIFT+P
+Pencil Tool
+
+T
+Text Tool
+
+R
+Rectangle Tool
+
+O
+Ellipse Tool
+
+L
+Line Tool
+
+SHIFT+L
+Arrow Tool
+
+C
+Add/Show Comments
+
+S
+Slice Tool
+
+CTRL+ALT+\
+Multiplayer Cursors
+
+SHIFT+R
+Rulers
+
+SHIFT+O
+Outlines
+
+CTRL+SHIFT+P
+Pixel Preview
+
+SHIFT+G
+Layout Grids
+
+SHIFT+'
+Pixel Grid
+
+ALT+1
+Open Layers Panel
+
+ALT+2
+Open Assets Panel
+
+ALT+8
+Open Design Panel
+
+ALT+9
+Open Prototype Panel
+
+ALT+0
+Open Code Panel
+
+SPACE+DRAG
+Pan
+
+CTRL+PLUS OR CTRL+=
+Zoom In
+
+CTRL+-
+Zoom Out
+
+CTRL+0
+Zoom to 100%
+
+SHIFT+1
+Zoom to Fit
+
+SHIFT+2
+Zoom to Selection
+
+N
+Zoom to Next Frame
+
+SHIFT+N
+Zoom to Previous Frame
+
+PAGEUP
+Previous Page
+
+PAGEDOWN
+Next Page
+
+HOME
+Find Previous Frame
+
+END
+Find Next Frame
+
+CTRL+B
+Bold
+
+CTRL+I
+Italic
+
+CTRL+U
+Underline
+
+CTRL+SHIFT+V
+Paste Match Style
+
+CTRL+K
+Create Link
+
+CTRL+SHIFT+X
+Strikethrough
+
+CTRL+SHIFT+7
+Turn into a numbered list
+
+CTRL+SHIFT+8
+Turn into bullet list
+
+CTRL+ALT+L
+Text Align Left
+
+CTRL+ALT+T
+Text Align Center
+
+CTRL+ALT+R
+Text Align Right
+
+CTRL+ALT+J
+Text Align Justified
+
+CTRL+SHIFT+< OR CTRL+SHIFT+>
+Adjust Font Size
+
+CTRL+ALT+< OR CTRL+ALT+>
+Adjust Font Weight
+
+ALT+< OR ALT+>
+Adjust Letter Spacing
+
+ALT+SHIFT+< OR ALT+SHIFT+>
+Adjust Line Height
+
+P
+Pen
+
+SHIFT+P
+Pencil
+
+B
+Paint Bucket (While editing a shape)
+
+N/A
+Bend Tool (While editing a shape)
+
+ALT+/
+Remove Fill
+
+SHIFT+/
+Remove Stroke
+
+SHIFT+X
+Swap Fill Stroke
+
+CTRL+SHIFT+O
+Outline Stroke
+
+CTRL+E
+Flatten Selection
+
+CTRL+J
+Join Selection (After selecting points)
+
+SHIFT+BACKSPACE
+Delete Heal Selection (After selecting points)
+
+CTRL+A
+Select All
+
+CTRL+SHIFT+A
+Select Inverse
+
+ESC
+Select None
+
+CTRL+CLICK
+Deep Select
+
+ENTER
+Select Children
+
+SHIFT+ENTER
+Select Parent
+
+TAB
+Select Next Sibling
+
+SHIFT+TAB
+Select Previous Sibling
+
+CTRL+ALT+A
+Select all Matching Layers
+
+CTRL+G
+Group Selection
+
+CTRL+BACKSPACE
+Ungroup Selection
+
+CTRL+ALT+G
+Frame Selection
+
+CTRL+SHIFT+H
+Show/Hide Selection
+
+CTRL+SHIFT+L
+Lock/Unlock Selection
+
+ALT
+Measure to Selection (While pointing…)
+
+ALT
+Duplicate Selection (While moving)
+
+CTRL+CLICK
+Deep Select
+
+CTRL+DRAG
+Deep Select Within Rectangle
+
+ALT
+Resize from Center
+
+SHIFT
+Resize Proportionally
+
+CTRL
+Crop (images)/Ignore Constraints (Frames Only)
+
+CTRL+C
+Copy
+
+CTRL+X
+Cut
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+R
+Past to replace
+
+CTRL+SHIFT+V
+Paste Over Selection
+
+CTRL+D
+Duplicate
+
+CTRL+R
+Rename Selection
+
+CTRL+SHIFT+E
+Export
+
+CTRL+F
+Find
+
+CTRL+SHIFT+C
+Copy as PNG
+
+CTRL+ALT+C
+Copy Properties
+
+CTRL+ALT+V
+Paste Properties
+
+SHIFT+H
+Flip Horizontal
+
+SHIFT+V
+Flip Vertical
+
+CTRL+ALT+M
+Use as Mask
+
+ENTER
+Edit Shape or Image
+
+CTRL+SHIFT+K
+Place Image
+
+0  0
+Set opacity to 0%
+
+1
+Set Opacity to 10%
+
+5
+Set Opacity to 50%
+
+0
+Set Opacity to 100%
+
+CTRL+]
+Bring Forward
+
+CTRL+[
+Send Backward
+
+]
+Bring to Front
+
+[
+Send to Back
+
+ALT+A  D
+Align Left/Right
+
+ALT+W  S
+Align Top/Bottom
+
+ALT+H  V
+Align Centers
+
+ALT+SHIFT+H  V
+Distribute Spacing
+
+CTRL+ALT+SHIFT+T
+Tidy Up
+
+SHIFT+A
+Add Auto Layout
+
+ALT+SHIFT+A
+Remove Auto Layout
+
+ALT+2
+Show Assets
+
+CTRL+ALT+O
+Team Library
+
+CTRL+ALT+K
+Create Component
+
+CTRL+ALT+B
+Detach Instance
+
+ALT
+Swap Component Instance (While dragging from Assets)
+
+CTRL+SHIFT+?
+Show Keyboard Shortcuts
+
+CTRL+ALT+S
+Save to version history
+
+CTRL+SHIFT+F
+Find next
+
+CTRL+SHIFT+D
+Find previous
+
+CTRL+Z
+Undo
+
+ALT+L
+Collapse all Layers
+
+CTRL+ALT+P
+Run last Plugin
+
+CTRL+SHIFT+'
+Snap to Pixel Grid
+
+ALT+DOUBLE-CLICK
+Crop Image
+
+CTRL+RIGHT-CLICK
+Select Layer Menu
+
+SPACE
+Keep object in frame while moving

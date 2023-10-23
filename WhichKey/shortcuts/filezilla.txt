@@ -1,0 +1,92 @@
+F2
+Rename selected file
+
+F3
+Search remote files
+
+F5
+Refreshes local and remote file and folder views
+
+CTRL+SHIFT+N
+create a new directory
+
+CTRL+E
+Show files currently being edited
+
+CTRL+I
+Directory listing filters …
+
+CTRL+O
+Enable directory comparison
+
+CTRL+Y
+Toggle synchronized browsing
+
+CTRL+M
+Manual transfer
+
+ALT+DOWN
+Transfer selected item to an item in other pane with same name
+
+ENTER
+Transfers selected file
+
+CTRL+C
+Stops the current operation
+
+CTRL+D
+Disconnects from server
+
+CTRL+P
+Process queue
+
+CTRL+Q
+Exit
+
+CTRL+R
+Reconnects to server
+
+CTRL+U
+Preserve timestamps of transferred files
+
+TAB
+Switches to the next view
+
+CTRL+W
+Close tab
+
+ALT+UP
+Navigates to parent folder in file view
+
+CTRL+S
+Opens the Site Manager
+
+CTRL+T
+Opens a new tab
+
+CTRL+PAGEUP OR CTRL+PAGEDOWN
+switches to next/previous tab
+
+UP
+Moves up one item in the current view
+
+DOWN
+Moves down one item in the current view
+
+LEFT
+Nothing in a files view, Up one level in a tree view
+
+RIGHT
+Go down one level in a tree view
+
+RIGHT  RIGHT
+Step into collapsed node
+
+ENTER
+Expand selected directory
+
+CTRL+B
+Add bookmark
+
+CTRL+SHIFT+B
+Manage bookmarks

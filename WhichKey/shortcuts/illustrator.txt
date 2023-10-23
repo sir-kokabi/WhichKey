@@ -1,0 +1,1040 @@
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+CTRL+X
+Cut
+
+CTRL+C
+Copy
+
+CTRL+V
+Paste
+
+CTRL+F
+Paste in front
+
+CTRL+B
+Paste at back
+
+CTRL+SHIFT+B
+Paste in place
+
+CTRL+ALT+SHIFT+B
+Paste on all artboards
+
+CTRL+I
+Check spelling
+
+CTRL+SHIFT+K
+Open the Color Settings dialog box
+
+CTRL+ALT+SHIFT+K
+Open the Keyboard Shortcuts dialog box
+
+CTRL+K
+Open the Preferences dialog box
+
+CTRL+N
+Create a document
+
+CTRL+SHIFT+N
+Create a document from a template
+
+CTRL+ALT+N
+Create a document without opening the New Document dialog box
+
+CTRL+O
+Open a document
+
+CTRL+SHIFT+P
+Place a file in the document
+
+CTRL+ALT+SHIFT+I
+Open the File Information dialog box
+
+CTRL+ALT+P
+Open the Document Setup dialog box
+
+CTRL+ALT+O
+Browse in Adobe Bridge
+
+CTRL+W
+Close the document window
+
+CTRL+S
+Save changes made to the document
+
+CTRL+SHIFT+S
+Open the Save As dialog box
+
+CTRL+ALT+S
+Save a copy of the document
+
+CTRL+F12
+Save the document as script files
+
+CTRL+ALT+E
+Open the Export for screens dialog box
+
+CTRL+ALT+SHIFT+S
+Open the Save For Web dialog box
+
+CTRL+ALT+SHIFT+P
+Package the document
+
+CTRL+P
+Print
+
+CTRL+Q
+Exit the application
+
+SHIFT+O
+Artboard tool
+
+V
+Selection tool
+
+A
+Direct Selection tool
+
+Y
+Magic Wand tool
+
+Q
+Lasso tool
+
+P
+Pen tool
+
+SHIFT+~
+Curvature tool
+
+SHIFT+B
+Blob Brush tool
+
+-
+Delete Anchor Point tool
+
+SHIFT+C
+Switch to Anchor Point tool
+
+T
+Type tool
+
+SHIFT+T
+Touch Type tool
+
+\
+Line Segment tool
+
+M
+Rectangle tool
+
+L
+Ellipse tool
+
+B
+Paintbrush tool
+
+N
+Pencil tool
+
+SHIFT+N
+Shaper tool
+
+R
+Rotate tool
+
+O
+Reflect tool
+
+S
+Scale tool
+
+SHIFT+R
+Warp tool
+
+SHIFT+W
+Width Tool
+
+E
+Free Transform tool
+
+SHIFT+M
+Shape Builder Tool
+
+SHIFT+P
+Perspective Grid Tool
+
+SHIFT+V
+Perspective Selection Tool
+
+SHIFT+S
+Symbol Sprayer tool
+
+J
+Column Graph tool
+
+U
+Mesh tool
+
+G
+Gradient tool
+
+I
+Eyedropper tool
+
+W
+Blend tool
+
+K
+Live Paint Bucket tool
+
+SHIFT+L
+Live Paint Selection tool
+
+SHIFT+K
+Slice tool
+
+SHIFT+E
+Eraser tool
+
+C
+Scissors tool
+
+H
+Hand tool
+
+Z
+Zoom tool
+
+ALT
+Switch to Smooth tool while using Blob Brush tool
+
+F
+Toggle between screen modes
+
+SPACE
+Switch to Hand tool (when not in text-edit mode)
+
+CTRL+SPACE
+Switch to Zoom tool in magnify mode
+
+CTRL+ALT+SPACE
+Switch to Zoom tool in reduce mode
+
+SPACE
+Move Zoom marquee while dragging with the Zoom tool
+
+CTRL+SHIFT+B
+Hide bounding box
+
+CTRL+ALT+SHIFT+3
+Hide unselected artwork
+
+ALT+DRAG
+Convert between horizontal and vertical guide
+
+CTRL+H
+Show document template
+
+CTRL+SHIFT+H
+Show/Hide artboards
+
+CTRL+R
+Show/Hide artboard rulers
+
+CTRL+SHIFT+D
+Show transparency grid
+
+CTRL+ALT+0
+View all artboards in window
+
+CTRL+SHIFT+V
+Paste in place on the active artboard
+
+ESC
+Exit Artboard tool mode
+
+SHIFT+DRAG
+Create artboard inside another artboard
+
+CTRL+CLICK
+Select multiple artboards in the Artboards panel
+
+CTRL+F6
+Navigate to next document
+
+CTRL+SHIFT+F6
+Navigate to previous document
+
+CTRL+ALT+F6
+Navigate to next document group
+
+CTRL+ALT+SHIFT+F6
+Navigate to previous document group
+
+CTRL+Y
+Toggle between Outline and GPU Preview of the document
+
+CTRL+E
+Toggle between GPU and CPU Preview of the document
+
+CTRL+ALT+SHIFT+Y
+View the document in Overprint Preview mode
+
+CTRL+ALT+Y
+View the document in Pixel Preview mode
+
+ESC
+Exit Full Screen mode
+
+CTRL+=
+Zoom in
+
+CTRL+-
+Zoom out
+
+CTRL+;
+Hide guides
+
+CTRL+ALT+;
+Lock guides
+
+CTRL+5
+Make guides
+
+CTRL+ALT+5
+Release guides
+
+CTRL+U
+Show/ hide smart guides
+
+CTRL+SHIFT+I
+Show/ hide perspective grid
+
+CTRL+'
+Show grid
+
+CTRL+SHIFT+'
+Snap to grid
+
+CTRL+ALT+'
+Snap to point
+
+CTRL+`
+Switch to last-used selection tool
+
+ALT
+Switch between Direct Selection tool and Group Selection tool
+
+SHIFT+CLICK
+Add to a selection with Selection tools
+
+SHIFT+CLICK
+Subtract a selection with Selection tool
+
+ALT+CLICK
+Subtract from selection with Magic Wand tool
+
+SHIFT+DRAG
+Add to selection with Lasso tool
+
+ALT+DRAG
+Subtract from selection with Lasso tool
+
+CAPS  LOCK
+Change pointer to cross hair for Lasso tool
+
+CTRL+ALT+A
+Select artwork in active artboard
+
+ALT+C+O
+Create crop marks around selected object
+
+CTRL+A
+Select all
+
+CTRL+SHIFT+A
+Deselect
+
+CTRL+6
+Reselect
+
+CTRL+ALT+]
+Select the object above the current selection
+
+CTRL+ALT+[
+Select the object below the current selection
+
+CTRL+G
+Group the selected artwork
+
+CTRL+SHIFT+G
+Ungroup the selected artwork
+
+CTRL+2
+Lock a selection
+
+CTRL+ALT+2
+Unlock a selection
+
+CTRL+3
+Hide a selection
+
+CTRL+ALT+3
+Show all selections
+
+RIGHT OR LEFT OR UP OR DOWN
+Move selection in user-defined increments
+
+SHIFT+UP OR SHIFT+DOWN OR SHIFT+LEFT OR SHIFT+RIGHT
+Move selection in 10x user-defined increments
+
+CTRL+ALT+SHIFT+2
+Lock all deselected artwork
+
+SHIFT
+Constrain movement to 45° angle
+
+CTRL+]
+Bring a selection forward
+
+CTRL+SHIFT+]
+Move a selection to the front
+
+CTRL+[
+Send a selection backward
+
+CTRL+SHIFT+[
+Move a selection to the back
+
+SPACE+DRAG
+Move a shape while drawing it
+
+ALT+DRAG
+Draw from the center of a shape
+
+DRAG+UP OR DRAG+DOWN
+Increase or decrease polygon sides, star points, etc.
+
+CTRL+DRAG
+Keep the inner radius of a star constant
+
+ALT+DRAG
+Keep the sides of a star straight
+
+DRAG+C
+Switch between an open and closed arc
+
+DRAG+F
+Flip an arc, keeping the reference point constant
+
+ALT+DRAG+DRAG
+Add or subtract winds from a spiral while increasing its length
+
+CTRL+DRAG+DRAG
+Change the decay rate of a spiral
+
+DRAG+UP OR DRAG+DOWN
+Add/remove horizontal/concentric lines from rectangular/polar grid
+
+DRAG+RIGHT OR DRAG+LEFT
+Add/remove vertical/radial lines from a rectangular/polar grid
+
+DRAG+F
+Decrease the skew value for horizontal dividers by 10%
+
+DRAG+V
+Increase the skew value for horizontal dividers by 10%
+
+DRAG+X
+Decrease the skew value for vertical dividers by 10%
+
+DRAG+C
+Increase the skew value for vertical dividers by 10%
+
+]
+Increase size of Blob Brush
+
+[
+Decrease size of Blob Brush
+
+SHIFT
+Constrain Blob Brush path horizontally or vertically
+
+SHIFT+D
+Switch through drawing modes
+
+CTRL+J
+Join two or more paths
+
+CTRL+ALT+J
+Average two or more paths
+
+CTRL+ALT+SHIFT+J
+Create corner or smooth join
+
+CTRL+8
+Create a compound path
+
+CTRL+ALT+SHIFT+8
+Release a compound path
+
+CTRL+SHIFT+F8
+Edit a pattern
+
+SHIFT+P
+Perspective Grid Tool
+
+SHIFT+V
+Perspective Selection Tool
+
+CTRL+SHIFT+I
+Perspective Grid
+
+5+CLICK+DRAG
+Moving objects perpendicularly
+
+CTRL+ALT+DRAG
+Copying objects in perspective
+
+CTRL+D
+Repeat transforming objects in perspective
+
+SHIFT+D
+Switching between drawing modes
+
+ALT
+Switch Pen tool to Convert Anchor Point tool
+
+ALT
+Switch between Add Anchor Point tool and Delete Anchor Point tool
+
+ALT
+Switch Scissors tool to Add Anchor Point tool
+
+ALT
+Switch Pencil tool to Smooth tool
+
+SPACE+DRAG
+Move current anchor point while drawing with Pen tool
+
+ALT+DRAG
+Cut a straight line with Knife tool
+
+ALT+SHIFT+DRAG
+Cut at 45° or 90° with Knife tool
+
+ALT+SHAPE  MODE
+Use shape mode buttons in Pathfinder panel to create compound paths
+
+ALT+CLICK
+Erase unwanted closed regions created using Shape Builder tool
+
+SHIFT+M
+Select the Shape Builder tool
+
+SHIFT+CLICK+DRAG
+Display rectangular marquee to easily merge multiple paths
+
+SHIFT+}
+Increase the intensity of symbols (when using Symbolism tool)
+
+SHIFT+{
+Decrease the intensity of symbols (when using Symbolism tool)
+
+CTRL+ALT+B
+Blend objects
+
+CTRL+ALT+SHIFT+B
+Finish adding objects to the blend
+
+CTRL+ALT+SHIFT+W
+Distort objects using a warp-shaped envelope
+
+CTRL+ALT+M
+Distort objects using a mesh as the shape of the envelope
+
+CTRL+ALT+C
+Distort objects using another object as the shape of the envelope
+
+ALT+CLICK
+Set origin point and open dialog box when using Rotate tool etc.
+
+ALT+DRAG
+Duplicate and transform selection when using Selection tool etc.
+
+~+DRAG
+Transform pattern when using Selection tool, etc.
+
+CTRL+D
+Reapply a transformation to an object
+
+CTRL+4
+Apply last pathfinder effect to the selected object
+
+CTRL+SHIFT+M
+Move an object
+
+CTRL+ALT+SHIFT+D
+Open the Transform Each dialog box
+
+CTRL+7
+Make a clipping mask
+
+CTRL+ALT+7
+Release a clipping mask
+
+X
+Toggle between fill and stroke
+
+D
+Set fill and stroke to default
+
+SHIFT+X
+Swap fill and stroke
+
+>
+Select gradient fill mode
+
+CTRL+ALT+G
+Hide gradient annotator (when using the Gradient tool)
+
+<
+Select color fill mode
+
+/
+Select no stroke/fill mode
+
+SHIFT+TOOL
+Sample color from an image or intermediate color from gradient
+
+ALT+SHIFT+CLICK+TOOL
+Sample style and append appearance of currently selected item
+
+CTRL+/
+Add new fill
+
+CTRL+ALT+/
+Add new stroke
+
+CTRL+ALT+X
+Make Live Paint (when using the Paint Bucket tool)
+
+[
+Decrease Bristle brush size
+
+]
+Increase Bristle brush size
+
+SHIFT+CLICK
+Select multiple width points
+
+ALT+DRAG
+Create non-uniform widths
+
+ALT+DRAG
+Create a copy of the width point
+
+SHIFT+DRAG
+Change the position of multiple width points
+
+DEL
+Delete selected width point
+
+ESC
+Deselect a width point
+
+RIGHT OR LEFT
+Move one character right or left
+
+UP OR DOWN
+Move up or down one line
+
+CTRL+RIGHT OR CTRL+LEFT
+Move one word right or left
+
+CTRL+UP OR CTRL+DOWN
+Move up or down one paragraph
+
+CTRL+SHIFT+RIGHT OR SHIFT+LEFT
+Select one word right or left
+
+CTRL+SHIFT+UP OR SHIFT+CTR+DOWN
+Select one paragraph before or after
+
+SHIFT+CLICK
+Extend existing selection
+
+CTRL+SHIFT+L OR CTRL+SHIFT+R OR CTRL+SHIFT+C
+Align paragraph left, right, or center
+
+CTRL+SHIFT+J
+Justify text left
+
+CTRL+SHIFT+F
+Justify all lines
+
+CTRL+ALT+SHIFT+C
+Toggle line composer
+
+SHIFT+ENTER
+Insert soft enter
+
+CTRL+ALT+K
+Highlight kerning
+
+CTRL+SHIFT+X
+Reset horizontal scale to 100%
+
+CTRL+SHIFT+. OR,
+Increase or decrease font size
+
+CTRL+ALT+SHIFT+. OR,
+Increase or decrease font size by steps
+
+ALT+UP
+Increase leading
+
+ALT+DOWN
+Decrease leading
+
+CTRL+ALT+K
+Select tracking value
+
+CTRL+ALT+Q
+Reset tracking/kerning to 0
+
+ALT+UP
+Increase kerning and tracking
+
+ALT+DOWN
+Decrease kerning and tracking
+
+CTRL+SHIFT+O
+Create outlines
+
+CTRL+T
+Open the Character panel
+
+CTRL+ALT+T
+Open the Paragraph panel
+
+CTRL+SHIFT+T
+Open the Tabs panel
+
+CTRL+ALT+SHIFT+T
+Open the OpenType panel
+
+ALT+8
+Insert bullets
+
+ALT+G
+Insert copyright symbol
+
+ALT+;
+Insert ellipsis
+
+ALT+7
+Insert paragraph symbol
+
+ALT+6
+Insert section symbol
+
+ALT+2
+Insert trademark symbol
+
+ALT+R
+Insert registered trademark symbol
+
+CTRL+SHIFT+=
+Superscript
+
+CTRL+ALT+SHIFT+=
+Subscript
+
+ALT+SHIFT+-
+Insert em dash
+
+ALT+-
+Insert en dash
+
+CTRL+SHIFT+-
+Insert discretionary hyphen
+
+CTRL+ALT+SHIFT+H
+Toggle auto-hyphenation
+
+ALT+[
+Insert double left quotation marks
+
+ALT+SHIFT+[
+Insert double right quotation marks
+
+ALT+]
+Insert single left quotation marks
+
+ALT+SHIFT+]
+Insert single right quotation marks
+
+CTRL+SHIFT+M
+Insert em space
+
+CTRL+SHIFT+N
+Insert en space
+
+CTRL+ALT+SHIFT+M
+Insert thin space
+
+CTRL+ALT+I
+Show hidden characters
+
+ALT+CLICK
+Set options
+
+CTRL+ALT+SHIFT+U
+Switch units of measurement
+
+ALT+CLICK
+Delete without confirmation
+
+SHIFT+ENTER
+Apply value and keep text box active
+
+SHIFT+CLICK
+Select range of actions, brushes, layers, links, styles, or swatches
+
+CTRL+CLICK
+Select noncontiguous actions, brushes, layers, links, styles, or swatches
+
+TAB
+Show/Hide all panels
+
+SHIFT+TAB
+Show/Hide all panels except the Tools panel and Control panel
+
+CTRL+UP
+Increase values in logical fractions of the measurement unit
+
+CTRL+DOWN
+Decrease values in logical fractions of the measurement unit
+
+SHIFT+UP
+Increase measurement unit by 10x
+
+SHIFT+DOWN
+Decrease measurement unit by 10x
+
+CTRL+T
+Open the Character panel
+
+CTRL+ALT+T
+Open the Paragraph panel
+
+UP
+Increase the selected value by a small increment
+
+DOWN
+Decrease the selected value by a small increment
+
+SHIFT+UP
+Increase the selected value by a large increment
+
+SHIFT+DOWN
+Decreases the selected value by a large increment
+
+CTRL+UP
+Increase the selected value by a fraction
+
+CTRL+DOWN
+Decrease the selected value by a fraction
+
+CTRL+ALT+SHIFT+F
+Highlight the font name field in the Character panel
+
+CTRL+CLICK
+Select the complement for the current color fill/stroke
+
+ALT+CLICK
+Change the nonactive fill/stroke
+
+CTRL+ALT+CLICK
+Select the complement for the nonactive fill/stroke
+
+CTRL+SHIFT+CLICK
+Select the inverse for the current fill/stroke
+
+CTRL+ALT+SHIFT+CLICK
+Select the inverse for the nonactive fill/stroke
+
+SHIFT+F3
+Open Color Guide
+
+SHIFT+CLICK
+Change the color mode
+
+SHIFT+DRAG
+Move color sliders in tandem
+
+ALT+DRAG
+Duplicate color stops
+
+ALT+DRAG
+Swap color stops
+
+ALT+CLICK
+Apply swatch color to active color stop
+
+CTRL+CLICK
+Reset the gradient fill to default black and white linear gradient
+
+CTRL+ALT+G
+Show/Hide gradient arrow
+
+ALT+DRAG
+Modify angle and end-point together
+
+SHIFT+DRAG
+Constrain Gradient tool or Gradient annotator while dragging
+
+G
+View Gradient annotator in selected gradient filled object
+
+CTRL+L
+Add a layer
+
+CTRL+ALT+L
+Add a layer while opening the New Layer dialog box
+
+ALT+CLICK
+Select all objects on the layer
+
+ALT+CLICK
+Show/hide all layers but the selected one
+
+CTRL+CLICK
+Select Outline/Preview view for the selected layer
+
+CTRL+ALT+CLICK
+Selects Outline/Preview view for all other layers
+
+ALT+CLICK
+Lock/unlock all other layers
+
+ALT+CLICK
+Expand all sublayers to display entire hierarchy
+
+ALT+CLICK
+Set options as you create new layer
+
+ALT+CLICK
+Set options as you create new sublayer
+
+CTRL+ALT+CLICK
+Place new sublayer at bottom of layer list
+
+CTRL+CLICK
+Place layer at top of layer list
+
+CTRL+ALT+CLICK
+Place layer below selected layer
+
+ALT+DRAG
+Copy the selection to a layer, sublayer, or group
+
+CTRL+CLICK
+Create new spot color
+
+CTRL+SHIFT+CLICK
+Create new global process color
+
+ALT+DRAG
+Replace swatch with another
+
+SHIFT+ENTER
+Apply a value and keep focus in edit field
+
+ALT+ENTER
+Apply a value and copy object
+
+CTRL+ENTER
+Apply a value and scale option proportionately for width or height
+
+CTRL+SHIFT+E
+Apply last effect to the selected object
+
+CTRL+ALT+SHIFT+E
+Apply last effect to selected object by adjusting values in effects dialog box
+
+ALT+CLICK
+Change mask to grayscale image for editing
+
+SHIFT+CLICK
+Disable opacity mask
+
+SHIFT+CLICK
+Re-enable opacity mask
+
+F1
+Invoke Help
+
+F2
+Cut
+
+F3
+Copy
+
+F4
+Paste
+
+F5
+Show/hide Brushes panel
+
+F6
+Show/hide Color panel
+
+F7
+Show/hide Layers panel
+
+F8
+Create new symbol
+
+CTRL+F8
+Show/hide Info panel
+
+CTRL+F9
+Show/hide Gradient panel
+
+CTRL+F10
+Show/hide Stroke panel
+
+CTRL+F11
+Show/hide Attributes panel
+
+F12
+Revert
+
+SHIFT+F5
+Show/hide Graphic Styles panel
+
+SHIFT+F6
+Show/hide Appearance panel
+
+SHIFT+F7
+Show/hide Align panel
+
+SHIFT+F8
+Show/hide Transform panel
+
+CTRL+SHIFT+F9
+Show/hide Pathfinder panel
+
+CTRL+SHIFT+F10
+Show/hide Transparency panel
+
+CTRL+SHIFT+F11
+Show/hide Symbols panel

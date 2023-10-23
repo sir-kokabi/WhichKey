@@ -1,0 +1,362 @@
+F2
+Edit the metadata of the currently selected field in the book list.
+
+A
+Add books
+
+SHIFT+A
+Add formats to the selected books
+
+C
+Convert selected books
+
+DEL
+Remove selected books
+
+E
+Edit metadata of selected books
+
+K
+Edit Table of Contents
+
+M
+Merge selected records
+
+ALT+M
+Merge selected records, keeping originals
+
+T
+Edit book
+
+CTRL+D
+Download metadata and covers
+
+D
+Send to device
+
+G
+Get books
+
+O
+Open containing folder
+
+P
+Polish books
+
+S
+Save to disk
+
+CTRL+R
+Restart calibre
+
+CTRL+SHIFT+R
+Restart calibre in debug mode
+
+CTRL+Q
+Quit calibre
+
+ALT+SHIFT+J
+Toggle jobs list
+
+ALT+SHIFT+B
+Toggle Cover browser
+
+ALT+SHIFT+D
+Toggle Book details panel
+
+ALT+SHIFT+T
+Toggle Tag browser
+
+ALT+SHIFT+G
+Toggle Cover grid
+
+I
+Show Book details
+
+V
+View
+
+SHIFT+V
+View last read book
+
+ALT+V
+View specific format
+
+X
+Toggle auto scroll of the book list
+
+ALT+A
+Show books by the same author as the current book
+
+ALT+T
+Show books with the same tags as current book
+
+ALT+P
+Show books by the same publisher as current book
+
+ALT+SHIFT+S
+Show books in the same series as current book
+
+/ OR CTRL+F
+Focus the Search bar
+
+CTRL+SHIFT+F
+Open the Advanced search dialog
+
+ALT+SHIFT+F
+Toggle the Search bar
+
+ESC
+Clear the current search
+
+SHIFT+ESC
+Focus the book list
+
+CTRL+ESC
+Clear the Virtual library
+
+ALT+ESC
+Clear the additional restriction
+
+CTRL+*
+Create a temporary Virtual library based on the current search
+
+CTRL+RIGHT
+Select the next Virtual library tab
+
+CTRL+LEFT
+Select the previous Virtual library tab
+
+N OR F3
+Find the next book that matches the current search
+
+SHIFT+N OR SHIFT+F3
+Find the previous book that matches the current search
+
+CTRL+SHIFT+E
+Add empty books to calibre
+
+CTRL+M
+Toggle mark/unmarked status on selected books
+
+Q
+Open the Quick View popup for viewing books in related series/tags/etc.
+
+SHIFT+Q
+Focus the opened Quick View panel
+
+SHIFT+S
+Perform a search in the Quick View panel
+
+F5
+Re-apply the current sort
+
+SPACE OR PAGEDOWN
+Next page
+
+PAGEUP
+Previous page
+
+ESC
+Access viewer controls
+
+CTRL+M
+Switch between paged and flowed layout modes
+
+CTRL+B
+Set bookmark
+
+ALT+F
+Activate hints mode to follow links via keyboard
+
+CTRL+PLUS
+Increase font size
+
+CTRL+-
+Decrease font size
+
+CTRL+DOWN OR CTRL+RIGHT OR END
+Scroll to the end of the current file
+
+CTRL+UP OR CTRL+LEFT OR HOME
+Scroll to the beginning of the current file
+
+CTRL+HOME
+Scroll to the beginning of the book
+
+CTRL+END
+Scroll to the end of the book
+
+CTRL+DOWN OR CTRL+RIGHT OR END
+Scroll to the end of the current file
+
+UP
+Scroll backwards smoothly (by screen-fulls in paged mode)
+
+DOWN
+Scroll forwards smoothly (by screen-fulls in paged mode)
+
+LEFT
+Scroll left
+
+RIGHT
+Scroll right
+
+PAGEUP OR SHIFT+SPACE
+Scroll backwards by screen-fulls
+
+SPACE OR PAGEDOWN
+Scroll forwards by screen-fulls
+
+CTRL+PAGEUP
+Scroll to the previous section
+
+CTRL+PAGEDOWN
+Scroll to the next section
+
+ALT+LEFT
+Back
+
+ALT+RIGHT
+Forward
+
+CTRL+T
+Show/hide Table of Contents
+
+CTRL+S
+Read aloud
+
+ALT+F
+Follow links with the keyboard
+
+CTRL+C
+Copy to clipboard
+
+ALT+C
+Copy current location to clipboard
+
+CTRL+SHIFT+C
+Copy current location as calibre:// URL to clipboard
+
+/ OR CTRL+F
+Start search
+
+F3 OR ENTER
+Find next
+
+SHIFT+F3
+Find previous
+
+CTRL+PLUS
+Increase font size
+
+CTRL+-
+Decrease font size
+
+CTRL+0
+Restore default font size
+
+CTRL+]
+Increase number of pages per screen
+
+CTRL+[
+Decrease number of pages per screen
+
+CTRL+ALT+C
+Make number of pages per screen automatic
+
+F11 OR CTRL+SHIFT+F
+Toggle full screen
+
+CTRL+M
+Toggle between Paged mode and Flow mode for text layout
+
+CTRL+W
+Toggle the scrollbar
+
+CTRL+X
+Toggle the Reference mode
+
+CTRL+B
+Show/hide bookmarks
+
+CTRL+ALT+B
+Create a new bookmark
+
+CTRL+N OR CTRL+E
+Show the book metadata
+
+F5 OR CTRL+R
+Reload book
+
+CTRL+SHIFT+RIGHT
+Alter the current selection forward by a word
+
+CTRL+SHIFT+LEFT
+Alter the current selection backwards by a word
+
+SHIFT+RIGHT
+Alter the current selection forward by a character
+
+SHIFT+LEFT
+Alter the current selection backwards by a character
+
+SHIFT+DOWN
+Alter the current selection forward by a line
+
+SHIFT+HOME
+Extend the current selection to the start of the line
+
+SHIFT+END
+Extend the current selection to the end of the line
+
+CTRL+A
+Select all
+
+SHIFT+UP
+Alter the current selection backwards by a line
+
+CTRL+SHIFT+DOWN
+Alter the current selection forward by a paragraph
+
+CTRL+SHIFT+UP
+Alter the current selection backwards by a paragraph
+
+ESC
+Show the E-book viewer controls
+
+CTRL+, OR CTRL+ESC
+Show E-book viewer preferences
+
+; OR CTRL+G
+Go to a specified book location or position
+
+CTRL+SPACE
+Toggle auto-scroll
+
+ALT+UP
+Auto scroll faster
+
+ALT+DOWN
+Auto scroll slower
+
+CTRL+I
+Show/hide Inspector
+
+CTRL+L
+Show/hide the word lookup panel
+
+CTRL+Q
+Quit the E-book viewer
+
+CTRL+P
+Print book to PDF
+
+CTRL+F11
+Toggle the toolbar
+
+CTRL+H
+Toggle the highlights panel
+
+CTRL+D
+Edit this book

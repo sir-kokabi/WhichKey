@@ -1,0 +1,470 @@
+PAGEUP OR SHIFT+ENTER
+Previous screen
+
+PAGEDOWN OR ENTER
+Next screen
+
+HOME OR CTRL+SHIFT+PAGEUP OR CTRL+SHIFT+UP
+First page
+
+END OR CTRL+SHIFT+PAGEDOWN OR CTRL+SHIFT+DOWN
+Last page
+
+LEFT OR CTRL+PAGEUP
+Previous page
+
+RIGHT OR CTRL+PAGEDOWN
+Next page
+
+CTRL+SHIFT+N
+Go to page
+
+CTRL+F6
+Previous open document
+
+CTRL+SHIFT+F6
+Next open document
+
+UP
+Scroll up
+
+DOWN
+Scroll down
+
+SPACE
+Scroll (when Hand tool is selected)
+
+CTRL+=
+Zoom in
+
+CTRL+-
+Zoom out
+
+S
+Sticky Note tool
+
+E
+Text Edits tool
+
+K
+Stamp tool
+
+U
+Current highlighting tool
+
+SHIFT+U
+Cycle through highlighting tools: Highlighter, Underline Text, Cross Out Text
+
+D
+Current drawing markup tool
+
+SHIFT+D
+Cycle through drawing markup tools
+
+Q
+Cloud tool
+
+X
+Text Box tool
+
+J
+Current Stamp or Attach tool
+
+SHIFT+J
+Cycle through Stamp, Attach File, Record Audio Comment
+
+TAB
+Move focus to the next comment or form field
+
+SHIFT+TAB
+Move focus to previous comment or form field
+
+SHIFT+K
+Add a checkmark in the Comments List for the selected comment
+
+ENTER
+Open pop-up note (or text field in the Comments List) for comment that has the focus
+
+R
+Reply to the comment, in the Comments List, that has the focus
+
+ESC
+Close or exit pop-up (or text field in the Comments List) for comment that has the focus
+
+P
+Toggle between editing and previewing your form
+
+G
+Toggle Guides On / Off
+
+L
+Align selected fields left
+
+R
+Align selected fields right
+
+T
+Align selected fields top
+
+B
+Align selected fields bottom
+
+H
+Align selected fields horizontal
+
+V
+Align selected fields vertical
+
+SHIFT+H
+Center fields horizontally
+
+SHIFT+V
+Center fields vertically
+
+SHIFT+L
+Highlight fields
+
+SHIFT+N
+Show Tab Order
+
+SHIFT+D
+Document JavaScripts
+
+UP OR DOWN
+Move focus to the next or previous row when in the body of the file list on the left
+
+BACKSPACE
+If pressed in the body of the file list, navigate one level up from within a folder
+
+ENTER OR SPACE
+Press the Go Back button in a folder if focus is on the button.
+
+ENTER
+Open focused item
+
+HOME OR END
+If in the body of the file list, move to the first or last row
+
+PAGEDOWN OR PAGEUP
+If in the body of the file list, move to the next or last set of rows to fit the screen
+
+CTRL+A OR CTRL+SHIFT+A
+Select or deselect all files
+
+SHIFT+UP OR SHIFT+DOWN
+Extend the selection by adding the next row above or below the selected row
+
+CTRL+SPACE
+Change whether the row with focus is in the selection
+
+CTRL+UP OR CTRL+DOWN
+Move focus up or down one row without changing the selection
+
+F6
+Move focus to the next pane
+
+SHIFT+F6
+Move focus to the previous pane
+
+CTRL+TAB
+Move focus to the next panel in the Task pane
+
+CTRL+SHIFT+TAB
+Move focus to the previous panel in the Task pane
+
+TAB
+Navigate to the next panel and panel control within an open Task pane
+
+SHIFT+TAB
+Navigate to the previous panel and panel control within an open Task pane
+
+DOWN
+Navigate to the next command button within a panel
+
+UP
+Navigate to the previous command button within a panel
+
+SPACE OR ENTER
+Expand or collapse panel in focus
+
+SHIFT+F4
+Open or close the Task pane
+
+CTRL+SHIFT+F4
+Close the pane that lists the tasks of an Action
+
+SPACE OR ENTER
+Run the command in focus
+
+TAB
+Navigate to the next item in the active panel
+
+SHIFT+TAB
+Navigate to the previous item in the active panel
+
+F10
+Move focus to menus (Windows, UNIX); expand first menu item
+
+SHIFT+F8
+Move focus to toolbar in browser and application
+
+RIGHT OR LEFT OR TAB OR SHIFT+TAB
+Navigate through the other controls in the top bar - Home, Tools, Document
+
+ENTER OR SPACE
+Select a highlighted control in the top bar
+
+CTRL+TAB
+Move to next open document tab (when multiple documents are open)
+
+CTRL+SHIFT+TAB
+Move to previous open document tab (when multiple documents are open)
+
+CTRL+F6
+Move to next open document window (when focus is on document pane)
+
+CTRL+SHIFT+F6
+Move to previous open document window (when focus is on document pane)
+
+CTRL+F4
+Close current document
+
+N/A
+Close all open documents
+
+TAB
+Move focus to next comment, link, or form field in the document pane
+
+F5
+Move focus to document pane
+
+SHIFT+TAB
+Move focus to previous comment, link, or form field in the document pane
+
+SPACE OR ENTER
+Activate selected tool, item (such as a movie clip or bookmark), or command
+
+SHIFT+F10
+Open context menu
+
+F10
+Close context menu
+
+ESC
+Return to Hand tool or Select tool
+
+CTRL+TAB
+Move focus to next tab in a tabbed dialog box
+
+SHIFT+F3 OR CTRL+SHIFT+G
+Move to the previous search result and highlight it in the document
+
+CTRL+F
+Find in document
+
+F3 OR CTRL+G
+Move to next search result and highlight it in the document
+
+ALT+SHIFT+LEFT
+Search the previous document (with Search results displaying multiple files)
+
+ALT+SHIFT+RIGHT
+Search next document (with Search results displaying multiple files)
+
+SHIFT+UP OR SHIFT+RIGHT OR SHIFT+DOWN OR SHIFT+LEFT
+Select text (with Select tool selected)
+
+CTRL+SHIFT+RIGHT OR LEFT
+Select next word or deselect previous word (with Select tool selected)
+
+RIGHT OR LEFT
+Increase or decrease the value of a slider
+
+CTRL+SHIFT+F5
+Open and move focus to navigation pane
+
+F6
+Move focus among the document, message bar, and navigation panels
+
+SHIFT+F6
+Move focus to previous pane or panel
+
+TAB
+Move among the elements of the active navigation panel
+
+UP OR DOWN
+Move to the previous or next navigation panel and make it active
+
+CTRL+TAB
+Move to next navigation panel and make it active
+
+SPACE
+Select or deselect a file in file list (open/close Context pane with file selection)
+
+SPACE
+Select or deselect a To Do card (open/close Context pane with To Do card selection)
+
+ENTER
+Open selected file in file list
+
+ENTER
+Open selected To Do card
+
+UP OR RIGHT OR DOWN OR LEFT
+Move focus to the next/previous file row in file list for selecting single file row
+
+SHIFT+UP OR SHIFT+RIGHT OR SHIFT+DOWN OR SHIFT+LEFT
+Extend the selection by adding the next row above or below the selected row
+
+CTRL+UP OR CTRL+RIGHT OR CTRL+DOWN OR CTRL+LEFT
+Move focus up or down one row without changing the selection
+
+RIGHT OR SHIFT+PLUS
+Expand the current bookmark (focus on Bookmarks panel)
+
+LEFT OR-
+Collapse the current bookmark (focus on Bookmarks panel)
+
+SHIFT+*
+Expand all bookmarks
+
+/
+Collapse selected bookmark
+
+DOWN
+Move focus to next item in a navigation panel
+
+UP
+Move focus to the previous item in a navigation panel
+
+F1
+Open Help window
+
+CTRL+W OR ALT+F4
+Close Help window
+
+ALT+LEFT
+Move back to previously opened topic
+
+ALT+RIGHT
+Move forward to next topic
+
+CTRL+TAB
+Move to next pane
+
+CTRL+SHIFT+TAB
+Move to previous pane
+
+TAB
+Move focus to the next link within a pane
+
+SHIFT+TAB
+Move focus to the previous link within a pane
+
+ENTER
+Activate highlighted link
+
+CTRL+P
+Print Help topic
+
+F2
+Edit Tag
+
+CTRL+SHIFT+5
+Change reading settings for the current document
+
+CTRL+4
+Reflow a tagged PDF, and return to unreflowed view
+
+CTRL+SHIFT+Y
+Activate and deactivate Read Out Loud
+
+CTRL+SHIFT+V
+Read only the current page out loud
+
+CTRL+SHIFT+B
+Read out loud from the current page to the end of the document
+
+CTRL+SHIFT+C
+Pause reading out loud
+
+CTRL+SHIFT+E
+Stop reading out loud
+
+H
+Hand tool
+
+SPACE
+Temporarily select the Hand tool
+
+V
+Select tool
+
+Z
+Marquee Zoom tool
+
+SHIFT+Z
+Cycle through zoom tools: Marquee Zoom, Dynamic Zoom, Loupe
+
+SHIFT
+Temporarily select Dynamic Zoom tool (when Marquee Zoom tool is selected)
+
+CTRL
+Temporarily zoom out (when Marquee Zoom tool is selected)
+
+CTRL+SPACE
+Temporarily select Zoom In tool
+
+R
+Select Object tool
+
+O
+Edit Object tool
+
+A
+Enter/Exit Forms editing
+
+C
+Crop tool
+
+L
+Link tool
+
+F
+Text Field tool
+
+SHIFT+F
+Cycle through tools in forms authoring mode
+
+M
+3D tool
+
+SHIFT+M
+Cycle through Multimedia tools: 3D object, SWF, Sound, Video
+
+T
+Edit Document Text tool
+
+SHIFT+Y
+Redaction
+
+SHIFT+T
+Cycle through Touch Up tools: Text, Readinger Order, Object
+
+CTRL+J
+JavaScript Debugger
+
+CTRL+SHIFT+T
+Insert Blank Pages tool
+
+CTRL+SHIFT+I
+Insert Files
+
+CTRL+SHIFT+D
+Delete pages
+
+~
+Open Output Preview
+
+CTRL+SHIFT+U
+Touch Up Reading Order tool (or if already selected, return focus to dialog box)

@@ -1,0 +1,119 @@
+CTRL+.
+Show keyboard shortcuts
+
+CTRL+E
+Go to Search
+
+CTRL+/
+Show commands
+
+CTRL+G OR CTRL+SHIFT+G
+Goto
+
+CTRL+N OR ALT+N
+Start a new chat
+
+CTRL+,
+Open Settings
+
+F1 OR CTRL+F1
+Open Help
+
+ESC
+Close
+
+CTRL+=
+Zoom in
+
+CTRL+-
+Zoom out
+
+N/A
+Return to default zoom
+
+CTRL+1 OR CTRL+SHIFT+1
+Open Activity
+
+CTRL+2 OR CTRL+SHIFT+2
+Open Chat
+
+CTRL+3 OR CTRL+SHIFT+3
+Open Teams
+
+CTRL+4 OR CTRL+SHIFT+4
+Open Calendar
+
+CTRL+5 OR CTRL+SHIFT+5
+Open Calls
+
+CTRL+6 OR CTRL+SHIFT+6
+Open Files
+
+ALT+UP
+Go to previous list item
+
+ALT+DOWN
+Go to next list item
+
+CTRL+SHIFT+UP
+Move selected team up
+
+CTRL+SHIFT+DOWN
+Move selected team down
+
+CTRL+SHIFT+F6
+Go to previous section
+
+CTRL+F6
+Go to next section
+
+ALT+SHIFT+C
+Go to compose box
+
+CTRL+SHIFT+X
+Expand compose box
+
+CTRL+ENTER
+Send (expanded compose box)
+
+CTRL+O OR CTRL+SHIFT+O
+Attach file
+
+SHIFT+ENTER
+Start new line
+
+ALT+SHIFT+R
+Reply to thread
+
+CTRL+SHIFT+I
+Mark as important
+
+CTRL+SHIFT+A
+Accept video call
+
+CTRL+SHIFT+S
+Accept audio call
+
+CTRL+SHIFT+D
+Decline call
+
+CTRL+SHIFT+C
+Start audio call
+
+CTRL+SHIFT+U
+Start video call
+
+CTRL+SHIFT+M
+Toggle mute
+
+CTRL+SHIFT+O
+Toggle video
+
+CTRL+SHIFT+F
+Filter current list
+
+CTRL+SHIFT+SPACE
+Go to sharing toolbar
+
+F11
+Toggle fullscreen

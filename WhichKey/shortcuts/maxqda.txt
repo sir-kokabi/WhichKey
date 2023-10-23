@@ -1,0 +1,218 @@
+F1
+Opens the MAXQDA help system.
+
+CTRL+N
+Creates a new project.
+
+CTRL+O
+Opens an existing project.
+
+CTRL+A
+Highlights the entire text.
+
+CTRL+C
+copies the selected segment to the clipboard.
+
+CTRL+X
+cuts out the selected segment and puts it in the clipboard.
+
+CTRL+V
+Pastes the selection from the clipboard.
+
+ALT+1
+Opens/closes the window “document system”.
+
+ALT+2
+Opens/closes the window “code system”.
+
+ALT+3
+Opens/closes the window “document browser”.
+
+ALT+4
+Opens/closes the window “retrieved segments”.
+
+CTRL+ALT+B
+Opens the logbook.
+
+CTRL+ALT+M
+Opens the Code Matrix Browser.
+
+CTRL+ALT+R
+Opens the Code Relations Browser.
+
+CTRL+F
+Opens the search toolbar for the current window or the table overview.
+
+CTRL+SHIFT+F
+Opens the text search.
+
+CTRL+P
+Prints the focused window or view.
+
+ALT+DOUBLE-CLICK
+Inserts a MAXQDA object (e.g. a document or code) into MAXMaps, if MAXMaps is open.
+
+CTRL+R
+Resets activations in the “Document System” and “Code System”.
+
+DOUBLE-CLICK
+Opens a document.
+
+SHIFT+DOUBLE-CLICK
+Opens a document in a new tab.
+
+CTRL+CLICK
+Activates or deactivates a document.
+
+F2
+Renames a document.
+
+DEL
+Deletes a document.
+
+ALT+UP OR ALT+DOWN
+Moves a document or document group up and down in the “Document System“.
+
+CTRL+DRAG
+creates a copy of the document without coded segments
+
+CTRL+T
+creates a new document and opens it for editing in the “Document Browser“.
+
+CTRL+D
+Opens the dialog window for importing documents.
+
+ALT+SHIFT+M
+creates a new memo or opens an existing memo for a document.
+
+CTRL+CLICK
+Activates or deactivates a code including the subcodes.
+
+CTRL+SHIFT+CLICK
+Activates or deactivates a code without subcodes.
+
+F2
+Renames a code.
+
+ENTF
+Deletes a code.
+
+ALT+UP OR ALT+DOWN
+Moves a code (possibly with subcodes) up and down in the “Code System“.
+
+ALT+RIGHT OR ALT+LEFT
+Increases and decreases the level of hierarchy of a code.
+
+ALT+DRAG
+creates a copy of the code without coded segments
+
+ALT+N
+Inserts a new code on the chosen level.
+
+CTRL+E
+starts and stops Edit Mode.
+
+CTRL+SHIFT+P
+starts and stops Paraphrase Mode.
+
+ALT+L
+codes the selected segment with the most recently used code.
+
+ALT+W
+opens the dialog window for creating a new code, which will be used to code the selected segment.
+
+ALT+C
+codes the selected segment with the code shown in the Quick List.
+
+ALT+I
+codes the selected segment with a newly-created code
+
+CTRL+L
+Inserts an internal link at the location of the selected segment. Hit again after selecting the destination.
+
+F6
+Inserts a new timestamp into a transcript when in transcription mode.
+
+PAGEUP OR PAGEDOWN
+Moves to the next/previous page of a PDF document.
+
+HOME OR END
+Moves to the beginning or the end of a PDF document.
+
+CTRL+PLUS OR CTRL+MINUS
+Zooms in or out of the document.
+
+CTRL+ZERO
+Zooms the view to 100 %.
+
+ALT+TAB OR ALT+SHIFT+TAB
+Jumps to the next/previous tab.
+
+CTRL+F4
+closes the current tab or the current view.
+
+F3
+Jumps to the next memo.
+
+SHIFT+F3
+Jumps to the previous memo.
+
+F4 OR F5 OR SHIFT  SHIFT
+Plays or pauses the media file.
+
+F7
+Sets a clip start.
+
+F8
+Sets a clip end.
+
+F9
+Plays a clip.
+
+F10
+cancels the clip mark.
+
+F12
+Jump 5 seconds forward
+
+SHIFT+F12
+Jump 5 seconds back
+
+CTRL+L
+Insert a link start to the selected clip. Use the same keyboard combination to insert a link goal.
+
+ALT+SHIFT+M
+Insert a memo at the current position of the media file.
+
+CTRL+SHIFT+E
+Opens the table as Excel file in the standard program.
+
+CTRL+SHIFT+H
+Opens the table as HTML file in the standard internet browser.
+
+CTRL+E
+Opens the dialog window for exporting the table or view.
+
+DEL
+Deletes the chosen row/s.
+
+CTRL+SHIFT+N
+creates a new category.
+
+CTRL+ALT+N
+creates a new search item.
+
+CTRL+E
+Opens the dialog window for exporting a dictionary.
+
+DEL
+Deletes the chosen category.
+
+ALT+SHIFT+N
+creates a new word to be excluded.
+
+CTRL+E
+Opens the dialog window for exporting the stop list.
+
+DEL
+Deletes the focused items.

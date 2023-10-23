@@ -1,0 +1,104 @@
+E
+Edit Message
+
+BACKSPACE
+Delete Message
+
+P
+Pin Message
+
+PLUS
+Add Reaction
+
+R
+Reply
+
+CTRL+C
+Copy Text
+
+ALT+ENTER
+Mark Unread
+
+ESC
+Focus Text Area
+
+CTRL+ALT+UP OR CTRL+ALT+DOWN
+Navigate Between Servers
+
+ALT+UP OR ALT+DOWN
+Navigate Between Channels
+
+ALT+LEFT OR ALT+RIGHT
+Navigate forward and backward in page history
+
+ALT+SHIFT+UP OR ALT+SHIFT+DOWN
+Navigate Between Unread Channels
+
+CTRL+ALT+SHIFT+UP OR CTRL+ALT+SHIFT+DOWN
+Navigate Between Unread Channels with Mentions
+
+CTRL+ALT+RIGHT
+Toggle between last server and DMs
+
+CTRL+K
+Toggle QuickSwitcher
+
+CTRL+SHIFT+N
+Create or join a server
+
+SHIFT+ESC
+Mark server read
+
+ESC
+Mark channel as read
+
+CTRL+SHIFT+T
+Create private group
+
+CTRL+P
+Toggle Pins Popout
+
+CTRL+I
+Toggle Inbox Popout
+
+CTRL+U
+Toggle channel member list
+
+CTRL+E
+Toggle emoji picker
+
+CTRL+G
+Toggle GIF picker
+
+PAGEUP OR PAGEDOWN
+Scroll Chat Up or Down
+
+SHIFT+PAGEUP
+Jump to oldest unread message
+
+CTRL+SHIFT+U
+Upload a file
+
+CTRL+SHIFT+M
+Toggle Mute
+
+CTRL+SHIFT+D
+Toggle Deafen
+
+CTRL+ENTER
+Answer Incoming Call
+
+ESC
+Decline Incoming Call
+
+CTRL+'
+Start Call in Private Message or Group
+
+CTRL+SLASH
+Show Keyboard Shortcuts List
+
+CTRL+SHIFT+H
+Get Help
+
+CTRL+F
+Search

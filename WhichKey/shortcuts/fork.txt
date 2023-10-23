@@ -1,0 +1,140 @@
+CTRL+1
+Show Changes view (second press will focus commit field)
+
+CTRL+2
+Show All Commits view (second press will jump to HEAD)
+
+CTRL+0
+Reveal HEAD
+
+CTRL+P
+Show Quick Launch window
+
+CTRL+TAB
+Select next tab
+
+CTRL+SHIFT+TAB
+Select previous tab
+
+CTRL+T
+Open new tab
+
+CTRL+W
+Close current tab
+
+CTRL+=
+Zoom in
+
+CTRL+-
+Zoom out
+
+CTRL+,
+Open Fork preferences
+
+CTRL+0
+Jump to HEAD
+
+CTRL+F
+Commit search
+
+ENTER OR F3
+Jump to next search result
+
+SHIFT+ENTER OR SHIFT+F3
+Jump to previous search result
+
+CTRL+C
+Copy commit info
+
+DEL
+Remove branch/stash
+
+CTRL+SHIFT+A
+Filter by active branch
+
+CTRL+ENTER
+Commit
+
+CTRL+SHIFT+ENTER
+Commit and push
+
+CTRL+1
+Focus commit message field
+
+CTRL+F
+Filter
+
+ENTER OR CTRL+SHIFT+S
+Stage/unstage selected file (or lines)
+
+CTRL+ALT+SHIFT+S
+Stage/unstage all files
+
+BACKSPACE OR CTRL+SHIFT+D
+Discard selected file (or lines)
+
+CTRL+O
+Open selected file
+
+CTRL+D
+Open selected file in external diff tool
+
+CTRL+C
+Copy selected file full path
+
+F5
+Refresh
+
+CTRL+SHIFT+N
+Init new repository
+
+CTRL+N
+Clone new repository
+
+CTRL+O
+Open repository
+
+CTRL+SHIFT+F
+Fetch
+
+CTRL+ALT+SHIFT+F
+Quick Fetch
+
+CTRL+SHIFT+L
+Pull
+
+CTRL+ALT+SHIFT+L
+Quick Pull
+
+CTRL+SHIFT+P
+Push
+
+CTRL+ALT+SHIFT+P
+Quick Push
+
+CTRL+SHIFT+B
+New branch
+
+CTRL+SHIFT+T
+New tag
+
+CTRL+SHIFT+H
+Create stash
+
+N/A
+Quick Stash
+
+CTRL+ALT+O
+Open in File Explorer
+
+CTRL+ALT+T
+Open in Terminal
+
+F2
+Rename Repository
+
+DEL
+Remove Repository
+
+ENTER
+Open Repository

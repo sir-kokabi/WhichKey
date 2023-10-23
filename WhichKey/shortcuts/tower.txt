@@ -1,0 +1,113 @@
+CTRL+N
+Open new window
+
+CTRL+O
+Show "Quick Open" dialog
+
+N/A
+Show "Quick Actions" dialog
+
+CTRL+D
+Open external diff tool for current view
+
+N/A
+Show Activity window
+
+F11
+Full screen mode
+
+F5
+Refresh / reload data
+
+ALT+S
+Show Services view
+
+ALT+R
+Show Repositories view
+
+CTRL+1
+Show Working Copy view
+
+CTRL+2
+Show History view
+
+CTRL+3
+Show Stashes view
+
+CTRL+4
+Show Pull Request view
+
+CTRL+5
+Show Reflog view
+
+CTRL+0
+Show HEAD branch
+
+CTRL+SHIFT+B
+Check out revision
+
+CTRL+SHIFT+C
+Activate commit dialog
+
+CTRL+ENTER
+Confirm commit dialog
+
+SPACE
+Stage/unstage selected file(s)
+
+CTRL+SHIFT+A
+Stage all current changes
+
+N/A
+Unstage all current changes
+
+CTRL+S
+Save to Stash
+
+CTRL+SHIFT+S
+Apply Stash
+
+DEL
+Discard local changes in selected file
+
+ALT+SHIFT+M
+Show / hide non-modified files (i.e. all of the project's files)
+
+ALT+SHIFT+I
+Show / hide ignored files
+
+ALT+SHIFT+U
+Show / hide files that are marked "assume-unchanged"
+
+CTRL+F
+Fetch
+
+CTRL+P
+Pull
+
+CTRL+U
+Push HEAD
+
+CTRL+G
+Show / hide commit tree graph
+
+CTRL+C
+Copy SHA-1 hashes of selected commits to clipboard
+
+CTRL+RIGHT
+Expand all diffs in changeset
+
+CTRL+LEFT
+Collapse all diffs in changeset
+
+CTRL+M
+Merge
+
+CTRL+R
+Rebase
+
+CTRL+B
+Create new branch
+
+CTRL+SHIFT+T
+Create new tag

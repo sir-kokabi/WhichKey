@@ -1,0 +1,548 @@
+CTRL+N
+New
+
+CTRL+O
+Open...
+
+CTRL+R
+Reload from Disk
+
+CTRL+S
+Save
+
+CTRL+ALT+S
+Save As...
+
+CTRL+SHIFT+S
+Save All
+
+CTRL+W
+Close
+
+CTRL+SHIFT+W
+Close All
+
+CTRL+P
+Print...
+
+ALT+F4
+Exit
+
+CTRL+SHIFT+T
+Restore Recent Closed File
+
+CTRL+SHIFT+U
+UPPERCASE
+
+CTRL+U
+lowercase
+
+ALT+U
+Proper Case
+
+ALT+SHIFT+U
+Proper Case (blend)
+
+CTRL+ALT+U
+Sentence case
+
+CTRL+ALT+SHIFT+U
+Sentence case (blend)
+
+CTRL+I
+Split Lines
+
+CTRL+J
+Join Lines
+
+CTRL+SHIFT+UP
+Move Up Current Line
+
+CTRL+SHIFT+DOWN
+Move Down Current Line
+
+CTRL+ALT+ENTER
+Insert Blank Line Above Current
+
+CTRL+ALT+SHIFT+ENTER
+Insert Blank Line Below Current
+
+CTRL+Q
+Toggle Single Line Comment
+
+CTRL+K
+Single Line Comment
+
+CTRL+SHIFT+K
+Single Line Uncomment
+
+CTRL+SHIFT+Q
+Block Comment
+
+CTRL+SPACE
+Function Completion
+
+CTRL+ALT+SPACE
+Path Completion
+
+CTRL+ENTER
+Word Completion
+
+CTRL+SHIFT+SPACE
+Function Parameters Hint
+
+ALT+C
+Column Editor...
+
+CTRL+ALT+R
+Text Direction RTL
+
+CTRL+ALT+L
+Text Direction LTR
+
+CTRL+SHIFT+R
+Toggle macro record
+
+CTRL+SHIFT+P
+Playback
+
+ALT+SHIFT+S
+Trim Trailing and save
+
+CTRL+F
+Find...
+
+CTRL+SHIFT+F
+Find in Files...
+
+F3
+Find Next
+
+SHIFT+F3
+Find Previous
+
+CTRL+F3
+Select and Find Next
+
+CTRL+SHIFT+F3
+Select and Find Previous
+
+CTRL+ALT+F3
+Find (Volatile) Next
+
+CTRL+ALT+SHIFT+F3
+Find (Volatile) Previous
+
+CTRL+H
+Replace...
+
+CTRL+ALT+I
+Incremental Search
+
+F7
+Search Results Window
+
+SHIFT+F4
+Previous Search Result
+
+F4
+Next Search Result
+
+CTRL+G
+Go to...
+
+CTRL+B
+Go to Matching Brace
+
+CTRL+ALT+B
+Select All Between Matching Braces
+
+CTRL+M
+Mark...
+
+CTRL+SHIFT+1
+Previous mark using 1st Style
+
+CTRL+SHIFT+2
+Previous mark using 2nd Style
+
+CTRL+SHIFT+3
+Previous mark using 3rd Style
+
+CTRL+SHIFT+4
+Previous mark using 4th Style
+
+CTRL+SHIFT+5
+Previous mark using 5th Style
+
+CTRL+SHIFT+0
+Previous mark created with Mark
+
+CTRL+1
+Next mark using 1st Style
+
+CTRL+2
+Next mark using 2nd Style
+
+CTRL+3
+Next mark using 3rd Style
+
+CTRL+4
+Next mark using 4th Style
+
+CTRL+5
+Next mark using 5th Style
+
+CTRL+0
+Next mark created with Mark
+
+CTRL+F2
+Toggle Bookmark
+
+F2
+Next Bookmark
+
+SHIFT+F2
+Previous Bookmark
+
+F11
+Toggle Full Screen Mode
+
+F12
+Post-It
+
+CTRL+NUMPAD1
+1st Tab
+
+CTRL+NUMPAD2
+2nd Tab
+
+CTRL+NUMPAD3
+3rd Tab
+
+CTRL+NUMPAD4
+4th Tab
+
+CTRL+NUMPAD5
+5th Tab
+
+CTRL+NUMPAD6
+6th Tab
+
+CTRL+NUMPAD7
+7th Tab
+
+CTRL+NUMPAD8
+8th Tab
+
+CTRL+NUMPAD9
+9th Tab
+
+CTRL+PAGEDOWN
+Next Tab
+
+CTRL+PAGEUP
+Previous Tab
+
+CTRL+SHIFT+PAGEDOWN
+Move Tab Forward
+
+CTRL+SHIFT+PAGEUP
+Move Tab Backward
+
+CTRL+SHIFT+TAB
+Switch to previous document
+
+CTRL+TAB
+Switch to next document
+
+ALT+H
+Hide Lines
+
+F8
+Focus on Another View
+
+ALT+0
+Fold All
+
+ALT+SHIFT+0
+Unfold All
+
+CTRL+ALT+F
+Collapse Current Level
+
+CTRL+ALT+SHIFT+F
+Uncollapse Current Level
+
+ALT+1
+Collapse Level 1
+
+ALT+2
+Collapse Level 2
+
+ALT+3
+Collapse Level 3
+
+ALT+4
+Collapse Level 4
+
+ALT+5
+Collapse Level 5
+
+ALT+6
+Collapse Level 6
+
+ALT+7
+Collapse Level 7
+
+ALT+8
+Collapse Level 8
+
+ALT+SHIFT+1
+Uncollapse Level 1
+
+ALT+SHIFT+2
+Uncollapse Level 2
+
+ALT+SHIFT+3
+Uncollapse Level 3
+
+ALT+SHIFT+4
+Uncollapse Level 4
+
+ALT+SHIFT+5
+Uncollapse Level 5
+
+ALT+SHIFT+6
+Uncollapse Level 6
+
+ALT+SHIFT+7
+Uncollapse Level 7
+
+ALT+SHIFT+8
+Uncollapse Level 8
+
+F1
+About Notepad++
+
+F5
+Run...
+
+ALT+F1
+Get PHP help
+
+ALT+F2
+Google Search
+
+ALT+F3
+Wikipedia Search
+
+ALT+F6
+Open file in another instance
+
+CTRL+X OR SHIFT+DEL
+SCI_CUT
+
+CTRL+C OR CTRL+INS
+SCI_COPY
+
+CTRL+V OR SHIFT+INS
+SCI_PASTE
+
+CTRL+A
+SCI_SELECTALL
+
+DEL
+SCI_CLEAR
+
+CTRL+Z OR ALT+BACKSPACE
+SCI_UNDO
+
+CTRL+Y OR CTRL+SHIFT+Z
+SCI_REDO
+
+ENTER OR SHIFT+ENTER
+SCI_NEWLINE
+
+TAB
+SCI_TAB
+
+SHIFT+TAB
+SCI_BACKTAB
+
+CTRL+NUM_PLUS
+SCI_ZOOMIN
+
+CTRL+NUM-
+SCI_ZOOMOUT
+
+CTRL+NUM/
+SCI_SETZOOM
+
+CTRL+D
+SCI_SELECTIONDUPLICATE
+
+INS
+SCI_EDITTOGGLEOVERTYPE
+
+DOWN
+SCI_LINEDOWN
+
+SHIFT+DOWN
+SCI_LINEDOWNEXTEND
+
+ALT+SHIFT+DOWN
+SCI_LINEDOWNRECTEXTEND
+
+CTRL+DOWN
+SCI_LINESCROLLDOWN
+
+UP
+SCI_LINEUP
+
+SHIFT+UP
+SCI_LINEUPEXTEND
+
+ALT+SHIFT+UP
+SCI_LINEUPRECTEXTEND
+
+CTRL+UP
+SCI_LINESCROLLUP
+
+CTRL+]
+SCI_PARADOWN
+
+CTRL+SHIFT+]
+SCI_PARADOWNEXTEND
+
+CTRL+[
+SCI_PARAUP
+
+CTRL+SHIFT+[
+SCI_PARAUPEXTEND
+
+LEFT
+SCI_CHARLEFT
+
+SHIFT+LEFT
+SCI_CHARLEFTEXTEND
+
+ALT+SHIFT+LEFT
+SCI_CHARLEFTRECTEXTEND
+
+RIGHT
+SCI_CHARRIGHT
+
+SHIFT+RIGHT
+SCI_CHARRIGHTEXTEND
+
+ALT+SHIFT+RIGHT
+SCI_CHARRIGHTRECTEXTEND
+
+CTRL+LEFT
+SCI_WOR DLEFT
+
+CTRL+SHIFT+LEFT
+SCI_WOR DLEFTEXTEND
+
+CTRL+RIGHT
+SCI_WOR DRIGHT
+
+CTRL+SHIFT+RIGHT
+SCI_WOR DRIGHTENDEXTEND
+
+CTRL+/
+SCI_WOR DPARTLEFT
+
+CTRL+SHIFT+/
+SCI_WOR DPARTLEFTEXTEND
+
+CTRL+\
+SCI_WOR DPARTRIGHT
+
+CTRL+SHIFT+\
+SCI_WOR DPARTRIGHTEXTEND
+
+ALT+HOME
+SCI_HOMEDISPLAY
+
+SHIFT+HOME
+SCI_VCHOMEWRAPEXTEND
+
+ALT+SHIFT+HOME
+SCI_VCHOMERECTEXTEND
+
+HOME
+SCI_VCHOMEWRAP
+
+SHIFT+END
+SCI_LINEENDWRAPEXTEND
+
+ALT+SHIFT+END
+SCI_LINEENDRECTEXTEND
+
+ALT+END
+SCI_LINEENDDISPLAY
+
+END
+SCI_LINEENDWRAP
+
+CTRL+HOME
+SCI_DOCUMENTSTART
+
+CTRL+SHIFT+HOME
+SCI_DOCUMENTSTARTEXTEND
+
+CTRL+END
+SCI_DOCUMENTEND
+
+CTRL+SHIFT+END
+SCI_DOCUMENTENDEXTEND
+
+PAGEUP
+SCI_PAGEUP
+
+SHIFT+PAGEUP
+SCI_PAGEUPEXTEND
+
+ALT+SHIFT+PAGEUP
+SCI_PAGEUPRECTEXTEND
+
+PAGEDOWN
+SCI_PAGEDOWN
+
+SHIFT+PAGEDOWN
+SCI_PAGEDOWNEXTEND
+
+ALT+SHIFT+PAGEDOWN
+SCI_PAGEDOWNRECTEXTEND
+
+BACKSPACE OR SHIFT+BACKSPACE
+SCI_DELETEBACK
+
+CTRL+BACKSPACE
+SCI_DELWOR DLEFT
+
+CTRL+DEL
+SCI_DELWOR DRIGHT
+
+CTRL+SHIFT+BACKSPACE
+SCI_DELLINELEFT
+
+CTRL+SHIFT+DEL
+SCI_DELLINERIGHT
+
+CTRL+SHIFT+L
+SCI_LINEDELETE
+
+CTRL+L
+SCI_LINECUT
+
+CTRL+SHIFT+X
+SCI_LINECOPY
+
+CTRL+T
+SCI_LINETRANSPOSE
+
+ESC
+SCI_CANCEL

@@ -1,0 +1,431 @@
+CTRL+SPACE
+Basic code completion
+
+CTRL+SHIFT+SPACE
+Smart code completion
+
+SHIFT+CMD+ENTER
+Complete statement
+
+CMD+P
+Parameter info
+
+F1
+Quick Documentation
+
+SHIFT+F1
+External Documentation
+
+CMD+MOUSEHOVER
+Brief Info
+
+CMD+F1
+Show description of error/warning at caret
+
+CMD+N
+Generate Code
+
+CTRL+O
+Override methods
+
+CTRL+I
+Implement methods
+
+ALT+CMD+T
+Surround with...
+
+SHIFT+CMD+UP
+Move statements up
+
+SHIFT+CMD+DOWN
+Move statements down
+
+CMD+/
+Comment with line comment
+
+ALT+CMD+/
+Comment with block comment
+
+ALT+UP
+Expand selection
+
+ALT+DOWN
+Shrink selection
+
+CTRL+SHIFT+Q
+Context info
+
+ALT+ENTER
+Show intention actions and quick-fixes
+
+ALT+CMD+L
+Reformat code
+
+CTRL+ALT+O
+Optimize imports
+
+TAB
+Indent selected lines
+
+SHIFT+TAB
+Unindent selected lines
+
+CMD+X
+Cut current line to clipboard
+
+CMD+C
+Copy current line to clipboard
+
+CMD+V
+Paste from clipboard
+
+SHIFT+CMD+V
+Paste from recent buffers
+
+CMD+D
+Duplicate current line or selected block
+
+CMD+DEL
+Delete line at caret
+
+CTRL+SHIFT+J
+Smart line join
+
+CMD+ENTER
+Smart line split
+
+SHIFT+ENTER
+Start new line
+
+SHIFT+CMD+U
+Toggle case
+
+ALT+SHIFT+CMD+]
+Select till code block end
+
+ALT+SHIFT+CMD+[
+Select till code block start
+
+ALT+BACKSPACE
+Delete to word start
+
+ALT+DEL
+Delete to word end
+
+CMD+PLUS OR CMD+-
+Expand or collapse code block
+
+ALT+CMD+OR  ALT+CMD+-
+Expand or collapse code block recursively
+
+SHIFT+CMD+OR  SHIFT+CMD+-
+Expand or collapse all
+
+CMD+W
+Close active editor tab
+
+ALT+SHIFT+CLICK
+Place the caret in multiple locations
+
+SHIFT+CMD+8
+Toggle column selection mode
+
+CTRL+G
+Select next occurrence
+
+CTRL+SHIFT+G
+Select previous occurrence
+
+CTRL+CMD+G
+Select all occurrences
+
+CMD+F
+Find
+
+CMD+R
+Replace
+
+CMD+G
+Find next
+
+SHIFT+CMD+G
+Find previous
+
+SHIFT+CMD+F
+Find in path
+
+SHIFT+CMD+R
+Replace in path
+
+ALT+F7
+Find usages
+
+CMD+F7
+Find usages in file
+
+SHIFT+CMD+F7
+Highlight usages in file
+
+ALT+CMD+F7
+Show usages
+
+CMD+O
+Go to class
+
+SHIFT+CMD+O
+Go to file
+
+ALT+CMD+O
+Go to symbol
+
+SHIFT+CMD+] OR SHIFT+CMD+[
+Go to next or previous editor tab
+
+F12
+Go back to previous tool window
+
+ESC
+Go to editor (from tool window)
+
+SHIFT+ESC
+Hide active or last active window
+
+CTRL+SHIFT+F4
+Close active tool windows tab
+
+CMD+L
+Go to line
+
+CMD+E
+Recent files popup
+
+CMD+[
+Navigate back
+
+CMD+]
+Navigate forward
+
+SHIFT+CMD+DEL
+Navigate to last edit location
+
+ALT+F1
+Select current file or symbol in any view
+
+CTRL+CMD+UP
+Go to related header or source file
+
+CMD+B
+Go to definition
+
+ALT+CMD+B
+Go to implementation(s)
+
+ALT+SPACE
+Open quick definition lookup
+
+SHIFT+CMD+B
+Go to type declaration
+
+CMD+U
+Go to super-method / super-class
+
+CTRL+UP OR CTRL+DOWN
+Go to previous or next method
+
+ALT+CMD+[ OR ALT+CMD+]
+Move to code block end or start
+
+CMD+F12
+File structure popup
+
+CTRL+H
+Type hierarchy
+
+CTRL+ALT+H
+Method hierarchy
+
+SHIFT+CMD+H
+Call hierarchy
+
+F2
+Next highlighted error
+
+SHIFT+F2
+Previous highlighted error
+
+CMD+DOWN
+Jump to source
+
+F3
+Toggle bookmark
+
+ALT+F3
+Toggle bookmark with mnemonic
+
+CTRL+0 OR CTRL+1 OR CTRL+2
+Go to numbered bookmark
+
+CMD+F3
+Show bookmarks
+
+CMD+K
+Commit project to VCS
+
+SHIFT+CMD+K
+Push project to VCS
+
+CMD+T
+Update project from VCS
+
+ALT+SHIFT+C
+View recent changes
+
+CTRL+V
+VCS actions
+
+CTRL+T
+Refactor This
+
+F5
+Copy
+
+F6
+Move
+
+CMD+BACKSPACE
+Safe Delete
+
+SHIFT+F6
+Rename Signature
+
+CMD+F6
+Change Signature
+
+ALT+CMD+N
+Inline
+
+ALT+CMD+M
+Extract Method
+
+ALT+CMD+V
+Extract Variable
+
+ALT+CMD+C
+Extract Constant
+
+ALT+CMD+P
+Extract Parameter
+
+ALT+CMD+E
+Extract Property
+
+ALT+CMD+F
+Extract Instance Variable
+
+CMD+F9
+Build Project
+
+CTRL+R
+Run
+
+CTRL+D
+Debug
+
+CTRL+ALT+R
+Select configuration and run
+
+CTRL+ALT+D
+Select configuration and debug
+
+CTRL+SHIFT+R
+Run context configuration
+
+CTRL+SHIFT+D
+Debug context configuration
+
+CTRL  CTRL
+Run Anything
+
+F7
+Step into
+
+F8
+Step over
+
+SHIFT+F8
+Step out
+
+ALT+F9
+Run to cursor
+
+ALT+F8
+Evaluate expression
+
+ALT+CMD+R
+Resume program
+
+CMD+F8
+Toggle breakpoint
+
+SHIFT+CMD+F8
+View breakpoints
+
+ALT+CMD+J
+Surround with Live Template
+
+CMD+J
+Insert Live Template
+
+SHIFT  SHIFT
+Search Everywhere
+
+SHIFT+CMD+A
+Find any IDE action
+
+SHIFT+CMD+F12
+Hide all tool windows
+
+ALT+SHIFT+F
+Add to Favorites
+
+ALT+SHIFT+I
+Inspect current file with current profile
+
+CTRL+`
+Quick switch current scheme
+
+CTRL+TAB
+Switch between tabs and tool windows
+
+CMD+1
+Show Project window
+
+CMD+2
+Show Favorites window
+
+CMD+3
+Show Find window
+
+CMD+4
+Show Run window
+
+CMD+5
+Show Debug window
+
+CMD+6
+Show Problems window
+
+CMD+7
+Show Structure window
+
+CMD+8
+Show Services window
+
+CMD+9
+Show Version Control window
+
+CMD+0
+Show Commit window
+
+ALT+F12
+Show Terminal window

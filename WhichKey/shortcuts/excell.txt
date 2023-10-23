@@ -1,0 +1,599 @@
+CTRL+SHIFT+&
+Add borders
+
+CTRL+SHIFT+L
+Add or remove filter
+
+CTRL+B
+Bold
+
+ALT+H  A  C
+Center align cell contents
+
+ALT+H  A  L
+Left align cell contents
+
+ALT+H  H
+Choose a fill color
+
+CTRL+W
+Close workbook
+
+CTRL+C
+Copy
+
+CTRL+X
+Cut
+
+CTRL+V
+Paste
+
+CTRL+P
+Print
+
+CTRL+S
+Save
+
+CTRL+Z
+Undo
+
+CTRL+Y
+Redo last action
+
+CTRL+SPACE
+Select current column
+
+SHIFT+SPACE
+Select current row
+
+CTRL+-
+Delete selected column
+
+CTRL+-
+Delete selected row
+
+CTRL+F
+Find
+
+CTRL+H
+Replace
+
+SHIFT+F4
+Find next match
+
+CTRL+SHIFT+F4
+Find previous match
+
+CTRL+0
+Hide selected columns
+
+CTRL+9
+Hide selected rows
+
+CTRL+N
+New workbook
+
+SHIFT+F10
+Open context menu
+
+CTRL+O
+Open workbook
+
+DEL
+Remove cell contents
+
+ALT+H  A  R
+Right align cell contents
+
+CTRL+SHIFT+0
+Unhide columns
+
+CTRL+SHIFT+9
+Unhide rows
+
+CTRL+ALT+PLUS
+Zoom in
+
+CTRL+ALT+-
+Zoom out
+
+CTRL+ESC
+Cancel process or close dialog
+
+CTRL+R
+Rename table
+
+CTRL+M
+Move table
+
+ALT+DOWN
+Open AutoFilter Menu dialog
+
+F2
+Edit active cell
+
+SPACE
+Activate selected button
+
+CTRL+F1
+Expand / collapse the ribbon
+
+SHIFT+TAB
+Move to left command
+
+TAB
+Move to right command
+
+LEFT
+Move to submenu when a main menu is open
+
+DOWN
+Move to the next command in open menu
+
+DOWN
+Open the list for selected command
+
+ALT+DOWN
+Open the menu for selected button
+
+ALT OR F10
+Select active tab and activate access keys
+
+CTRL+ALT+5
+Cycle through text boxes / images
+
+END
+Enter the End mode
+
+ESC
+Exit navigation of text boxes / images
+
+CTRL+SHIFT+END
+Extend selection of cells to last used cell
+
+DOWN
+Move one cell down
+
+LEFT
+Move one cell left
+
+RIGHT
+Move one cell right
+
+UP
+Move one cell up
+
+PAGEDOWN
+Move one screen down in worksheet
+
+ALT+PAGEUP
+Move one screen left in worksheet
+
+ALT+PAGEDOWN
+Move one screen right in worksheet
+
+PAGEUP
+Move one screen up in a worksheet
+
+CTRL+HOME
+Move to beginning of a worksheet
+
+CTRL+DOWN
+Move to bottom edge of data region
+
+HOME  SCRLK
+Move to cell in the upper left corner
+
+CTRL+END
+Move to last cell on a worksheet
+
+CTRL+LEFT
+Move to left edge of data region
+
+TAB
+Move to next cell to the right
+
+CTRL+PAGEDOWN
+Move to next sheet in workbook
+
+CTRL+PAGEUP
+Move to previous sheet in workbook
+
+CTRL+RIGHT
+Move to right edge of data region
+
+SHIFT+TAB
+Move to the previous cell
+
+CTRL+UP
+Move to top edge of data region
+
+ALT+DOWN
+Open list of choices on a cell
+
+CTRL+G
+Show Go To Dialog
+
+CTRL+SHIFT+$
+Apply Currency format
+
+CTRL+SHIFT+#
+Apply Date format
+
+CTRL+SHIFT+~
+Apply General format
+
+CTRL+SHIFT+!
+Apply Number format
+
+CTRL+B
+Apply or remove bold formatting
+
+CTRL+I
+Apply or remove italic formatting
+
+CTRL+5
+Apply or remove strikethrough formatting
+
+CTRL+U
+Apply or remove underline
+
+CTRL+SHIFT+&
+Apply outline border to cells
+
+CTRL+SHIFT+%
+Apply Percentage format
+
+CTRL+SHIFT+^
+Apply Scientific format
+
+CTRL+SHIFT+@
+Apply Time format
+
+F7
+Check spelling
+
+CTRL+'
+Copy formula from above cell
+
+CTRL+Q
+Display the Quick Analysis options
+
+CTRL+;
+Enter current date
+
+CTRL+SHIFT+;
+Enter current time
+
+CTRL+D
+Fill down from cell above
+
+CTRL+R
+Fill right from cell left
+
+CTRL+SHIFT+F
+Format fonts in Format Cells dialog
+
+SHIFT+F2
+Insert a note
+
+CTRL+T
+Insert Table
+
+CTRL+SHIFT+F2
+Insert threaded comment
+
+SHIFT+F2
+Open and edit a note
+
+CTRL+SHIFT+F2
+Open and reply to threaded comment
+
+CTRL+-
+Open Delete dialog to delete cells
+
+CTRL+1
+Open Format Cells dialog
+
+CTRL+SHIFT+PLUS
+Open Insert dialog to insert cells
+
+CTRL+K
+Open the Insert hyperlink dialog
+
+CTRL+SHIFT+_
+Remove outline border to selected cells
+
+CTRL+6
+Show or hide objects
+
+CTRL+8
+Show or hide outline symbols
+
+CTRL+`
+Toggle formulas on and off
+
+CTRL+A
+Select entire table
+
+SHIFT+ENTER
+Complete cell entry and select above cell
+
+SHIFT+DOWN
+Extend cell selection downwards
+
+SHIFT+LEFT
+Extend cell selection to the left
+
+SHIFT+RIGHT
+Extend cell selection to the right
+
+CTRL+SHIFT+HOME
+Extend cell selection to top
+
+SHIFT+UP
+Extend cell selection upwards
+
+SHIFT+PAGEDOWN
+Select cells to first column cell
+
+SHIFT+HOME
+Select cells to first row cell
+
+SHIFT+PAGEUP
+Select cells to last column cell
+
+SHIFT+END
+Select cells to last row cell
+
+CTRL+SHIFT+DOWN
+Extend selection to last bottom cell
+
+CTRL+SHIFT+LEFT
+Extend selection to last left cell
+
+CTRL+SHIFT+RIGHT
+Extend selection to last right cell
+
+CTRL+SHIFT+UP
+Extend selection to last top cell
+
+CTRL+ENTER
+Fill selected cell range with the current entry
+
+CTRL+Y
+Repeat last action
+
+CTRL+SHIFT+SPACE
+Select all objects when an object is selected
+
+CTRL+SHIFT+PAGEDOWN
+Select current and next worksheet
+
+CTRL+SHIFT+PAGEUP
+Select current and previous worksheet
+
+CTRL+/
+Select current array
+
+CTRL+SHIFT+*
+Select current region around the cell
+
+CTRL+\
+Select differences in row
+
+CTRL+SPACE
+Select entire column
+
+SHIFT+SPACE
+Select entire row
+
+CTRL+A
+Select entire worksheet
+
+HOME
+Select first command on menu
+
+ALT+;
+Select only visible cells
+
+ALT+ENTER
+Start a new line
+
+SHIFT+F8
+Toggle add to selection mode
+
+F8
+Toggle extend mode
+
+ALT+=
+Autosum selection of cells
+
+SHIFT+F9
+Calculate active worksheet
+
+F9
+Calculate all worksheets
+
+ESC
+Cancel entry in formula bar
+
+F9
+Check your formula
+
+ENTER
+Complete entry in formula bar
+
+CTRL+SHIFT+"
+Copy the value from the cell above
+
+F11
+Create chart in a new sheet
+
+ALT+F1
+Create embedded chart
+
+CTRL+F3
+Define name for references
+
+CTRL+A
+Display function arguments dialog
+
+ALT+SHIFT+F10
+Display message for error checking button
+
+CTRL+SHIFT+U
+Expand or collapse formula bar
+
+CTRL+ALT+F9
+Force Calculate all worksheets
+
+CTRL+SHIFT+ENTER
+Input array formula
+
+SHIFT+F3
+Insert a function
+
+CTRL+SHIFT+A
+Insert function arguments
+
+CTRL+E
+Invoke Flash Fill
+
+CTRL+END
+Move to end of text when in the formula bar
+
+ENTER
+Move to next record of data form
+
+ALT+F8
+Open macro dialog
+
+F3
+Paste a name
+
+CTRL+SHIFT+END
+Select text in formula bar to end
+
+F4
+Toggle absolute or relative references
+
+ALT+Q
+Go to Search field
+
+ALT+A
+Open Data tab
+
+ALT+F
+Open File page
+
+ALT+M
+Open Formulas tab
+
+ALT+H
+Open Home tab
+
+ALT+N
+Open Insert tab
+
+ALT+P
+Open Page Layout tab
+
+ALT+R
+Open Review tab
+
+ALT+W
+Open View tab
+
+CTRL+ALT+V
+Open Paste Special dialog
+
+CTRL+ALT+V  T
+Paste Special formats
+
+CTRL+ALT+V  V
+Paste Special values
+
+CTRL+ALT+V  F
+Paste Special formulas
+
+CTRL+ALT+V  C
+Paste Special comments
+
+SHIFT+F8
+Add non-adjacent cell to a selection
+
+SHIFT+F2
+Add or update cell note
+
+SHIFT+F9
+Calculates active worksheet
+
+ALT+F4
+Close Excel
+
+CTRL+F4
+Close workbook window
+
+F11
+Create chart of the selected range
+
+SHIFT+F10
+Display shortcut menu
+
+ALT+SHIFT+F1
+Insert new worksheet
+
+SHIFT+F11
+Insert new worksheet
+
+CTRL+F10
+Maximize workbook
+
+CTRL+F9
+Minimize workbook
+
+F1
+Open Excel Help
+
+F5
+Open Go To dialog
+
+SHIFT+F3
+Open Insert Function dialog
+
+ALT+F8
+Open Macro dialog
+
+F3
+Open Paste Name dialog
+
+CTRL+F2
+Open print preview
+
+F12
+Open Save As dialog
+
+F7
+Open Spelling dialog
+
+SHIFT+F7
+Open Thesaurus
+
+ALT+F11
+Open VBA Editor
+
+CTRL+F7
+Perform moving of window
+
+CTRL+F8
+Perform resizing of window
+
+F4
+Repeat last action
+
+CTRL+F5
+Restore window size of workbook
+
+CTRL+F1
+Show or hide ribbon

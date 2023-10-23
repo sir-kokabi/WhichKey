@@ -1,0 +1,647 @@
+CTRL+O
+Open
+
+CTRL+S
+Save
+
+F12
+Save as
+
+CTRL+F4
+Close
+
+F1
+Help
+
+CTRL+Z
+Undo
+
+CTRL+Y
+Redo
+
+CTRL+C
+Copy selection to Clipboard
+
+CTRL+X
+Cut
+
+CTRL+V
+Paste
+
+DEL
+Delete selection
+
+CTRL+A
+Select all
+
+ENTER
+Edit selected item
+
+F2
+Rename
+
+CTRL+P
+Print
+
+SPACE
+Toggle checkbox
+
+ESC
+Reject autocomplete suggestion
+
+CTRL+SHIFT+F12
+Edit active Quick Help text
+
+META+CTRL+F12
+Show properties of active Quick Help text
+
+TAB
+Move focus to next item
+
+SHIFT+TAB
+Move focus to previous item
+
+CTRL+TAB
+Move to next tab
+
+CTRL+SHIFT+TAB
+Move to previous tab
+
+UP
+Move to previous list item
+
+DOWN
+Move to next list item
+
+HOME
+Go to first list item
+
+END
+Go to last list item
+
+PAGEUP
+Scroll up one page
+
+PAGEDOWN
+Scroll down one page
+
+F9
+Open field editor window
+
+CTRL+E
+Set focus to primary Go to box.
+
+F4
+Show menu for field
+
+ALT+UP
+Go to previous reference
+
+ALT+DOWN
+Go to next reference
+
+ALT+LEFT
+Go to previous reference in the History
+
+ALT+RIGHT
+Go to next reference in the History
+
+HOME
+Go to first reference
+
+END
+Go to last reference
+
+CTRL+ALT+A
+Cancel selection
+
+ALT
+Keyboard navigation focus
+
+SHIFT+F10
+Open shortcut menu
+
+CTRL+ALT+U
+Convert last 4 digits to the corresponding Unicode character
+
+CTRL+SHIFT+SPACE
+Insert non-breaking space
+
+CTRL+ALT+C
+Copy placeholder or quotation to the Clipboard
+
+CTRL+W
+Insert placeholder or quotation in word processor
+
+CTRL+SHIFT+W
+Insert placeholder or quotation in word processor as footnote
+
+CTRL+ALT+W
+Insert or copy placeholder or quotation with options
+
+CTRL+P
+Print project bibliography, compilation, task list
+
+CTRL+SHIFT+P
+Print project bibliography, compilation, task list with options
+
+CTRL+ALT+P
+Print grouped project bibliography
+
+CTRL+ALT+SHIFT+P
+Print task table
+
+F12
+Save project bibliography, compilation, task list
+
+SHIFT+F12
+Save project bibliography, compilation, task list with options
+
+ALT+SHIFT+F12
+Save grouped project bibliography
+
+CTRL+ALT+V
+Copy or move to another Citavi project
+
+CTRL+ALT+O
+Open current attachment
+
+CTRL+N
+New reference (manual)
+
+CTRL+SHIFT+N
+New reference (By ISBN, DOI, or PubMed ID)
+
+CTRL+SHIFT+J
+New Journal Article
+
+CTRL+SHIFT+R
+New Internet Document
+
+CTRL+SHIFT+B
+New Book
+
+CTRL+SHIFT+E
+New Edited Book
+
+CTRL+SHIFT+U
+New Contribution
+
+CTRL+L
+New text thought
+
+CTRL+SHIFT+L
+New image or file thought
+
+CTRL+T
+New project task
+
+CTRL+SHIFT+T
+New reference task
+
+CTRL+SHIFT+F
+Add local file (location)
+
+CTRL+ALT+SHIFT+F
+Add local folder (location)
+
+CTRL+SHIFT+A
+Add Internet address (location)
+
+CTRL+SHIFT+Y
+Add library location
+
+CTRL+ALT+SHIFT+Y
+Add private collection location
+
+CTRL+SHIFT+L
+New link to
+
+CTRL+ALT+SHIFT+L
+New link from
+
+CTRL+D
+New direct quotation
+
+CTRL+SHIFT+D
+New indirect quotation
+
+CTRL+ALT+SHIFT+D
+New summary
+
+CTRL+SHIFT+G
+New image or file quotation
+
+CTRL+SHIFT+M
+New comment
+
+CTRL+ALT+SHIFT+M
+Add comment to selected knowledge item
+
+CTRL+SHIFT+-
+New category
+
+CTRL+ALT+SHIFT+-
+New subcategory
+
+CTRL+DEL
+Delete a reference
+
+CTRL+0
+Set blue label
+
+CTRL+ALT+0
+Clear blue label
+
+CTRL+9
+Set red label
+
+CTRL+ALT+9
+Clear red label
+
+CTRL+ALT+S
+Edit short title
+
+SHIFT+F5
+Update BibTeX keys
+
+ALT+P
+Open current attachment in preview
+
+F11
+Show PDF in full screen mode
+
+SHIFT+F11
+Show additional PDFs in full screen mode
+
+CTRL+F3
+Open or close the search in the PDF
+
+CTRL+SHIFT+F3
+Switch from the text to the search field
+
+F3
+Jump to next search result
+
+SHIFT+F3
+Jump to previous search result
+
+Y
+Yellow highlight
+
+Q
+Red highlight
+
+G
+meta an image selection
+
+E
+meta a text selection
+
+CTRL+DRAG
+Extend highlight
+
+S
+Reduce highlight
+
+D
+Add selection as commentary
+
+F
+Add selection as indirect quotation
+
+S
+Add selection as summary
+
+C
+Add selection as commentary
+
+A
+Add selection as abstract
+
+W
+Add selection as keywords
+
+T
+Create a task for a text passage
+
+F8
+Jump to next highlight
+
+SHIFT+F8
+Jump to previous highlight
+
+CTRL+RIGHT
+Next page
+
+CTRL+LEFT
+Previous page
+
+HOME
+To first page
+
+END
+To last page
+
+CTRL+MOUSE-WHEEL
+Zoom
+
+CTRL+CLICK
+Switch to knowledge item in Citavi
+
+F9
+Export PDF
+
+CTRL+1
+Switch to Reference Editor
+
+CTRL+2
+Switch to Knowledge Organizer
+
+CTRL+3
+Switch to Task Planner
+
+ALT+1
+Show or hide left pane
+
+ALT+2
+Show or hide middle pane
+
+ALT+3
+Show or hide right pane
+
+ALT+4
+Show or hide keywords
+
+ALT+5
+Show or hide categories
+
+ALT+6
+Show groups column
+
+ALT+7
+Show import groups column
+
+ALT+4
+Task Planner: Switch to Quick select
+
+ALT+5
+Task Planner: Switch to Advanced selection
+
+ALT+9
+Toggle Preview and Quick Help
+
+CTRL+ALT+T
+Show table view
+
+CTRL+L
+Online search
+
+CTRL+ALT+L
+Check availability with OpenURL
+
+CTRL+F
+Search
+
+CTRL+,
+Program options
+
+ALT+F11
+Open macro editor
+
+CTRL+ALT+F
+Show more fields
+
+SHIFT+ENTER
+Show related reference
+
+ALT+SHIFT+ENTER
+Show related reference in new window
+
+CTRL+SHIFT+C
+Copy formatted reference to the Clipboard
+
+F7
+Start LaTeX-Assistant
+
+CTRL+SHIFT+F7
+Start LaTeX-Assistent with most recently used documents
+
+ALT+F7
+Automatic BibTeX export to a TeX document
+
+ALT+SHIFT+F7
+Automatic BibTeX export with last document used
+
+CTRL+F11
+Change citation style
+
+SHIFT+F11
+Edit citation style
+
+CTRL+ALT+H
+Batch apply keywords
+
+CTRL+ALT+SHIFT+H
+Batch remove keywords
+
+CTRL+SHIFT+-
+Insert new category
+
+CTRL+ALT+SHIFT+-
+Insert new subcategory
+
+CTRL+H
+Batch assign categories
+
+CTRL+SHIFT+H
+Batch remove categories
+
+RIGHT
+Expand catagory
+
+LEFT
+Collapse category
+
+CTRL+ALT+SHIFT+RIGHT
+Expand all categories
+
+CTRL+ALT+SHIFT+LEFT
+Collapse all categories
+
+SHIFT+CLICK
+Create a selection of a category and its subcategories
+
+CTRL+RIGHT
+Demote
+
+CTRL+UP
+Promote
+
+CTRL+UP
+Move category up
+
+CTRL+DOWN
+Move category down
+
+F9
+Open field in editing mode
+
+CTRL+D
+Open character formatting
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+V
+Paste with formatting
+
+CTRL+SPACE
+Reset all
+
+CTRL+SHIFT+SPACE
+Remove paragraphs and tabs
+
+CTRL+SHIFT+3
+Show hidden formatting symbols
+
+CTRL+B
+Bold
+
+CTRL+I
+Italic
+
+CTRL+SHIFT+1
+Superscript
+
+CTRL+ALT+3
+Subscript
+
+CTRL+SHIFT+U
+Underline
+
+CTRL+SHIFT+D
+Ctrl+L
+
+CTRL+SHIFT+G
+All caps
+
+CTRL+SHIFT+Q
+Small caps
+
+CTRL+SHIFT+H
+Hide selected text
+
+CTRL+L
+Align left
+
+CTRL+R
+Align right
+
+CTRL+E
+Align centered
+
+CTRL+SHIFT+J
+Align justified
+
+CTRL+0
+Add or remove space before a paragraph
+
+CTRL+1
+Single line spacing
+
+CTRL+2
+Double line spacing
+
+CTRL+5
+1.5 line spacing
+
+CTRL+ALT+A
+Increase indent
+
+CTRL+SHIFT+M
+Set blue label
+
+CTRL+TAB
+Insert tab in table
+
+ENTER
+Editing selected item in main window
+
+CTRL+ALT+A
+Cancel selection
+
+CTRL+0
+Set blue label
+
+CTRL+ALT+0
+Clear blue label
+
+CTRL+9
+Set red label
+
+CTRL+ALT+9
+Clear red label
+
+F5
+Refresh
+
+CTRL+P
+Print project bibliography
+
+CTRL+SHIFT+P
+Print project bibliography with options
+
+CTRL+ALT+P
+Print table
+
+F12
+Save project bibliography
+
+SHIFT+F12
+Save project bibliography with options
+
+CTRL+ALT+V
+Copy or move to another Citavi project
+
+F7
+meta LaTeX Assistant
+
+CTRL+F7
+LaTeX-Assistent mit zuletzt geöffnetem Dokument aufrufen
+
+ALT+F7
+Automatic BibTeX export to a TeX document
+
+ALT+SHIFT+F7
+Automatic BibTeX export with last document used
+
+F11
+Change citation style
+
+SHIFT+F11
+Edit citation style
+
+CTRL+T
+Collapse group
+
+CTRL+O
+Change update channel settings
+
+RIGHT
+Expand group
+
+LEFT
+Collapse group
+
+CTRL+SHIFT+RIGHT
+Expand all groups
+
+CTRL+SHIFT+LEFT
+Collapse all groups
+
+PAGEDOWN
+Next result
+
+PAGEUP
+Previous result

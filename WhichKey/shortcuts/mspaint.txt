@@ -1,0 +1,86 @@
+F11
+View a picture in full-screen mode
+
+F12
+Save the picture as a new file
+
+CTRL+E
+Open the Propertiesdialog box
+
+CTRL+G
+Show or hide gridlines
+
+CTRL+N
+Create a new picture
+
+CTRL+O
+Open an existing picture
+
+CTRL+P
+Print a picture
+
+CTRL+R
+Show or hide the ruler
+
+CTRL+S
+Save changes to a picture
+
+CTRL+W
+Open the Resize and Skew dialog
+
+CTRL+Y
+Redo a change
+
+CTRL+Z
+Undo a change
+
+CTRL+PLUS
+Increase the width of a brush, line, or shape outline by one pixel
+
+CTRL+-
+Decrease the width of a brush, line, or shape outline by one pixel
+
+CTRL+PAGEUP
+Zoom in
+
+CTRL+PAGEDOWN
+Zoom out
+
+ALT+F4
+Close a picture and its Paint window
+
+SHIFT+F10
+Show the context menu
+
+CTRL+I
+Italicize selected text
+
+CTRL+U
+Underline selected text
+
+CTRL+B
+Bold selected text
+
+CTRL+A
+Select the whole picture
+
+CTRL+C
+Copy a selection to the Clipboard
+
+CTRL+V
+Paste a selection from the Clipboard
+
+CTRL+X
+Cut a selection
+
+RIGHT
+Move the selection or active shape right by one pixel
+
+LEFT
+Move the selection or active shape left by one pixel
+
+DOWN
+Move the selection or active shape down by one pixel
+
+UP
+Move the selection or active shape up by one pixel

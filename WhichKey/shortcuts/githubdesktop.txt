@@ -1,0 +1,107 @@
+CTRL+,
+Go to Preferences
+
+N/A
+Hide the GitHub Desktop application
+
+N/A
+Hide all other applications
+
+ALT+F4
+Quit GitHub Desktop
+
+F11
+Toggle full screen view
+
+CTRL+0
+Reset zoom to default text size
+
+CTRL+=
+Zoom in for larger text and graphics
+
+CTRL+-
+Zoom out for smaller text and graphics
+
+CTRL+SHIFT+I
+Toggle Developer Tools
+
+CTRL+N
+Add a new repository
+
+CTRL+O
+Add a local repository
+
+CTRL+SHIFT+O
+Clone a repository from GitHub
+
+CTRL+T
+Show a list of your repositories
+
+CTRL+P
+Push the latest commits to GitHub
+
+CTRL+SHIFT+P
+Pull down the latest changes from GitHub
+
+CTRL+DEL
+Remove an existing repository
+
+CTRL+SHIFT+G
+View the repository on GitHub
+
+CTRL+`
+Open repository in your preferred terminal tool
+
+CTRL+SHIFT+F
+Show the repository in Finder
+
+CTRL+SHIFT+A
+Open the repository in your preferred editor tool
+
+CTRL+I
+Create an issue on GitHub
+
+CTRL+1
+Show all your changes before committing
+
+CTRL+2
+Show your commit history
+
+CTRL+B
+Show all your branches
+
+CTRL+G
+Go to the commit summary field
+
+CTRL+ENTER
+Commit changes when summary or description field is active
+
+SPACE
+Select or deselect all highlighted files
+
+CTRL+SHIFT+N
+Create a new branch
+
+CTRL+SHIFT+R
+Rename the current branch
+
+CTRL+SHIFT+D
+Delete the current branch
+
+CTRL+SHIFT+U
+Update from default branch
+
+CTRL+SHIFT+B
+Compare to an existing branch
+
+CTRL+SHIFT+M
+Merge into current branch
+
+CTRL+H
+Show or hide stashed changes
+
+CTRL+SHIFT+C
+Compare branches on GitHub
+
+CTRL+R
+Show the current pull request on GitHub

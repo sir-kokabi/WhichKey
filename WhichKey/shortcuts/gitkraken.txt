@@ -1,0 +1,122 @@
+CTRL+B
+Create branch
+
+CTRL+L
+Fetch all
+
+S
+Stage the current file
+
+CTRL+SHIFT+S
+Stage all files
+
+U
+Unstage the current file
+
+CTRL+SHIFT+U
+Unstage all files
+
+CTRL+ENTER
+Commit staged files with current message
+
+CTRL+SHIFT+ENTER
+Stage all files and commit with current message
+
+CTRL+SHIFT+M
+Focus commit message box
+
+CTRL+/
+Open keyboard shortcuts
+
+J OR DOWN
+Select next commit in graph
+
+K OR UP
+Select previous commit in graph
+
+SHIFT+DOWN OR SHIFT+J
+Select next item in branch
+
+SHIFT+UP OR SHIFT+K
+Select previous item in branch
+
+CTRL+HOME
+Select first commit in graph
+
+CTRL+END
+Select last commit in graph
+
+CTRL+Z
+Undo
+
+CTRL+Y OR CTRL+SHIFT+Z
+Redo
+
+CTRL+P
+Toggle Fuzzy Finder
+
+CTRL+F
+Search commits
+
+CTRL+SHIFT+O
+Open repo via Fuzzy Finder
+
+CTRL+SHIFT+H
+Search file to view history and blame
+
+CTRL+ALT+F
+Focus the left panel filter bar
+
+ALT+T
+Open current repo in terminal
+
+ALT+O
+Open current repo in File Manager
+
+CTRL+D
+Open diff or merge tool
+
+CTRL+W
+Close current repo
+
+CTRL+F
+Search within file (if file content has focus)
+
+CTRL+SHIFT+F
+Toggle Fullscreen Mode
+
+CTRL+= OR CTRL+PLUS
+Increase Zoom
+
+CTRL+-
+Decrease Zoom
+
+CTRL+0
+Reset zoom
+
+CTRL+\
+Show or hide the left panel
+
+CTRL+F
+Focus the search bar
+
+CTRL+ALT+F
+Focus the left panel filter bar
+
+ESC
+Close the current panel (if one is open)
+
+CTRL+T
+New Tab
+
+CTRL+W
+Close Tab
+
+CTRL+1 OR CTRL+2 OR CTRL+9
+Swap to Tab #1-9
+
+CTRL+TAB
+Jump to next open tab
+
+CTRL+SHIFT+TAB
+Jump to previous open tab

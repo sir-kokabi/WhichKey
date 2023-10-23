@@ -1,0 +1,248 @@
+CTRL+K
+Jump Projects
+
+CTRL+F
+Search within project
+
+CTRL+\
+Toggle chat box
+
+CTRL+/
+Open Add On Menu
+
+CTRL+'
+Open More Menu
+
+CTRL+B
+Bold
+
+CTRL+I
+Italic
+
+CTRL+U
+Underline
+
+CTRL+ENTER
+Strikethrough (Mark Complete)
+
+CTRL+E
+Highlight
+
+ENTER
+Line break / new task
+
+TAB
+Indent task / move right
+
+SHIFT+TAB
+Outdent / move left
+
+CTRL+ENTER
+Complete/uncomplete a task
+
+CTRL+SHIFT+DEL
+Delete entire task
+
+CTRL+UP
+Collapse (fold) a task with sub-tasks
+
+CTRL+UP/DOWN
+Expand (unfold) a task with sub-tasks
+
+@
+Mention
+
+#
+Tag
+
+UP OR DOWN
+Navigate up and down
+
+BACKSPACE
+Delete text or entire task
+
+LEFT OR RIGHT
+Navigate left and right
+
+CTRL+D
+Duplicate
+
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+CTRL+-
+Zoom out (Mind Map and Org chart view)
+
+CTRL+PLUS
+Zoom in (Mind Map and Org chart view)
+
+CTRL+SHIFT+>
+Toggle next view
+
+CTRL+SHIFT+<
+Toggle previous view
+
+CTRL+/
+Open Add On Menu
+
+D
+Due Date
+
+A
+Assign
+
+C
+Comment
+
+F
+Attach File
+
+E
+Embed
+
+S
+Soundcloud (Embed)
+
+V
+Vimeo (Embed)
+
+Y
+Youtube (Embed)
+
+W
+Wistia (Embed)
+
+G
+Figma/Jam (Embed)
+
+/
+Start to input a Slash command
+
+TODAY
+Set due date to today
+
+TOMOR ROW
+Set due date to tomorrow
+
+NEXT WEEK
+Set due date to next week
+
+ASSIGN MYSELF
+Assing myself to current task
+
+COMMENT
+Add comment
+
+EMBED
+Embed link
+
+COMPUTER
+Upload from computer
+
+GOOGLE DRIVE
+Upload from Google Drive
+
+DROPBOX
+Upload from Dropbox
+
+INSTAGRAM
+Upload from Instagram
+
+BOX
+Upload from Box
+
+CHECK 1
+Turn list to use squared checkboxes
+
+CHECK 2
+Turn list to use round checkboxes
+
+CHECK 3
+Turn list to use heart-shaped checkboxes
+
+BULLET 1
+Turn list to use round bullets
+
+BULLET 2
+Turn list to use triange-shpaed bullets
+
+BULLET 3
+Turn list to use squared bullets
+
+NUMBER
+Turn to numbered list
+
+LETTER
+Turn to letter-indexed list
+
+PARAGRAPH
+Turn list to paragraph
+
+HIGLIGHT YELLOW
+Higlight/Underline current task yellow
+
+HIGLIGHT GREEN
+Higlight/Underline current task green
+
+HIGLIGHT BLUE
+Higlight/Underline current task blue
+
+HIGLIGHT PURPLE
+Higlight/Underline current task purple
+
+HIGLIGHT RED
+Higlight/Underline current task red
+
+DUPLICATE TASK
+Duplicate current task
+
+ADD TASK ABOVE
+Add task above current task
+
+ADD TASK BELOW
+Add task below current task
+
+COPY LINK TO TASK
+Copy link to task
+
+COMPLETE
+Complete task
+
+DELETE
+Delete task
+
+LIKE
+Add like emoji reaction
+
+DISLIKE
+Add dislike emoji reaction
+
+LAUGH
+Add laught emoji reaction
+
+PARTY
+Add party emoji reaction
+
+HEART
+Add heart emoji reaction
+
+ROCKET
+Add rocket emoji reaction
+
+15 MINUTES
+Set 15 minutes timer
+
+25 MINUTES
+Set 25 minutes timer
+
+30 MINUTES
+Set 30 minutes timer
+
+1 HOUR
+Set 1 hour timer
+
+2 HOURS
+Set 2 hours timer

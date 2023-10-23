@@ -1,0 +1,104 @@
+N/A
+Show/hide Todoist
+
+N/A
+Open task Quick Add
+
+@
+Add a label
+
+#
+Pick a project
+
+/
+Pick a section
+
++
+Add an assignee
+
+P4
+Set priority level 4
+
+ALT+ENTER
+Save and go to comments
+
+TAB
+Open full task editor
+
+M
+Open or close menu
+
+N/A
+Go to start page
+
+SHIFT+CLICK
+Select and change multiple tasks at once
+
+M
+Enter multi-select mode
+
+Q
+Add a task (with Quick Add)
+
+A
+Add a task at the bottom of the list
+
+SHIFT+A
+Add a task at the top of the list
+
+S
+Add a section
+
+CTRL+F
+Open search
+
+N/A
+Switch to the Board view
+
+F5
+Manually sync
+
+HOME
+Navigate to default page
+
+PAGEUP
+Navigate to previous view
+
+ALT+CLICK
+Edit task name
+
+ESC
+Cancel current changes
+
+ENTER
+Save a newly created task and create a new one below it
+
+N/A
+Save changes to an existing task and create a new task below it
+
+N/A
+Save a new task or save changes to an existing one and create a new task above it
+
+N/A
+Move to the task above the task currently being edited (inside projects)
+
+N/A
+Move to the task below the task currently being edited (inside projects)
+
+ALT+SHIFT+RIGHT
+Increase task indent (inside projects)
+
+ALT+SHIFT+LEFT
+Decrease task indent (inside projects)
+
+D
+Sort by date
+
+P
+Sort by priority
+
+N
+Sort by name
+
+R
+Sort by assignee

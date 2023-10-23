@@ -1,0 +1,125 @@
+ALT+F4
+Close WordPad
+
+SHIFT+F10
+Show the context menu
+
+F3
+Search for the next instance of the text in the Finddialog box
+
+F12
+Save the document as a new file
+
+CTRL+Y
+Redo a change
+
+CTRL+Z
+Undo a change
+
+CTRL+1
+Set single line spacing
+
+CTRL+2
+Set double line spacing
+
+CTRL+5
+Set line spacing to 1.5
+
+CTRL+A
+Select all
+
+CTRL+B
+Make selected text bold
+
+CTRL+C
+Copy a selection to the Clipboard
+
+CTRL+D
+Insert a Microsoft Paint drawing
+
+CTRL+E
+Align text center
+
+CTRL+F
+Search for text in a document
+
+CTRL+H
+Replace text in a document
+
+CTRL+I
+Italicize selected text
+
+CTRL+J
+Justify text
+
+CTRL+L
+Align text left
+
+CTRL+N
+Create a new document
+
+CTRL+O
+Open an existing document
+
+CTRL+P
+Print a document
+
+CTRL+R
+Align text right
+
+CTRL+S
+Save changes to a document
+
+CTRL+U
+Underline selected text
+
+CTRL+V
+Paste a selection from the Clipboard
+
+CTRL+X
+Cut a selection
+
+CTRL+DEL
+Delete the next word
+
+CTRL+=
+Make selected text subscript
+
+CTRL+SHIFT+=
+Make selected text superscript
+
+CTRL+SHIFT+>
+Increase the font size
+
+CTRL+SHIFT+<
+Decrease the font size
+
+CTRL+SHIFT+A
+Change characters to all capitals
+
+CTRL+SHIFT+L
+Change the bullet style
+
+CTRL+LEFT
+Move the cursor one word to the left
+
+CTRL+RIGHT
+Move the cursor one word to the right
+
+CTRL+UP
+Move the cursor to the previous line
+
+CTRL+DOWN
+Move the cursor to the next line
+
+CTRL+HOME
+Move to the beginning of the document
+
+CTRL+END
+Move to the end of the document
+
+CTRL+PAGEUP
+Move up one page
+
+CTRL+PAGEDOWN
+Move down one page

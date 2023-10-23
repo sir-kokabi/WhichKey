@@ -1,0 +1,332 @@
+CTRL+K
+Command Center
+
+@
+Tag a user
+
+@@
+Mention a task
+
+@@@
+Mention a doc
+
+M
+Assign current task to yourself
+
+UP
+Edit most recent comment
+
+-
+Clear filters from current view
+
+:
+Use emoji picker
+
+CTRL+CLICK
+Open link in new tab
+
+CTRL+K
+Anchor a link when text is selected
+
+Q
+Show/hide sidebar
+
+CTRL+SHIFT+LEFT OR CTRL+SHIFT+RIGHT
+Move to next task
+
+1
+While creating task: Open
+
+2
+While creating task: Move to tray
+
+3
+While creating task: Copy URL
+
+T
+Create task
+
+P
+Open Notepad
+
+D
+Dashboards
+
+N
+Notifications
+
+H
+Home
+
+SPACE
+Reload notifications
+
+S
+Open search
+
+ESC
+Close any task or window
+
+L
+Jump to List View
+
+B
+Jump to Board View
+
+X
+Jump to Box View
+
+C
+Jump to Calendar View
+
+CTRL+SHIFT+M
+Create a comment from your selected text
+
+CTRL+SHIFT+T
+Create a task from your selected text
+
+CTRL+SHIFT+H
+Highlight a text block
+
+CTRL+D
+Duplicate a text block
+
+CTRL+E
+Quick create a new task
+
+#
+Surround with for h1 text
+
+*
+Surround with for bold text
+
+_
+Surround with for italicized text
+
+~
+Surround with for text with a line through it
+
+-
+Starts a bulleted list in task description
+
+1.
+Starts a numbered list in task description
+
+[ ]
+Creates a simple checkbox in task description
+
+>
+Starts long quote formatting
+
+`
+Surround with for inline code
+
+```
+Start code block
+
+---
+Adds a dividing line into task description
+
+/
+Start to input a Slash command
+
+ME
+Assign a task to yourself
+
+CLOSED OR CL
+Close a task
+
+-
+Create subtasks while in a task
+
+TU
+Access turn into menu
+
+M
+Move Lists
+
+A
+Assign tasks
+
+AC
+Assign Comments
+
+ME
+Assign to me
+
+W
+Add watchers
+
+P
+Set priorities
+
+D
+Apply or change due dates
+
+S
+Change task status
+
+O
+Add waiting or blocking dependencies
+
+B
+Add blocking dependencies
+
+-
+Add a subtask
+
+@@
+Mention a task
+
+@
+Mention a user
+
+PTS
+Sprint Points
+
+POS
+Change task position
+
+TODAY
+Due date to "today"
+
+INBOX
+Add to inbox
+
+EST
+Time estimate
+
+SD
+Start date
+
+CLOSE
+Close task
+
+T
+Tags
+
+TABLE
+Build a table
+
+TC
+Table of contents
+
+PAGE
+Create a page in Docs
+
+SUBPAGE
+Create a subpage in Docs
+
+TEMP
+Apply a task or doc template
+
+ATTACH
+Attachment
+
+GDRIVE
+Google Drive file
+
+GSLIDE
+Google Slides
+
+GDOC
+Google Docs
+
+GSHEETS
+Google Sheets
+
+DROPBOX
+Dropbox file
+
+EM
+Embed
+
+CLOUDAPP
+CloudApp
+
+ONEDRIVE
+OneDrive/Sharepoint file
+
+YOUTUBE
+YouTube
+
+VIMEO
+Vimeo
+
+FIGMA
+Figma
+
+LOOM
+Loom
+
+@@@
+Embed a new Doc in a task description
+
+MIRO
+Embed a Miro board
+
+GIPHY
+Add a GIF
+
+LVIEW
+Insert a List view
+
+TVIEW
+Insert a Table view
+
+NOR M
+_Normal text
+
+H1
+Heading 1
+
+H2
+Heading 2
+
+H3
+Heading 3
+
+CHECK
+Checklist
+
+DIV
+Divider
+
+IN
+Inline Code
+
+Q
+Quote
+
+CO
+Code block
+
+K
+Link
+
+NUM
+Numeric list
+
+BUL
+Bulleted List
+
+BO
+Bold
+
+IT
+Italic
+
+ST
+Strikethrough
+
+R
+Red background
+
+G
+Green background
+
+Y
+Yellow background
+
+BANNER
+Banner

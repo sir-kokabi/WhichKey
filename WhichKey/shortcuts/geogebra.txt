@@ -1,0 +1,305 @@
+CTRL+A
+Select All
+
+CTRL+SHIFT+A
+View/Hide Algebra Window
+
+CTRL+SHIFT+B
+Export ggbBase64 string to clipboard
+
+CTRL+C
+Copy
+
+CTRL+ALT+C
+Copies values (spreadsheet)
+
+CTRL+SHIFT+C
+Copy Graphics View to clipboard
+
+CTRL+D
+Toggle value/definition/command
+
+CTRL+SHIFT+D
+Toggle Selection Allowed for all "non-essential"/free geometric objects
+
+CTRL+G
+Show/Hide selected objects
+
+CTRL+SHIFT+G
+Show/Hide labels of selected objects
+
+CTRL+J
+Select ancestors
+
+CTRL+SHIFT+J
+Select descendants
+
+CTRL+SHIFT+L
+View/Hide Construction Protocol
+
+CTRL+SHIFT+M
+Export HTML code string to clipboard
+
+CTRL+N
+New Window
+
+CTRL+SHIFT+N
+Open next window (or next ggb file in folder)
+
+CTRL+ALT+SHIFT+N
+Open previous window
+
+CTRL+O
+Open New File
+
+CTRL+P
+Print Preview (Desktop) / Print Menu (Web)
+
+CTRL+SHIFT+P
+Open Probability Calculator
+
+ALT+F4
+Quit GeoGebra
+
+CTRL+R OR F9
+Recompute all objects (including random numbers)
+
+CTRL+S
+Save
+
+CTRL+SHIFT+S
+View spreadsheet
+
+CTRL+SHIFT+T
+Export as PSTricks
+
+ALT+T
+theta θ
+
+CTRL+SHIFT+U
+Open Graphic Export Dialog
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+W
+Export Dynamic Worksheet
+
+CTRL+Y OR CTRL+SHIFT+Z
+Redo
+
+CTRL+Z
+Undo
+
+CTRL+1
+Standard font size, line thickness, and point size
+
+CTRL+2
+Increase font size, line thickness, and point size
+
+CTRL+3
+Black/white mode
+
+-
+Decrease selected slider/number or move point along curve
+
+CTRL+-
+Zoom out
+
+CTRL+PLUS OR CTRL+=
+Zoom in
+
+PLUS OR=
+Increase selected slider/number or move point along curve
+
+F1
+Help
+
+F2
+Start editing selected object
+
+F3
+Copy definition of selected object to the Input Bar
+
+F4
+Copy value of selected object to the Input Bar
+
+F5
+Copy name of selected object to the Input Bar
+
+DEL OR BACKSPACE
+Delete current selection
+
+UP
+Move up or increase slider/number
+
+CTRL+UP
+increase with x10 multiplier or go to top
+
+SHIFT+UP
+x0.1 speed multiplier, or rescale y-axis if no objects selected
+
+ALT+UP
+x100 multiplier
+
+RIGHT
+Move right or increase slider/number
+
+CTRL+RIGHT
+x10 speed multiplier or go to right of current block of cells
+
+SHIFT+RIGHT
+x0.1 speed multiplier, or rescale x-axis if no objects selected
+
+ALT+RIGHT
+x100 multiplier
+
+LEFT
+Move left or decrease slider/number
+
+CTRL+LEFT
+x10 speed multiplier or go to left of current block of cells
+
+SHIFT+LEFT
+x0.1 speed multiplier, or rescale x-axis if no objects selected
+
+ALT+LEFT
+x100 multiplier
+
+DOWN
+Decrease selected slider/number or move down
+
+CTRL+DOWN
+x10 speed multiplier or go to bottom or current block of cells
+
+SHIFT+DOWN
+x0.1 speed multiplier, or rescale y-axis if no objects selected
+
+ALT+DOWN
+x100 multiplier
+
+HOME
+Go to the first item or column
+
+PAGEUP
+Increase z-coordinate of selected 3D Grapics point
+
+END
+Go to last item or column
+
+PAGEDOWN
+Decrease z-coordinate of selected 3D Grapics point
+
+ALT+A
+alpha α
+
+ALT+B
+beta β
+
+ALT+D
+delta δ
+
+ALT+E
+Euler ℯ
+
+ALT+F
+phi φ
+
+ALT+G
+gamma γ
+
+ALT+L
+lambda λ
+
+ALT+M
+mu μ
+
+ALT+O
+degree symbol °
+
+ALT+P
+pi π
+
+ALT+R
+Square-root symbol: √
+
+ALT+S
+sigma σ
+
+ALT+T
+theta θ
+
+ALT+U
+infinity ∞
+
+ALT+W
+omega ω (Press Shift for upper-case: Ω)
+
+ALT+PLUS OR ALT+=
+⊕ (xor)
+
+ALT+< OR ALT+,
+less-than-or-equal-to ≤
+
+ALT+> OR ALT+.
+greater-than-or-equal-to ≥
+
+ALT+I
+imaginary unit ί = √-1
+
+ALT+-
+superscript minus
+
+ALT+0
+to the power of 0
+
+ALT+1
+to the power of 1
+
+ALT+2
+to the power of 2
+
+ALT+3
+to the power of 3
+
+ALT+4
+to the power of 4
+
+ALT+5
+to the power of 5
+
+ALT+6
+to the power of 6
+
+ALT+7
+to the power of 7
+
+ALT+8
+to the power of 8
+
+ALT+9
+to the power of 9
+
+CTRL+E
+Open Object Properties View
+
+CTRL+SHIFT+E
+Open/Close Object Properties View
+
+CTRL+F
+Refresh Views
+
+CTRL+SHIFT+K
+View/Hide CAS View
+
+CTRL+SHIFT+1
+View/Hide Graphics View 1
+
+CTRL+SHIFT+2
+View/Hide Graphics View 2
+
+ENTER
+Toggle input between Graphics View and Input Bar
+
+CTRL+TAB
+Cycle the focus round the open views

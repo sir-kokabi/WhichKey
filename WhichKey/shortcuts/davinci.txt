@@ -1,0 +1,470 @@
+SPACE
+Pause / Start Playback
+
+J
+Play Reverse
+
+K
+Stop Playback
+
+L
+Play Forward
+
+[
+Go to Previous Keyframe
+
+]
+Go to Next Keyframe
+
+;
+Go to First Frame
+
+ 
+Go to Last Frame
+
+/
+Play Around Current Frame
+
+HOME
+Go to Timeline Start
+
+END
+Go to Timeline End
+
+UP
+Previous Clip / Edit
+
+DOWN
+Next Clip / Edit
+
+LEFT
+Step One Frame Reverse
+
+RIGHT
+Step One Frame Forward
+
+Y
+Select Clips Forward On This Track
+
+SHIFT+DOWN
+Go to Next Marker
+
+SHIFT+UP
+Go to Previous Marker
+
+SHIFT+I
+Go to Mark In
+
+SHIFT+O
+Go to Mark Out
+
+ALT+I
+Clear Mark In
+
+ALT+O
+Clear Mark Out
+
+ALT+SPACE
+Play Around In
+
+SHIFT+SPACE
+Play Around Out
+
+Q
+Source / Timeline Viewer
+
+E
+Extract Current Node
+
+-
+Apply Grade From Two Clip Prior
+
+-
+Apply Grade From One Clip Prior
+
+D
+Enable / Disable Clip
+
+F
+Match Frame
+
+G
+Add Flag
+
+H
+Toggle Hand / Selection In Node Window
+
+P
+Cinema Viewer
+
+W
+Dynamic Trim Mode
+
+T
+Trim Mode
+
+U
+Edit Point Type
+
+A
+Normal Edit Mode
+
+I
+Set Mark In
+
+O
+Set Mark Out
+
+X
+Mark Clip
+
+M
+Add Marker
+
+BACKSPACE
+Delete Selected
+
+V
+Select Nearest Edit Point
+
+B
+Select Blade
+
+N
+Snapping On / Off
+
+,
+Nudge One Frame Left
+
+.
+Nudge One Frame Right
+
+S
+Toggle Slip and Slide Mode
+
+DEL
+Ripple Delete
+
+CTRL+X
+Cut
+
+CTRL+B
+Razor
+
+CTRL+\
+Split Clip
+
+ALT+\
+Join Clip
+
+ALT+B
+Create Subclip
+
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+CTRL+T
+Add Transition
+
+ALT+T
+Add Video Only Transition
+
+SHIFT+T
+Add Audio Only Transition
+
+ALT+P
+Add Parallel Node
+
+CTRL+N
+New Timeline
+
+CTRL+SHIFT+N
+New Bin
+
+CTRL+M
+Add & Modify New Marker
+
+SHIFT+M
+Modify Marker
+
+ALT+M
+Delete Marker
+
+ALT+X
+Clear Mark In & Mark Out
+
+CTRL+C
+Copy
+
+ALT+C
+Add Serial Node+CPW
+
+CTRL+V
+Paste
+
+CTRL+A
+Select all
+
+CTRL+SHIFT+A
+Deselect all
+
+ALT+A
+Auto Color
+
+SHIFT+[
+Trim Start
+
+SHIFT+]
+Trim End
+
+SHIFT+,
+Nudge Multiframe Left
+
+SHIFT+.
+Nudge Multiframe Right
+
+CTRL+ALT+-
+Volume down 1 dB
+
+CTRL+ALT+=
+Volume up 1 dB
+
+CTRL+RIGHT
+Move Selected Keyframes Right
+
+CTRL+LEFT
+Move Selected Keyframes Left
+
+SHIFT+RIGHT
+Step 1 Second Forward
+
+SHIFT+LEFT
+Step 1 Second Backward
+
+SHIFT+H
+Highlight
+
+CTRL+Y
+Add Version
+
+SHIFT+F10
+Ribble Overwrite
+
+SHIFT+F11
+Fit To Fill
+
+SHIFT+F12
+Append To End of Timeline
+
+SHIFT+S
+Audio Scrubbing
+
+SHIFT+BACKSPACE
+Ripple Delete
+
+CTRL+D
+Disable / Enable Current Node
+
+ALT+D
+Disable / Enable All Nodes
+
+SHIFT+D
+Bypass All Grades
+
+ALT+P
+Add Parallel Node
+
+ALT+S
+Add Serial Node
+
+ALT+Q
+Add Serial Node+LPW
+
+ALT+L
+Add Layer Node
+
+ALT+SHIFT+;
+Previous Node
+
+ALT+SHIFT+ 
+Next Node
+
+ALT+Y
+Add Splitter Combiner Node
+
+CTRL+HOME
+Reset Grades & Notes
+
+F9
+Insert Edit
+
+F10
+Overwrite Edit
+
+F11
+Replace Edit
+
+F12
+Place On Top Edit
+
+F4
+Expand Display
+
+1
+Left Display
+
+2
+Right Display
+
+R
+Display Red Channel only
+
+Z
+Display Z-buffer Channel
+
+C
+Display Full Color
+
+PLUS
+Zoom In
+
+-
+Zoom Out
+
+SHIFT+Z
+Zoom To Fit
+
+ALT+F
+Enhanced Viewer
+
+SHIFT+F
+Full Screen Viewer
+
+CTRL+F
+Cinema Viewer
+
+CTRL+ALT+W
+Split Screen
+
+SHIFT+J
+Fast Forward
+
+SHIFT+J
+Fast Reverse
+
+CTRL+R
+Retime Controls
+
+SHIFT+R
+Freeze Frame
+
+CTRL+/
+Loop / Unloop
+
+CTRL+ALT+G
+Grab Still Frame
+
+ALT+U
+Toggle Video+Audio or Separate
+
+CTRL+I
+Import Media
+
+CTRL+S
+Save project
+
+CTRL+E
+Export Project
+
+CTRL+N
+New Timeline
+
+CTRL+SHIFT+N
+New Bin
+
+SHIFT+9
+Project Settings
+
+CTRL+SHIFT+W
+Video Scopes
+
+CTRL+ALT+`
+Printer Light Hotkeys
+
+CTRL+-
+Zoom Out
+
+CTRL+=
+Zoom In
+
+SHIFT+2
+Primary Workspace Media
+
+SHIFT+3
+Primary Workspace Cut
+
+SHIFT+4
+Primary Workspace Edit
+
+SHIFT+6
+Primary Workspace Color
+
+SHIFT+7
+Primary Workspace Fairlight
+
+SHIFT+8
+Primary Workspace Deliver
+
+CTRL+1
+Load Memory A
+
+ALT+1
+Save Memory A
+
+CTRL+2
+Load Memory B
+
+ALT+2
+Save Memory B
+
+CTRL+3
+Load Memory C
+
+ALT+3
+Save Memory C
+
+CTRL+4
+Load Memory D
+
+ALT+4
+Save Memory D
+
+CTRL+5
+Load Memory E
+
+ALT+5
+Save Memory E
+
+CTRL+6
+Load Memory F
+
+ALT+6
+Save Memory F
+
+CTRL+7
+Load Memory G
+
+ALT+7
+Save Memory G
+
+CTRL+8
+Load Memory H
+
+ALT+8
+Save Memory H
+
+CTRL+Q
+Quit Resolve

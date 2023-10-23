@@ -1,0 +1,386 @@
+CTRL+SHIFT+A
+Find action
+
+CTRL+SPACE
+Basic code completion
+
+CTRL+SHIFT+SPACE
+Smart code completion
+
+ALT+ENTER
+Show intentions and quick-fixes
+
+ALT+INS
+Generate code
+
+CTRL+P
+Parameter info
+
+CTRL+SHIFT+W
+Shrink selection
+
+CTRL+W
+Extend selection
+
+CTRL+E
+Recent files popup
+
+SHIFT+F6
+Rename
+
+SHIFT  SHIFT
+Search everywhere
+
+CTRL+S
+Save all
+
+CTRL+ALT+Y
+Synchronize
+
+CTRL+SHIFT+F12
+Toggle maximizing editor
+
+ALT+SHIFT+I
+Inspect current file
+
+CTRL+`
+Quick switch current scheme
+
+CTRL+ALT+S
+Open settings dialog
+
+ALT+1
+Show Project window
+
+ALT+2
+Show Favorites window
+
+ALT+3
+Show Find window
+
+ALT+4
+Show Run window
+
+ALT+5
+Show Debug window
+
+ALT+6
+Show Problems window
+
+ALT+7
+Show Structure window
+
+ALT+8
+Show Services window
+
+ALT+9
+Show Version Control window
+
+ALT+0
+Show Commit window
+
+ALT+F12
+Show Terminal window
+
+CTRL+F
+Find
+
+CTRL+R
+Replace
+
+F3
+Find next
+
+SHIFT+F3
+Find previous
+
+CTRL+SHIFT+F
+Find in path
+
+CTRL+SHIFT+R
+Replace in path
+
+ALT+J
+Select next occurrence
+
+CTRL+ALT+SHIFT+J
+Select all occurrences
+
+ALT+SHIFT+J
+Unselect occurrence
+
+F7
+Step into
+
+SHIFT+F7
+Smart step into
+
+F8
+Step over
+
+SHIFT+F8
+Step out
+
+ALT+F9
+Run to cursor
+
+ALT+F8
+Evaluate expression
+
+F9
+Resume program
+
+CTRL+F8
+Toggle breakpoint
+
+CTRL+SHIFT+F8
+View breakpoints
+
+CTRL+SHIFT+ENTER
+Complete statement
+
+CTRL+Q
+Quick documentation lookup
+
+SHIFT+F1
+External doc
+
+CTRL+  USE
+Brief info
+
+CTRL+F1
+Show descriptions of error at caret
+
+CTRL+O
+Override methods
+
+CTRL+I
+Implement methods
+
+CTRL+ALT+T
+Surround with …
+
+CTRL+/
+Comment with line comment
+
+CTRL+SHIFT+/
+Comment with block comment
+
+ALT+Q
+Context info
+
+CTRL+ALT+L
+Reformat code
+
+CTRL+ALT+O
+Optimize imports
+
+CTRL+ALT+I
+Auto-indent line
+
+TAB OR SHIFT+TAB
+Indent / unindent selected lines
+
+CTRL+X OR SHIFT+DEL
+Cut current line to clipboard
+
+CTRL+C OR CTRL+INS
+Copy current line to clipboard
+
+CTRL+V OR SHIFT+INS
+Paste from clipboard
+
+CTRL+SHIFT+V
+Paste from recent buffers...
+
+CTRL+D
+Duplicate current line
+
+CTRL+Y
+Delete line at caret
+
+CTRL+SHIFT+J
+Smart line join
+
+CTRL+ENTER
+Smart line split
+
+SHIFT+ENTER
+Start new line
+
+CTRL+SHIFT+U
+Toggle case
+
+CTRL+SHIFT+[
+Select till code block start
+
+CTRL+SHIFT+]
+Select till code block end
+
+CTRL+DEL
+Delete to word end
+
+CTRL+BACKSPACE
+Delete to word start
+
+CTRL+NUMPAD_PLUS
+Expand code block
+
+CTRL+NUMPAD-
+Collapse code block
+
+CTRL+SHIFT+NUMPAD_PLUS
+Expand all
+
+CTRL+SHIFT+NUMPAD-
+Collapse all
+
+CTRL+F4
+Close active editor tab
+
+CTRL+ALT+J
+Surround with live template
+
+CTRL+J
+Insert live template
+
+F5
+Copy
+
+F6
+Move
+
+CTRL+ALT+SHIFT+T
+Refactor this
+
+CTRL+ALT+M
+Extract method
+
+CTRL+ALT+V
+Extract variable
+
+CTRL+N
+Go to class
+
+CTRL+SHIFT+N
+Go to file
+
+CTRL+ALT+SHIFT+N
+Go to symbol
+
+ALT+RIGHT OR ALT+LEFT
+Go to next / previous editor tab
+
+F12
+Go back to previous tool window
+
+ESC
+Go to editor (from tool window)
+
+SHIFT+ESC
+Hide active or last active window
+
+CTRL+G
+Go to line
+
+CTRL+ALT+LEFT
+Navigate back
+
+CTRL+ALT+RIGHT
+Navigate forward
+
+CTRL+SHIFT+BACKSPACE
+Navigate to last edit location
+
+ALT+F1
+Select current file or symbol in any view
+
+CTRL+B,
+Go to declaration
+
+CTRL+ALT+B
+Go to implementation
+
+CTRL+SHIFT+I
+Open quick definition lookup
+
+CTRL+SHIFT+B
+Go to type declaration
+
+CTRL+U
+Go to super-method or super-type
+
+ALT+UP OR ALT+DOWN
+Go to previous / next declaration
+
+CTRL+[
+Move to code block start
+
+CTRL+]
+Move to code block end
+
+CTRL+F12
+File structure popup
+
+F2
+Next highlighted error
+
+SHIFT+F2
+Previous highlighted error
+
+F4 OR CTRL+ENTER
+Edit source / View source
+
+ALT+HOME
+Show navigation bar
+
+F11
+Toggle bookmark
+
+CTRL+F11
+Toggle bookmark with mnemonic
+
+CTRL+0 OR CTRL+1 OR CTRL+2
+Go to numbered bookmark 0/1/2
+
+SHIFT+F11
+Show bookmarks
+
+ALT+F7
+Find usages
+
+CTRL+F7
+Find usages in file
+
+CTRL+SHIFT+F7
+Highlight usages in file
+
+CTRL+ALT+F7
+Show usages
+
+ALT+SHIFT+F10
+Select configuration and run
+
+ALT+SHIFT+F9
+Select configuration and debug
+
+SHIFT+F10
+Run
+
+SHIFT+F9
+Debug
+
+CTRL+SHIFT+F10
+Run context configuration from editor
+
+CTRL+K
+Commit project to VCS
+
+CTRL+T
+Update project from VCS
+
+CTRL+SHIFT+K
+Push commits
+
+ALT+`
+VCS quick popup

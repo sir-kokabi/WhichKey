@@ -1,0 +1,161 @@
+ENTER
+Accept the input or move to the next line if input is missing closing token.
+
+SHIFT+ENTER
+Move cursor to the next line without attempting to execute the input
+
+BACKSPACE
+Delete the character before the cursor
+
+CTRL+H
+Delete the character before the cursor
+
+CTRL+HOME
+Delete text from the cursor to the start of the line
+
+CTRL+BACKSPACE
+Delete previous word
+
+CTRL+C
+Cancel editing the line
+
+CTRL+C
+Copy selected text
+
+CTRL+X
+Delete selected region placing deleted text in the system clipboard
+
+DEL
+Delete the character under the cursor
+
+CTRL+END
+Delete text from the cursor to the end of the line
+
+CTRL+ENTER
+Inserts a new empty line above without executing
+
+CTRL+SHIFT+ENTER
+Inserts a new empty line below without executing
+
+CTRL+DEL
+Delete next word
+
+CTRL+V
+Paste text from the system clipboard
+
+SHIFT+INS
+Paste text from the system clipboard
+
+CTRL+Y
+Redo an undo
+
+ESC
+Undo all edits
+
+CTRL+Z
+Undo a previous edit
+
+ALT+.
+Copy the text of the last argument to the input
+
+LEFT
+Move the cursor back one character
+
+CTRL+LEFT
+Move the cursor to the beginning of the current or previous word
+
+HOME
+Move the cursor to the beginning of the line
+
+END
+Move the cursor to the end of the line
+
+RIGHT
+Move the cursor forward one character
+
+CTRL+]
+Go to matching brace
+
+CTRL+RIGHT
+Move the cursor forward to the start of the next word
+
+ALT+F7
+Remove all items from command line (not PowerShell) history
+
+CTRL+S
+Search history forward interactively
+
+F8
+Search for the previous item in the history that starts with the current input
+
+SHIFT+F8
+Search for the next item in the history that starts with the current input
+
+DOWN
+Replace the input with the next item in the history
+
+UP
+Replace the input with the previous item in the history
+
+CTRL+R
+Search history backwards interactively
+
+CTRL+SPACE
+Complete input if there is a single completion, otherwise select completion
+
+TAB
+Complete the input using the next completion
+
+SHIFT+TAB
+Complete the input using the previous completion
+
+CTRL+L
+Clear the screen and redraw the current line at the top of the screen
+
+ALT+0 OR ALT+1 OR ALT+2 OR ALT+3 OR ALT+4 OR ALT+5 OR ALT+6 OR ALT+7 OR ALT+8 OR ALT+9 OR ALT+-
+Start or accumulate a numeric argument to other functions
+
+PAGEDOWN
+Scroll the display down one screen
+
+CTRL+PAGEDOWN
+Scroll the display down one line
+
+PAGEUP
+Scroll the display up one screen
+
+CTRL+PAGEUP
+Scroll the display up one line
+
+CTRL+ALT+?
+Show all key bindings
+
+ALT+?
+Show the key binding for the next chord entered
+
+CTRL+A
+Select the entire line. Moves the cursor to the end of the line
+
+SHIFT+LEFT
+Adjust the current selection to include the previous character
+
+SHIFT+HOME
+Adjust the current selection to include from the cursor to the end of the line
+
+CTRL+SHIFT+LEFT
+Adjust the current selection to include the previous word
+
+SHIFT+RIGHT
+Adjust the current selection to include the next character
+
+SHIFT+END
+Adjust the current selection to include from the cursor to the start of the line
+
+CTRL+SHIFT+RIGHT
+Adjust the current selection to include the next word
+
+F3
+Read a character and move cursor to the next occurence of that character
+
+SHIFT+F3
+Read a character and move cursor to previous occurence of that character

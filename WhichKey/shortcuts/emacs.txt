@@ -1,0 +1,767 @@
+ALT+X
+execute extended command
+
+CTRL+Z
+suspend Emacs (or iconify it under X)
+
+CTRL+X  CTRL+C
+exit Emacs permanently
+
+CTRL+X  CTRL+F
+read a file into Emacs
+
+CTRL+X  CTRL+S
+save a file back to disk
+
+CTRL+X  S
+save all files
+
+CTRL+X  I
+insert contents of another file into this buffer
+
+CTRL+X  CTRL+V
+replace this file with the file you really want
+
+CTRL+X  CTRL+W
+write buffer to a specified file
+
+CTRL+X  CTRL+Q
+toggle read-only status of buffer
+
+CTRL+H OR F1
+Show help
+
+CTRL+H  T
+Enter tutorial
+
+CTRL+X  1
+remove help window
+
+CTRL+ALT+V
+scroll help window
+
+CTRL+H  A
+apropos: show commands matching a string
+
+CTRL+H  K
+describe the function a key runs
+
+CTRL+H  F
+describe a function
+
+CTRL+H  M
+get mode-specific information
+
+CTRL+G
+abort partially typed or executing command
+
+RECOVER-SESSION
+recover files lost by a system crash
+
+CTRL+X  U OR CTRL+_ OR CTRL+/
+undo an unwanted change
+
+REVERT-BUFFER
+restore a buffer to its original contents
+
+CTRL+L
+redraw garbaged screen
+
+CTRL+S
+search forward
+
+CTRL+R
+search backward
+
+CTRL+ALT+S
+regular expression search
+
+CTRL+ALT+R
+reverse regular expression search
+
+ALT+P
+select previous search string
+
+ALT+N
+select next later search string
+
+ENTER
+exit incremental search
+
+DEL
+undo effect of last character
+
+CTRL+G
+abort current search
+
+CTRL+F
+Move over character forward
+
+CTRL+B
+Move over character backward
+
+ALT+B
+Move over word backward
+
+ALT+F
+Move over word forward
+
+CTRL+N
+Move over line forward
+
+CTRL+P
+Move over line backward
+
+CTRL+A
+Move to line beginning
+
+CTRL+E
+Move to line end
+
+ALT+A
+Move to sentence beginning
+
+ALT+E
+Move to sentence end
+
+ALT+{
+Move to paragraph beginning
+
+ALT+}
+Move to paragraph end
+
+CTRL+X  [
+Move to page beginning
+
+CTRL+X  ]
+Move to page end
+
+CTRL+ALT+B
+Move to sexp beginning
+
+CTRL+ALT+F
+Move to sexp end
+
+CTRL+ALT+A
+Move to function beginning
+
+CTRL+ALT+E
+Move to function end
+
+ALT+<
+Move to buffer beginning
+
+ALT+>
+Move to buffer beginning
+
+CTRL+V
+scroll to next screen
+
+ALT+V
+scroll to previous screen
+
+CTRL+X  <
+scroll left
+
+CTRL+X  >
+scroll right
+
+CTRL+L
+scroll current line to center, top, bottom
+
+ALT+G  G
+goto line
+
+ALT+G  C
+goto char
+
+ALT+M
+back to indentation
+
+DEL
+delete character backward
+
+CTRL+D
+delete character forward
+
+ALT+DEL
+delete word backward
+
+ALT+D
+delete word forward
+
+ALT+0  CTRL+K
+delete line to beginning
+
+CTRL+K
+delete line to end
+
+CTRL+X  DEL
+delete sentence to bebinning
+
+ALT+K
+delete sentence to end
+
+ALT+-  CTRL+ALT+K
+delete sexp to beginning
+
+CTRL+ALT+K
+delete sexp to end
+
+CTRL+W
+kill region
+
+ALT+W
+copy region to kill ring
+
+ALT+Z  C
+kill through next occurrence of 'c' char
+
+CTRL+Y
+yank back last thing killed
+
+ALT+Y
+replace last yank with previous kill
+
+CTRL+@ OR CTRL+SPACE
+set mark here
+
+CTRL+X  CTRL+X
+exchange point and mark
+
+ALT+@
+set mark arg words away
+
+ALT+H
+mark paragraph
+
+CTRL+X  CTRL+P
+mark page
+
+CTRL+ALT+@
+mark sexp
+
+CTRL+ALT+H
+mark function
+
+CTRL+X  H
+mark entire buffer
+
+ALT+%
+interactively replace a text string
+
+QUERY-REPLACE-REGEXP
+using regular expressions
+
+SPACE OR Y
+query-replace response: replace this one, go on to next
+
+,
+query-replace response: replace this one, don’t move
+
+DEL OR N
+query-replace response: skip to next without replacing
+
+!
+query-replace response: replace all remaining matches
+
+^
+query-replace response: back up to the previous match
+
+ENTER
+exit query-replace
+
+CTRL+R
+enter recursive edit
+
+CTRL+ALT+C
+exit recursive edit
+
+CTRL+X  1
+delete all other windows
+
+CTRL+X  5  1
+delete all other frames
+
+CTRL+X  2
+split window, above and below
+
+CTRL+X  5  2
+split frame, above and below
+
+CTRL+X  0
+delete this window
+
+CTRL+X  5  0
+delete this frame
+
+CTRL+X  3
+split window, side by side
+
+CTRL+ALT+V
+scroll other window
+
+CTRL+X  O
+switch cursor to another window
+
+CTRL+X  5  O
+switch cursor to another frame
+
+CTRL+X  4  B
+select buffer in other window
+
+CTRL+X  5  B
+select buffer in other frame
+
+CTRL+X  4  CTRL+O
+display buffer in other window
+
+CTRL+X  5  CTRL+O
+display buffer in other frame
+
+CTRL+X  4  F
+find file in other window
+
+CTRL+X  5  F
+find file in other frame
+
+CTRL+X  4  R
+find file read-only in other window
+
+CTRL+X  5  R
+find file read-only in other frame
+
+CTRL+X  4  D
+run Dired in other window
+
+CTRL+X  5  D
+run Dired in other frame
+
+CTRL+X  4  .
+find tag in other window
+
+CTRL+X  5  .
+find tag in other frame
+
+CTRL+X  ^
+grow window taller
+
+CTRL+X  {
+shrink window narrower
+
+CTRL+X  }
+grow window wider
+
+TAB
+indent current line (mode-dependent)
+
+CTRL+ALT+\
+indent region (mode-dependent)
+
+CTRL+ALT+Q
+indent sexp (mode-dependent)
+
+CTRL+X  TAB
+indent region rigidly arg columns
+
+ALT+;
+indent for comment
+
+CTRL+O
+insert newline after point
+
+CTRL+ALT+O
+move rest of line vertically down
+
+CTRL+X  CTRL+O
+delete blank lines around point
+
+ALT+^
+join line with previous (with arg, next)
+
+ALT+\
+delete all white space around point
+
+ALT+SPACE
+put exactly one space at point
+
+ALT+Q
+fill paragraph
+
+CTRL+X  F
+set fill column to arg
+
+CTRL+X  .
+set prefix each line starts with
+
+ALT+O
+set face
+
+ALT+U
+uppercase word
+
+ALT+L
+lowercase word
+
+ALT+C
+capitalize word
+
+CTRL+X  CTRL+U
+uppercase region
+
+CTRL+X  CTRL+L
+lowercase region
+
+TAB
+complete as much as possible
+
+SPACE
+complete up to one word
+
+ENTER
+complete and execute
+
+?
+show possible completions
+
+ALT+P
+fetch previous minibuffer input
+
+ALT+N
+fetch later minibuffer input or default
+
+ALT+R
+regexp search backward through history
+
+ALT+S
+regexp search forward through history
+
+CTRL+G
+abort command
+
+F10
+activate menu bar items on text terminals
+
+CTRL+X  ESC  ESC
+edit and repeat last command that used minibuffer
+
+CTRL+X  B
+select another buffer
+
+CTRL+X  CTRL+B
+list all buffers
+
+CTRL+X  K
+kill a buffer
+
+CTRL+T
+transpose characters
+
+ALT+T
+transpose words
+
+CTRL+X  CTRL+T
+transpose lines
+
+CTRL+ALT+T
+transpose sexps
+
+ALT+$
+check spelling of current word
+
+ISPELL-REGION
+check spelling of all words in region
+
+ISPELL-BUFFER
+check spelling of entire buffer
+
+FLYSPELL-MODE
+toggle on-the-fly spell checking
+
+ALT+.
+find a tag (a definition)
+
+CTRL+U  ALT+.
+find next occurrence of tag
+
+VISIT-TAGS-TABLE
+specify a new tags file
+
+TAGS-SEARCH
+regexp search on all files in tags table
+
+TAGS-QUERY-REPLACE
+run query-replace on all the files
+
+ALT+,
+continue last tags search or query-replace
+
+ALT+!
+execute a shell command
+
+ALT+&
+execute a shell command asynchronously
+
+ALT+|
+run a shell command on the region
+
+CTRL+U  ALT+|
+filter region through a shell command
+
+SHELL
+start a shell in window *shell*
+
+CTRL+X  R  R
+copy rectangle to register
+
+CTRL+X  R  K
+kill rectangle
+
+CTRL+X  R  Y
+yank rectangle
+
+CTRL+X  R  O
+open rectangle, shifting text right
+
+CTRL+X  R  C
+blank out rectangle
+
+CTRL+X  R  T
+prefix each line with a string
+
+CTRL+X  A  G
+add global abbrev
+
+CTRL+X  A  L
+add mode-local abbrev
+
+CTRL+X  A  I  G
+add global expansion for this abbrev
+
+CTRL+X  A  I  L
+add mode-local expansion for this abbrev
+
+CTRL+X  A  E
+explicitly expand abbrev
+
+ALT+/
+expand previous word dynamically
+
+CTRL+U  1
+numeric argument 1
+
+ALT+-
+negative argument
+
+CTRL+Q  C
+quoted insert of character c
+
+.
+any single character except a newline
+
+*
+zero or more repeats
+
++
+one or more repeats
+
+?
+zero or one repeat
+
+\
+quote special characters
+
+\C
+quote regular expression special character c
+
+\
+alternative (“or”)
+
+\( . . . \)
+grouping
+
+\(:? . . . \)
+shy grouping
+
+\(:NUM . . . \)
+explicit numbered grouping
+
+\N
+same text as nth group
+
+\B
+at word break
+
+\B
+not at word break
+
+^
+match line start
+
+$
+match line end
+
+\<
+match word start
+
+\>
+match word end
+
+\_<
+match symbol start
+
+\_>
+match symbol end
+
+\ 
+match buffer start
+
+\ 
+match buffer end
+
+\W
+match word-syntax character
+
+\W
+do not match word-syntax character
+
+\SC
+match character with syntax c
+
+\SC
+do not match character with syntax c
+
+\CC
+match character with categroy c
+
+\CC
+do not match character with categroy c
+
+CTRL+X  ENTER  L
+specify principal language
+
+LIST-INPUT-METHODS
+show all input methods
+
+CTRL+\
+enable or disable input method
+
+CTRL+X  ENTER  C
+set coding system for next command
+
+LIST-CODING-SYSTEMS
+show all coding systems
+
+PREFER-CODING-SYSTEM
+choose preferred coding system
+
+CTRL+H  I
+enter the Info documentation reader
+
+CTRL+H  S
+find specified function or variable in Info
+
+SPACE
+scroll forward
+
+DEL
+scroll reverse
+
+B
+move to beginning of node
+
+N
+next node
+
+P
+previous node
+
+U
+move up
+
+M
+select menu item by name
+
+N
+select nth menu item by number (1–9)
+
+F
+follow cross reference (return with l)
+
+L
+return to last node you saw
+
+D
+return to directory node
+
+T
+go to top node of Info file
+
+G
+go to any node by name
+
+H
+run Info tutorial
+
+I
+look up a subject in the indices
+
+S
+search nodes for regexp
+
+Q
+quit Info
+
+CTRL+X  R  S
+save region in register
+
+CTRL+X  R  I
+insert register contents into buffer
+
+CTRL+X  R  SPACE
+save value of point in register
+
+CTRL+X  R  J
+jump to point saved in register
+
+CTRL+X  (
+start defining a keyboard macro
+
+CTRL+X  )
+end keyboard macro definition
+
+CTRL+X  E
+execute last-defined keyboard macro
+
+CTRL+U  CTRL+X  (
+append to last keyboard macro
+
+NAME-LAST-KBD-MACRO
+name last keyboard macro
+
+INSERT-KBD-MACRO
+insert Lisp definition in buffer
+
+CTRL+X  CTRL+E
+eval sexp before point
+
+CTRL+ALT+X
+eval current defun
+
+EVAL-REGION
+eval region
+
+ALT+:
+read and eval minibuffer
+
+LOAD-LIBRARY
+load a Lisp library from load-path
+
+CUSTOMIZE
+customize variables and faces
+
+(GLOBAL-SET-KEY (KBD CTRL+C G")  SEARCH-FOR WARD)"
+make global C+c g key binding for search-forward
+
+(GLOBAL-SET-KEY (KBD ALT+#")  QUERY-REPLACE-REGEXP)"
+make global M-# key binding for query-replace-regexp

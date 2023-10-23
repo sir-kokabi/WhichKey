@@ -1,0 +1,644 @@
+CTRL+N
+New
+
+ALT+SHIFT+N
+New Menu
+
+CTRL+W
+Close
+
+CTRL+SHIFT+W
+Close All
+
+CTRL+S
+Save
+
+CTRL+SHIFT+S
+Save All
+
+F2
+Rename
+
+F5
+Refresh
+
+CTRL+P
+Print
+
+ALT+ENTER
+Properties
+
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+CTRL+X
+Cut
+
+CTRL+C
+Copy
+
+CTRL+V
+Paste
+
+DEL
+Delete
+
+CTRL+A
+Select All
+
+CTRL+F
+Find and Replace
+
+CTRL+K
+Find Next
+
+CTRL+SHIFT+K
+Find Previous
+
+CTRL+J
+Incremental Find
+
+CTRL+SHIFT+J
+Reverse Incremental Find
+
+CTRL+SHIFT+INS
+Toggle Insert Mode
+
+F2
+Show Tooltip Description
+
+CTRL+SPACE
+Content Assist
+
+CTRL+SHIFT+SPACE
+Context Information
+
+ALT+/
+Word Completion
+
+CTRL+1
+Quick Fix
+
+CTRL+SHIFT+Q
+Quick Diff Toggle
+
+ALT+SHIFT+A
+Toggle Block Selection
+
+CTRL+_
+Toggle Split Editor horizontal
+
+CTRL+{
+Toggle Split Editor vertical
+
+CTRL+H
+Open Search Dialog
+
+CTRL+ALT+G
+Find Text in Workspace
+
+CTRL+SHIFT+G
+Search References in Ws
+
+CTRL+G
+Search Declaration in Ws
+
+CTRL+SHIFT+U
+Show Occurrences in File
+
+SHIFT+HOME
+Select to Line Start
+
+SHIFT+END
+Select to Line End
+
+CTRL+SHIFT+LEFT
+Select Previous Word
+
+CTRL+SHIFT+RIGHT
+Select Next Word
+
+CTRL+HOME
+Cursor to Text Start
+
+CTRL+END
+Cursor to Text End
+
+HOME
+Cursor to Line Start
+
+END
+Cursor to Line End
+
+CTRL+LEFT
+Cursor to Previous Word
+
+CTRL+RIGHT
+Cursor to Next Word
+
+CTRL+L
+Go to Line
+
+CTRL+NUM_/
+Toggle Folding
+
+CTRL+NUM_-
+Collapse
+
+CTRL+SHIFT+NUM_/
+Collapse All
+
+CTRL+NUM_PLUS
+Expand
+
+CTRL+NUM_*
+Expand All
+
+CTRL+SHIFT+NUM_*
+Show Ruler Context Menu
+
+CTRL+F10
+Toggle Word Wrap
+
+ALT+SHIFT+Y
+Zoom In
+
+CTRL+=
+Zoom In
+
+CTRL+-
+Zoom Out
+
+CTRL+SHIFT+ENTER
+Insert Line Above
+
+SHIFT+ENTER
+Insert Line Below
+
+CTRL+ALT+UP
+Copy Lines Up
+
+CTRL+ALT+DOWN
+Copy Lines Down
+
+ALT+UP
+Move Lines Up
+
+ALT+DOWN
+Move Lines Down
+
+CTRL+D
+Delete Line
+
+CTRL+BACKSPACE
+Delete Previous Word
+
+CTRL+DEL
+Delete Next Word
+
+CTRL+SHIFT+DEL
+Delete to End of Line
+
+CTRL+SHIFT+Y
+Convert to Lower Case
+
+CTRL+SHIFT+X
+Convert to Upper Case
+
+INS
+Toggle Overwrite
+
+ALT+SHIFT+S
+Show Source Quick Menu
+
+CTRL+7
+Toggle Comment
+
+CTRL+SHIFT+C
+Toggle Comment
+
+ALT+SHIFT+O
+Toggle Mark Occurrences
+
+CTRL+SHIFT+F
+Format
+
+CTRL+1
+Annotate Class File
+
+F3
+Open Hyperlink
+
+ALT+SHIFT+UP
+Select Enclosing Element
+
+ALT+SHIFT+LEFT
+Select Previous Element
+
+ALT+SHIFT+RIGHT
+Select Next Element
+
+ALT+SHIFT+DOWN
+Restore Last Selection
+
+CTRL+SHIFT+SPACE
+Context Information
+
+CTRL+SHIFT+UP
+Go to Previous Member
+
+CTRL+SHIFT+DOWN
+Go to Next Member
+
+CTRL+SHIFT+P
+Go to Matching Bracket
+
+F3
+Open Declaration
+
+F4
+Open Type Hierarchy
+
+CTRL+ALT+H
+Open Call Hierarchy
+
+SHIFT+F2
+Open Attached Javadoc
+
+CTRL+F3
+Open Structure
+
+CTRL+T
+Quick Hierarchy
+
+CTRL+O
+Quick Outline
+
+ALT+SHIFT+B
+Show In Breadcrumb
+
+CTRL+SHIFT+/
+Add Block Comment
+
+CTRL+SHIFT+\
+Remove Block Comment
+
+ALT+SHIFT+J
+Add Javadoc Comment
+
+CTRL+I
+Correct Indentation
+
+CTRL+SHIFT+M
+Add Import
+
+CTRL+SHIFT+O
+Organize Imports
+
+ALT+SHIFT+Z
+Surround With Menu
+
+ALT+SHIFT+U
+Remove Occurrence
+
+CTRL+2  L
+Assign to Local Variable
+
+CTRL+2  F
+Assign to Field
+
+CTRL+2  M
+Extract Method
+
+CTRL+2  R
+Rename in File
+
+ALT+SHIFT+T
+Show Refactor Menu
+
+ALT+SHIFT+R
+Rename
+
+ALT+SHIFT+V
+Move
+
+ALT+SHIFT+C
+Change Method Signature
+
+ALT+SHIFT+M
+Extract Method
+
+ALT+SHIFT+L
+Extract Local Variable
+
+ALT+SHIFT+I
+Inline
+
+CTRL+B
+Build All
+
+SHIFT+F2
+Open External Doc.
+
+ALT+SHIFT+R
+Rename In File
+
+CTRL+F11
+Run
+
+ALT+SHIFT+X  Q
+Run Ant Build
+
+ALT+SHIFT+X  E
+Run Eclipse Application
+
+ALT+SHIFT+X  A
+Run Java Applet
+
+ALT+SHIFT+X  J
+Run Java Application
+
+ALT+SHIFT+X  P
+Run JUnit Plug-in Test
+
+ALT+SHIFT+X  T
+Run JUnit Test
+
+ALT+SHIFT+X  O
+Run OSGi Framework
+
+ALT+SHIFT+D  Q
+Debug Ant Build
+
+ALT+SHIFT+D  E
+Debug Eclipse Application
+
+ALT+SHIFT+D  A
+Debug Java Applet
+
+ALT+SHIFT+D  J
+Debug Java Application
+
+ALT+SHIFT+D  P
+Debug JUnit Plug-in Test
+
+ALT+SHIFT+D  T
+Debug JUnit Test
+
+ALT+SHIFT+D  O
+Debug OSGi Framework
+
+CTRL+SHIFT+B
+Toggle Breakpoint
+
+F8
+Resume
+
+CTRL+F2
+Terminate
+
+F5
+Step Into
+
+CTRL+F5
+Step Into Selection
+
+F6
+Step Over
+
+F7
+Step Return
+
+ALT+SHIFT+F
+Force Return
+
+CTRL+R
+Run to Line
+
+SHIFT+F5
+Use Step Filters
+
+CTRL+SHIFT+N
+All Instances
+
+CTRL+SHIFT+I
+Inspect
+
+CTRL+SHIFT+D
+Display
+
+CTRL+U
+Execute
+
+ALT+ENTER
+Java Breakpoint Properties
+
+CTRL+Z
+Undo
+
+CTRL+ALT+M
+Add Memory Block
+
+CTRL+W
+Close Rendering
+
+CTRL+T
+Toggle Memory Monitors
+
+CTRL+N
+New Rendering
+
+CTRL+ALT+N
+Next Memory Monitor
+
+CTRL+SHIFT+.
+Next Page of Memory
+
+CTRL+SHIFT+,
+Previous Page Memory
+
+CTRL+G
+Go to Address
+
+CTRL+D
+EOF
+
+CTRL+ALT+B
+Skip All Breakpoints
+
+CTRL+SHIFT+T
+Open Type
+
+CTRL+SHIFT+H
+Open Type in Hierarchy
+
+CTRL+SHIFT+R
+Open Resource
+
+CTRL+SHIFT+V
+Open from Clipboard
+
+ALT+SHIFT+B
+Show In Breadcrumb
+
+ALT+SHIFT+W
+Show In...
+
+CTRL+.
+Next
+
+CTRL+,
+Previous
+
+CTRL+Q
+Last Edit Location
+
+ALT+LEFT
+Backward History
+
+ALT+RIGHT
+Forward History
+
+ALT+F7
+Go to Next Editor Page
+
+ALT+SHIFT+F7
+Go to Prev. Editor Page
+
+ALT+PAGEDOWN
+Go to Next Editor Sub-Tab
+
+ALT+PAGEUP
+Go to Prev. Editor Sub-Tab
+
+CTRL+PAGEDOWN
+Next Tab
+
+CTRL+PAGEUP
+Previous Tab
+
+ALT+SHIFT+Q  Q
+Show View
+
+ALT+SHIFT+Q  B
+Show View: Breakpoints
+
+ALT+SHIFT+Q  H
+Show View: Cheat Sheets
+
+ALT+SHIFT+Q  C
+Show View: Console
+
+ALT+SHIFT+Q  D
+Show View: Declaration
+
+ALT+SHIFT+Q  L
+Show View: Error Log
+
+ALT+SHIFT+Q  Z
+Show View: History
+
+ALT+SHIFT+Q  J
+Show View: Javadoc
+
+ALT+SHIFT+Q  O
+Show View: Outline
+
+ALT+SHIFT+Q  P
+Show View: Package Expl.
+
+ALT+SHIFT+Q  X
+Show View: Problems
+
+ALT+SHIFT+Q  S
+Show View: Search
+
+ALT+SHIFT+Q  Y
+Show View: Synchronize
+
+ALT+SHIFT+Q  T
+Show View: Type Hierarchy
+
+ALT+SHIFT+Q  V
+Show View: Variables
+
+CTRL+SHIFT+A
+Open Plug-in Artifact
+
+CTRL+ALT+SHIFT+M
+Open Manifest
+
+CTRL+SHIFT+F
+Format Source
+
+CTRL+O
+Quick Outline
+
+ALT+SHIFT+F1
+Plug-in Selection Spy
+
+ALT+SHIFT+F2
+Plug-in Menu Spy
+
+ALT+SHIFT+F3
+Show Contrib. Plug-in
+
+CTRL+ALT+SHIFT+F9
+Layout Spy
+
+CTRL+#
+Commit...
+
+CTRL+C
+Copy Path to Clipboard
+
+CTRL+V
+Paste Repo Path or URI
+
+CTRL+3
+Quick Access
+
+F12
+Activate Editor
+
+CTRL+E
+Quick Switch Editor
+
+CTRL+SHIFT+E
+Switch to Editor
+
+CTRL+SHIFT+F6
+Next Editor
+
+CTRL+F6
+Previous Editor
+
+CTRL+M
+Maximize View or Editor
+
+CTRL+SHIFT+F7
+Previous View
+
+CTRL+F7
+Next View
+
+CTRL+F10
+Show View Menu
+
+CTRL+SHIFT+F8
+Previous Perspective
+
+CTRL+F8
+Next Perspective
+
+CTRL+SHIFT+L
+Show Key Assist
+
+ALT+-
+Show System Menu
+
+ALT+F11
+Toggle Full Screen

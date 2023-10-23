@@ -1,0 +1,233 @@
+CTRL+PAGEDOWN OR CTRL+TAB
+Switch to the next tab
+
+CTRL+PAGEUP OR CTRL+SHIFT+TAB
+Switch to the previous tab
+
+CTRL+R OR F5
+Reload the current page
+
+CTRL+SHIFT+R OR SHIFT+F5
+Reload the current page, ignoring cached content
+
+F6
+Switch focus to next pane
+
+SHIFT+F6
+Switch focus to previous pane
+
+ALT+F4
+Close the current window
+
+F11
+Enter full screen (toggle)
+
+CTRL+1 OR CTRL+2 OR CTRL+8
+Switch to a specific tab
+
+CTRL+9
+Switch to the last tab
+
+CTRL+SHIFT+K
+Duplicate current tab
+
+CTRL+T
+Open a new tab and switch to it
+
+CTRL+SHIFT+T
+Reopen the last closed tab, and switch to it
+
+ALT+SHIFT+T
+Set focus on the first item in the toolbar
+
+CTRL+W
+Close the current tab
+
+CTRL+SHIFT+W
+Close the current window
+
+N/A
+Minimize window
+
+N/A
+Minimize all windows of the front app
+
+CTRL+J
+Open Downloads in a new tab
+
+CTRL+SHIFT+L
+Paste and search or Paste and go (if it's a URL)
+
+CTRL+M
+Mute the current tab (toggle)
+
+CTRL+SHIFT+M
+Sign in as a different user or browse as a Guest
+
+CTRL+N
+Open a new window
+
+CTRL+SHIFT+N
+Open a new InPrivate window
+
+CTRL+O
+Open a file from your computer in Edge
+
+CTRL+SHIFT+O
+Open Favorites management
+
+N/A
+Search the typed query in new tab
+
+CTRL+SHIFT+B
+Show or hide the favorites bar
+
+ALT+SHIFT+B
+Set focus on the first item in the favorites bar
+
+CTRL+D
+Save the current tab as a favorite
+
+CTRL+SHIFT+D
+Save all open tabs as favorites in a new folder
+
+CTRL+SHIFT+I OR F12
+Open Developer Tools
+
+N/A
+Open the JavaScript Console
+
+CTRL+U
+View source
+
+ALT+SHIFT+I
+Open the Send feedback dialog
+
+CTRL+PLUS
+Zoom in
+
+CTRL+-
+Zoom out
+
+CTRL+ENTER
+Add www. to the beginning and .com to the end of text typed in the address bar
+
+HOME
+Go to the top of the page, Move keyboard focus to first item of pane
+
+END
+Go to the bottom of the page, Move keyboard focus to last item of pane
+
+TAB
+Go to next tab stop
+
+SHIFT+TAB
+Go to previous tab stop
+
+ESC
+Stop loading page; close dialog or pop-up
+
+PAGEUP OR SHIFT+SPACE
+Scroll up webpage, one screen at a time
+
+PAGEDOWN OR SPACE
+Scroll down webpage, one screen at a time
+
+CTRL+F4
+Close the current page in the current tab
+
+F3
+Find in the current tab
+
+F4
+Select the URL in the address bar
+
+CTRL+SHIFT+Y
+Open Collections
+
+CTRL+0
+Reset zoom level
+
+CTRL+P
+Print the current page
+
+CTRL+SHIFT+P
+Print using the system dialog
+
+CTRL+S
+Save the current page
+
+CTRL+SHIFT+V
+Paste without formatting
+
+CTRL+SHIFT+U
+Start or stop Read Aloud
+
+ALT+D OR CTRL+L
+Select the URL in the address bar to edit
+
+CTRL+E OR CTRL+K
+Open a search query in the address bar
+
+CTRL+F
+Find on page
+
+N/A
+Search the web
+
+CTRL+G
+Jump to the next match to your Find Bar search
+
+CTRL+SHIFT+G
+Jump to the previous match to your Find Bar search
+
+HOME
+Move cursor to beginning of first word in same line
+
+END
+Move cursor to the end of last word in same line
+
+N/A
+Delete entire text field / entire line of text
+
+CTRL+\
+Toggle PDF between fit to page / fit to width
+
+CTRL+[
+Rotate PDF counter-clockwise 90*
+
+CTRL+]
+Rotate PDF clockwise 90*
+
+CTRL+SHIFT+DEL
+Open clear browsing data options
+
+ALT+LEFT
+Go back
+
+ALT+RIGHT
+Go forward
+
+ALT+HOME
+Open your home page in the current tab
+
+CTRL+H
+Open History in a new tab (web UI)
+
+F1
+Open Help
+
+F7
+Turn caret browsing on or off
+
+F9
+Enter or exit Immersive Reader
+
+SHIFT+F10
+Open context menu
+
+ALT+F OR ALT+E OR F10  ENTER
+Open the Settings and more "..." menu
+
+ALT OR F10
+Set focus on the Settings and more "…" button

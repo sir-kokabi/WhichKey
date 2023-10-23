@@ -1,0 +1,959 @@
+CTRL+A
+Select all
+
+F2 OR CTRL+SHIFT+A
+Deselect all
+
+ENTER
+Rename selected layer, composition, folder, effect, group, or mask
+
+NUMENTER
+Open selected layer, composition, or footage item
+
+CTRL+ALT+DOWN OR CTRL+ALT+UP
+Move selected layers, masks, effects, or render items down (back) or up (forward) in stacking order
+
+CTRL+ALT+SHIFT+DOWN OR CTRL+ALT+SHIFT+UP
+Move selected layers, masks, effects, or render items to bottom (back) or top (front) of stacking order
+
+SHIFT+DOWN
+Extend selection to next item in Project panel, Render Queue panel, or Effect Controls panel
+
+SHIFT+UP
+Extend selection to previous item in Project panel, Render Queue panel, or Effect Controls panel
+
+CTRL+D
+Duplicate selected layers, masks, effects, text selectors, animators, puppet meshes, shapes, render items, output modules, or compositions
+
+CTRL+Q
+Quit
+
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+CTRL+ALT+NUM/
+Purge All Memory
+
+ESC
+Interrupt running a script
+
+CTRL+ALT+E
+Display filename corresponding to the frame at the current time in the Info panel
+
+CTRL+ALT+N
+New project
+
+CTRL+O
+Open project
+
+CTRL+ALT+SHIFT+P
+Open most recent project
+
+CTRL+ALT+SHIFT+N
+New folder in Project panel
+
+CTRL+ALT+SHIFT+K
+Open Project Settings dialog box
+
+CTRL+F
+Find in Project panel
+
+CTRL+ALT+;
+Open Preferences dialog box
+
+CTRL+0
+Open or close Project panel
+
+CTRL+ALT+0
+Open or close Render Queue panel
+
+CTRL+1
+Open or close Tools panel
+
+CTRL+2
+Open or close Info panel
+
+CTRL+3
+Open or close Preview panel
+
+CTRL+4
+Open or close Audio panel
+
+CTRL+5
+Open or close Effects & Presets panel
+
+CTRL+6
+Open or close Character panel
+
+CTRL+7
+Open or close Paragraph panel
+
+CTRL+8
+Open or close Paint panel
+
+CTRL+9
+Open or close Brushes panel
+
+F3 OR CTRL+SHIFT+T
+Open or close Effect Controls panel for selected layer
+
+CTRL+F11
+Open Flowchart panel for project flowchart
+
+SHIFT+F10 OR SHIFT+F11 OR SHIFT+F12
+Switch to workspace
+
+CTRL+W
+Close active viewer or panel (closes content first)
+
+CTRL+SHIFT+W
+Close active panel or all viewers of type of active viewer (closes content first). For example, if a Timeline panel is active, this command closes all Timeline panels.
+
+CTRL+ALT+SHIFT+N
+Split the frame containing the active viewer and create a viewer with opposite locked/unlocked state
+
+`
+Maximize or restore panel under pointer
+
+CTRL+\
+Resize application window or floating window to fit screen. (Press again to resize window so that contents fill the screen.)
+
+CTRL+ALT+\
+Move application window or floating window to main monitor; resize window to fit screen. (Press again to resize window so that contents fill the screen.)
+
+\
+Toggle activation between Composition panel and Timeline panel for current composition
+
+SHIFT+, OR SHIFT+.
+Cycle to previous or next item in active viewer (for example, cycle through open compositions)
+
+ALT+SHIFT+, OR ALT+SHIFT+.
+Cycle to previous or next panel in active frame (for example, cycle through open Timeline panels)
+
+V
+Activate Selection tool
+
+H
+Activate Hand tool
+
+SPACE
+Temporarily activate Hand tool
+
+Z
+Activate Zoom In tool
+
+ALT
+Activate Zoom Out tool
+
+W
+Activate Rotation tool
+
+ALT+W
+Activate Roto Brush tool
+
+ALT+W
+Activate Refine Edge tool
+
+C
+Activate and cycle through Camera tools (Unified Camera, Orbit Camera, Track XY Camera, and Track Z Camera)
+
+Y
+Activate Pan Behind tool
+
+Q
+Activate and cycle through mask and shape tools (Rectangle, Rounded Rectangle, Ellipse, Polygon, Star)
+
+CTRL+T
+Activate and cycle through Type tools (Horizontal and Vertical)
+
+G
+Activate and cycle between the Pen and Mask Feather tools. (Note: You can turn off this setting in the Preferences dialog box.)
+
+CTRL
+Temporarily activate Selection tool when a pen tool is selected
+
+CTRL+ALT
+Temporarily activate Pen tool when the Selection tool is selected and pointer is over a path (Add Vertex tool when pointer is over a segment; Convert Vertex tool when pointer is over a vertex)
+
+CTRL+B
+Activate and cycle through Brush, Clone Stamp, and Eraser tools
+
+CTRL+P
+Activate and cycle through Puppet tools
+
+ALT
+Temporarily convert Selection tool to Shape Duplication tool
+
+CTRL
+Temporarily convert Selection tool to Direct Selection tool
+
+CTRL+N
+New composition
+
+CTRL+K
+Open Composition Settings dialog box for selected composition
+
+B OR N
+Set beginning or end of work area to current time
+
+CTRL+ALT+B
+Set work area to duration of selected layers or, if no layers are selected, set work area to composition duration
+
+TAB
+Open Composition Mini-Flowchart for active composition
+
+SHIFT+ESC
+Activate the most recently active composition that is in the same composition hierarchy (network of nested compositions) as the currently active composition
+
+CTRL+SHIFT+X
+Trim Composition to work area
+
+ALT+\
+New Composition from selection
+
+ALT+SHIFT+J
+Go to specific time
+
+SHIFT+HOME OR SHIFT+END
+Go to beginning or end of work area
+
+J OR K
+Go to previous or next visible item in time ruler
+
+HOME OR CTRL+ALT+LEFT
+Go to beginning of composition, layer, or footage item
+
+END OR CTRL+ALT+RIGHT
+Go to end of composition, layer, or footage item
+
+PAGEDOWN OR CTRL+RIGHT
+Go forward 1 frame
+
+SHIFT+PAGEDOWN OR CTRL+SHIFT+RIGHT
+Go forward 10 frames
+
+PAGEUP OR CTRL+LEFT
+Go backward 1 frame
+
+SHIFT+PAGEUP OR CTRL+SHIFT+LEFT
+Go backward 10 frames
+
+I
+Go to layer In point
+
+O
+Go to layer Out point
+
+CTRL+ALT+SHIFT+LEFT
+Go to previous In point or Out point
+
+CTRL+ALT+SHIFT+RIGHT
+Go to next In point or Out point
+
+D
+Scroll to current time in Timeline panel
+
+SPACE
+Start or stop preview
+
+NUM.
+Preview only audio, from current time
+
+ALT+NUM.
+Preview only audio, in work area
+
+ALT+NUM0
+Preview number of frames specified by Alternate Preview preference (defaults to 5)
+
+NUM/
+Toggle Mercury Transmit video preview
+
+SHIFT+F5 OR SHIFT+F6 OR SHIFT+F7 OR SHIFT+F8
+Take snapshot
+
+F5 OR F6 OR F7 OR F8
+Display snapshot in active viewer
+
+CTRL+SHIFT+F5 OR CTRL+SHIFT+F6 OR CTRL+SHIFT+F7 OR CTRL+SHIFT+F8
+Purge snapshot
+
+CTRL+ALT+1
+Fast Previews > Off
+
+CTRL+ALT+2
+Fast Previews > Adaptive Resolution
+
+CTRL+ALT+3
+Fast Previews > Draft
+
+CTRL+ALT+4
+Fast Previews > Fast Draft
+
+CTRL+ALT+5
+Fast Previews > Wireframe
+
+SHIFT+NUM/
+Turn display color management on or off for active view
+
+ALT+1 OR ALT+2 OR ALT+3 OR ALT+4
+Show red, green, blue, or alpha channel as grayscale
+
+ALT+SHIFT+1 OR ALT+SHIFT+2 OR ALT+SHIFT+3
+Show colorized red, green, or blue channel
+
+ALT+SHIFT+4
+Toggle showing straight RGB color
+
+ALT+5
+Show alpha boundary (outline between transparent and opaque regions) in Layer panel
+
+ALT+6
+Show alpha overlay (colored overlay on transparent regions) in Layer panel
+
+ALT+X
+Show Refine Edge X-ray
+
+.
+Zoom-in in Composition, Layer, or Footage panel
+
+,
+Zoom-out in Composition, Layer, or Footage panel
+
+/
+Zoom to 100% in Composition, Layer, or Footage panel
+
+SHIFT+/
+Zoom to fit in Composition, Layer, or Footage panel
+
+ALT+/
+Zoom up to 100% to fit in Composition, Layer, or Footage panel
+
+CTRL+J OR CTRL+SHIFT+J OR CTRL+ALT+J
+Set resolution to Full, Half, or Custom in Composition panel
+
+CTRL+ALT+U
+Open View Options dialog box for active Composition panel
+
+=
+Zoom in time
+
+-
+Zoom out time
+
+;
+Zoom in Timeline panel to single-frame units (Press again to zoom out to show entire composition duration.)
+
+SHIFT+;
+Zoom out in Timeline panel to show the entire composition duration (Press again to zoom back in to the duration specified by the Time Navigator.)
+
+CAPSLOCK
+Prevent images from being rendered for previews in viewer panels
+
+'
+Show or hide safe zones
+
+CTRL+'
+Show or hide grid
+
+ALT+'
+Show or hide proportional grid
+
+CTRL+R
+Show or hide rulers
+
+CTRL+;
+Show or hide guides
+
+CTRL+SHIFT+'
+Turn snapping to grid on or off
+
+CTRL+SHIFT+;
+Turn snapping to guides on or off
+
+CTRL+ALT+SHIFT+;
+Lock or unlock guides
+
+CTRL+SHIFT+H
+Show or hide layer controls (masks, motion paths, light and camera wireframes, effect control points, and layer handles)
+
+CTRL+I
+Import one file or image sequence
+
+CTRL+ALT+I
+Import multiple files or image sequences
+
+CTRL+/
+Add selected items to most recently activated composition
+
+CTRL+ALT+/
+Replace selected source footage for selected layers with footage item selected in Project panel
+
+CTRL+BACKSPACE
+Delete a footage item without a warning
+
+CTRL+ALT+G
+Open Interpret Footage dialog box for selected footage item
+
+CTRL+ALT+C
+Remember footage interpretation
+
+CTRL+E
+Edit selected footage item in application with which it’s associated (Edit Original)
+
+CTRL+H
+Replace selected footage item
+
+CTRL+ALT+L
+Reload selected footage items
+
+CTRL+ALT+P
+Set proxy for selected footage item
+
+CTRL+SHIFT+E
+Delete all effects from selected layers
+
+CTRL+ALT+SHIFT+E
+Apply most recently applied effect to selected layers
+
+CTRL+ALT+SHIFT+F
+Apply most recently applied animation preset to selected layers
+
+CTRL+Y
+New solid layer
+
+CTRL+ALT+SHIFT+Y
+New null layer
+
+CTRL+ALT+Y
+New adjustment layer
+
+NUM0-9
+Select layer (1-999) by its number (enter digits rapidly for two-digit and three-digit numbers)
+
+SHIFT+NUM0-9
+Toggle selection of layer (1-999) by its number (enter digits rapidly for two-digit and three-digit numbers)
+
+CTRL+DOWN
+Select next layer in stacking order
+
+CTRL+UP
+Select previous layer in stacking order
+
+CTRL+SHIFT+DOWN
+Extend selection to next layer in stacking order
+
+CTRL+SHIFT+UP
+Extend selection to previous layer in stacking order
+
+CTRL+SHIFT+A
+Deselect all layers
+
+X
+Scroll topmost selected layer to top of Timeline panel
+
+SHIFT+F4
+Show or hide Parent column
+
+F4
+Show or hide Layer Switches and Modes columns
+
+ALT+B
+Setting the sampling method for selected layers (Best/Bilinear)
+
+ALT+SHIFT+B
+Setting the sampling method for selected layers (Best/Bicubic)
+
+CTRL+ALT+SHIFT+V
+Turn Video (eyeball) switch on or off for selected layers
+
+CTRL+SHIFT+V
+Turn off Video switch for all video layers other than selected layers
+
+CTRL+SHIFT+Y
+Open settings dialog box for selected solid, light, camera, null, or adjustment layer
+
+CTRL+ALT+V
+Paste layers at current time
+
+CTRL+SHIFT+D
+Split selected layers. (If no layers are selected, split all layers.)
+
+CTRL+SHIFT+C
+Precompose selected layers
+
+CTRL+SHIFT+T
+Open Effect Controls panel for selected layers
+
+CTRL+ALT+R
+Reverse selected layers in time
+
+CTRL+ALT+T
+Enable time remapping for selected layers
+
+[ OR]
+Move selected layers so that their In point or Out point is at the current time
+
+ALT+[ OR ALT+]
+Trim In point or Out point of selected layers to current time
+
+CTRL+SHIFT+, OR CTRL+ALT+,
+Set In point or Out point by time-stretching
+
+ALT+HOME
+Move selected layers so that their In point is at beginning of composition
+
+ALT+END
+Move selected layers so that their Out point is at end of composition
+
+CTRL+L
+Lock selected layers
+
+CTRL+SHIFT+L
+Unlock all layers
+
+CTRL+U OR CTRL+SHIFT+U OR CTRL+ALT+SHIFT+U
+Set Quality to Best, Draft, or Wireframe for selected layers
+
+SHIFT+- OR SHIFT+=
+Cycle forward or backward through blending modes for selected layers
+
+CTRL+F
+Find in Timeline panel
+
+CTRL+F
+Find in Timeline panel
+
+CTRL+`
+Toggle expansion of selected layers to show all properties
+
+A
+Show only Anchor Point property (for lights and cameras, Point Of Interest)
+
+L
+Show only Audio Levels property
+
+F
+Show only Mask Feather property
+
+M
+Show only Mask Path property
+
+T  T
+Show only Mask Opacity property
+
+T
+Show only Opacity property (for lights, Intensity)
+
+P
+Show only Position property
+
+R
+Show only Rotation and Orientation properties
+
+S
+Show only Scale property
+
+R  R
+Show only Time Remap property
+
+F  F
+Show only instances of missing effects
+
+E
+Show only Effects property group
+
+M  M
+Show only mask property groups
+
+A  A
+Show only Material Options property group
+
+E  E
+Show only expressions
+
+U
+Show properties with keyframes
+
+U  U
+Show only modified properties
+
+P  P
+Show only paint strokes, Roto Brush strokes, and Puppet pins
+
+L  L
+Show only audio waveform
+
+S  S
+Show only selected properties and groups
+
+CTRL+`
+Toggle expansion of selected effects to show all properties
+
+CTRL+ALT+O
+Open Auto-Orientation dialog box for selected layers
+
+CTRL+SHIFT+O
+Open Opacity dialog box for selected layers
+
+CTRL+SHIFT+R
+Open Rotation dialog box for selected layers
+
+CTRL+SHIFT+P
+Open Position dialog box for selected layers
+
+CTRL+HOME
+Center-selected layers in view (modifies Position property to place anchor points of selected layers in center of current view)
+
+CTRL+ALT+HOME
+Center anchor point in the visible content
+
+UP OR RIGHT OR DOWN OR LEFT
+Move selected layers 1 pixel at current magnification (Position)
+
+SHIFT+UP OR SHIFT+DOWN OR SHIFT+RIGHT OR SHIFT+LEFT
+Move selected layers 10 pixels at current magnification (Position)
+
+ALT+PAGEUP OR ALT+PAGEDOWN
+Move selected layers 1 frame earlier or later
+
+ALT+SHIFT+PAGEUP OR ALT+SHIFT+PAGEDOWN
+Move selected layers 10 frames earlier or later
+
+NUMPLUS OR NUM-
+Increase or decrease Rotation (Z Rotation) of selected layers by 1°
+
+SHIFT+NUMPLUS OR SHIFT+NUM-
+Increase or decrease Rotation (Z Rotation) of selected layers by 10°
+
+CTRL+ALT+NUMPLUS OR CTRL+ALT+NUM-
+Increase or decrease Opacity (or Intensity for light layers) of selected layers by 1%
+
+CTRL+ALT+SHIFT+NUMPLUS OR CTRL+ALT+SHIFT+NUM-
+Increase or decrease Opacity (or Intensity for light layers) of selected layers by 10%
+
+CTRL+PLUS
+Increase Scale of selected layers by 1%
+
+CTRL+-
+Decrease Scale of selected layers by 1%
+
+CTRL+SHIFT+PLUS
+Increase Scale of selected layers by 10%
+
+CTRL+SHIFT+-
+Decrease Scale of selected layers by 10%
+
+CTRL+ALT+F
+Scale and reposition selected layers to fit composition
+
+CTRL+ALT+SHIFT+H
+Scale and reposition selected layers to fit composition width, preserving image aspect ratio for each layer
+
+CTRL+ALT+SHIFT+G
+Scale and reposition selected layers to fit composition height, preserving image aspect ratio for each layer
+
+F10
+Switch to 3D view 1 (defaults to Front)
+
+F11
+Switch to 3D view 2 (defaults to Custom View 1)
+
+F12
+Switch to 3D view 3 (defaults to Active Camera)
+
+ESC
+Return to previous view
+
+CTRL+ALT+SHIFT+L
+New light
+
+CTRL+ALT+SHIFT+C
+New camera
+
+CTRL+ALT+SHIFT+\
+Move the camera and its point of interest to look at selected 3D layers
+
+F
+With a camera tool selected, move the camera and its point of interest to look at selected 3D layers
+
+CTRL+SHIFT+F
+With a camera tool selected, move the camera and its point of interest to look at all 3D layers
+
+ALT+SHIFT+C
+Turn Casts Shadows property on or off for selected 3D layers
+
+SHIFT+F3
+Toggle between Graph Editor and layer bar modes
+
+CTRL+ALT+A
+Select all visible keyframes and properties
+
+SHIFT+F2 OR CTRL+ALT+SHIFT+A
+Deselect all keyframes, properties, and property groups
+
+ALT+RIGHT OR ALT+LEFT
+Move keyframe 1 frame later or earlier
+
+ALT+SHIFT+RIGHT OR ALT+SHIFT+LEFT
+Move keyframe 10 frames later or earlier
+
+CTRL+ALT+K
+Set interpolation for selected keyframes (layer bar mode)
+
+CTRL+ALT+H
+Set keyframe interpolation method to hold or Auto Bezier
+
+F9
+Easy ease selected keyframes
+
+SHIFT+F9
+Easy ease selected keyframes in
+
+CTRL+SHIFT+F9
+Easy ease selected keyframes out
+
+CTRL+SHIFT+K
+Set velocity for selected keyframes
+
+CTRL+ALT+SHIFT+T
+New text layer
+
+CTRL+SHIFT+L OR CTRL+SHIFT+C OR OR  CTRL+SHIFT+R
+Align selected horizontal text left, center, or right
+
+CTRL+SHIFT+L OR CTRL+SHIFT+C OR OR  CTRL+SHIFT+R
+Align selected vertical text top, center, or bottom
+
+SHIFT+RIGHT OR SHIFT+LEFT
+Extend or reduce selection by one character to right or left in horizontal text
+
+CTRL+SHIFT+RIGHT OR CTRL+SHIFT+LEFT
+Extend or reduce selection by one word to right or left in horizontal text
+
+SHIFT+UP OR SHIFT+DOWN
+Extend or reduce selection by one line up or down in horizontal text
+
+SHIFT+RIGHT OR SHIFT+LEFT
+Extend or reduce selection by one line to right or left in vertical text
+
+CTRL+SHIFT+UP OR CTRL+SHIFT+DOWN
+Extend or reduce selection one word up or down in vertical text
+
+SHIFT+UP OR SHIFT+DOWN
+Extend or reduce selection by one character up or down in vertical text
+
+SHIFT+HOME OR SHIFT+END
+Select text from insertion point to beginning or end of line
+
+HOME OR END
+Move insertion point to beginning or end of line
+
+CTRL+SHIFT+HOME OR CTRL+SHIFT+END
+Select text from insertion point to beginning or end of text frame
+
+LEFT OR RIGHT
+In horizontal text, move insertion point one character left or right
+
+UP OR DOWN
+In horizontal text move insertion point one line up or down
+
+CTRL+LEFT OR CTRL+RIGHT
+In horizontal text move insertion point one word left or right
+
+CTRL+UP OR CTRL+DOWN
+In horizontal text move insertion point one paragraph up or down
+
+UP OR DOWN
+In vertical text move insertion point one character up or down
+
+LEFT OR RIGHT
+In vertical text, move insertion point one character left or right
+
+CTRL+UP OR CTRL+DOWN
+In vertical text, move insertion point one word up or down
+
+CTRL+LEFT OR CTRL+RIGHT
+In vertical text, move insertion point one paragraph left or right
+
+CTRL+SHIFT+K
+Turn All Caps on or off for selected text
+
+CTRL+ALT+SHIFT+K
+Turn Small Caps on or off for selected text
+
+CTRL+SHIFT+=
+Turn Superscript on or off for selected text
+
+CTRL+ALT+SHIFT+=
+Turn Subscript on or off for selected text
+
+CTRL+SHIFT+X
+Set horizontal scale to 100% for selected text
+
+CTRL+ALT+SHIFT+X
+Set vertical scale to 100% for selected text
+
+CTRL+ALT+SHIFT+A
+Auto leading for selected text
+
+CTRL+SHIFT+Q
+Reset tracking to 0 for selected text
+
+CTRL+SHIFT+J
+Justify paragraph; left align last line
+
+CTRL+ALT+SHIFT+J
+Justify paragraph; right align last line
+
+CTRL+SHIFT+F
+Justify paragraph; force last line
+
+CTRL+SHIFT+, OR CTRL+SHIFT+.
+Decrease or increase font size of selected text by 2 units
+
+CTRL+ALT+SHIFT+, OR CTRL+ALT+SHIFT+.
+Decrease or increase font size of selected text by 10 units
+
+ALT+DOWN OR ALT+UP
+Increase or decrease leading by 2 units
+
+CTRL+ALT+DOWN OR CTRL+ALT+UP
+Increase or decrease leading by 10 units
+
+ALT+SHIFT+DOWN OR ALT+SHIFT+UP
+Decrease or increase baseline shift by 2 units
+
+CTRL+ALT+SHIFT+DOWN OR CTRL+ALT+SHIFT+UP
+Decrease or increase baseline shift by 10 units
+
+ALT+LEFT OR ALT+RIGHT
+Decrease or increase kerning or tracking 20 units (20/1000 ems)
+
+CTRL+ALT+LEFT OR CTRL+ALT+RIGHT
+Decrease or increase kerning or tracking 100 units (100/1000 ems)
+
+CTRL+ALT+SHIFT+T
+Toggle paragraph composer
+
+CTRL+SHIFT+N
+New mask
+
+ALT+` OR ALT+SHIFT+`
+Select next or previous mask
+
+ESC
+Exit free-transform mask editing mode
+
+UP OR RIGHT OR DOWN OR LEFT
+Move selected path points 1 pixel at current magnification
+
+SHIFT+LEFT OR SHIFT+RIGHT OR SHIFT+UP OR SHIFT+DOWN
+Move selected path points 10 pixels at current magnification
+
+CTRL+SHIFT+I
+Invert selected mask
+
+CTRL+SHIFT+F
+Open Mask Feather dialog box for selected mask
+
+CTRL+SHIFT+M
+Open Mask Shape dialog box for selected mask
+
+S
+Subtract mode
+
+D
+Darken mode
+
+F
+Difference mode
+
+A
+Add mode
+
+I
+Intersect mode
+
+N
+None
+
+X
+Swap paint background color and foreground colors
+
+D
+Set paint foreground color to black and background color to white
+
+CTRL+SHIFT
+Momentarily activate Eraser tool with Last Stroke Only option
+
+3 OR 4 OR 5 OR 6 OR 7
+Activate a specific Clone Stamp tool preset
+
+NUM0-9
+Set opacity for a paint tool
+
+NUM.
+Set opacity for a paint tool to 100%
+
+SHIFT+NUM0-9
+Set flow for a paint tool
+
+SHIFT+NUM.
+Set flow for a paint tool to 100%
+
+CTRL+PAGEUP OR CTRL+PAGEDOWN OR 1 OR 2
+Move earlier or later by number of frames specified for stroke Duration
+
+CTRL+G
+Group selected shapes
+
+CTRL+SHIFT+G
+Ungroup selected shapes
+
+NUM*
+Set marker at current time (works during preview and audio-only preview)
+
+ALT+NUM*
+Set marker at current time and open marker dialog box
+
+SHIFT+3
+Set and number composition marker 3 at the current time
+
+0
+Go to composition marker 0
+
+UP OR DOWN OR LEFT OR RIGHT
+Move feature region, search region, and attach point 1 pixel at current magnification
+
+SHIFT+UP
+Move feature region, search region, and attach point 10 pixels up at current magnification
+
+ALT+RIGHT
+Move feature region and search region 1 pixel right at current magnification
+
+ALT+SHIFT+LEFT
+Move feature region and search region 10 pixels left at current magnification
+
+CTRL+S
+Save project
+
+CTRL+ALT+SHIFT+S
+Increment and save project
+
+CTRL+SHIFT+S
+Save As
+
+CTRL+SHIFT+/
+Add active composition or selected items to render queue
+
+CTRL+ALT+S
+Add current frame to render queue
+
+CTRL+SHIFT+D
+Duplicate render item with same output filename as original
+
+CTRL+ALT+M
+Add a composition to the Adobe Media Encoder encoding queue

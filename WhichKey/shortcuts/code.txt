@@ -1,0 +1,449 @@
+﻿CTRL+X
+Cut line (empty selection)
+
+CTRL+C
+Copy line (empty selection)
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+K
+Delete Line
+
+CTRL+ENTER
+Insert Line Below
+
+CTRL+SHIFT+ENTER
+Insert Line Above
+
+ALT+DOWN
+Move Line Down
+
+ALT+UP
+Move Line Up
+
+ALT+SHIFT+DOWN
+Copy Line Down
+
+ALT+SHIFT+UP
+Copy Line Up
+
+CTRL+Z
+Undo
+
+CTRL+Y
+Redo
+
+CTRL+SHIFT+\
+Jump to matching bracket
+
+CTRL+]
+Indent Line
+
+CTRL+[
+Outdent Line
+
+HOME
+Go to Beginning of Line
+
+END
+Go to End of Line
+
+CTRL+END
+Go to End of File
+
+CTRL+HOME
+Go to Beginning of File
+
+CTRL+DOWN
+Scroll Line Down
+
+CTRL+UP
+Scroll Line Up
+
+ALT+PAGEDOWN
+Scroll Page Down
+
+ALT+PAGEUP
+Scroll Page Up
+
+CTRL+SHIFT+[
+Fold (collapse) region
+
+CTRL+SHIFT+]
+Unfold (uncollapse) region
+
+CTRL+K  CTRL+[
+Fold (collapse) all subregions
+
+CTRL+K  CTRL+]
+Unfold (uncollapse) all subregions
+
+CTRL+K  CTRL+0
+Fold (collapse) all regions
+
+CTRL+K  CTRL+J
+Unfold (uncollapse) all regions
+
+CTRL+K  CTRL+C
+Add Line Comment
+
+CTRL+K  CTRL+U
+Remove Line Comment
+
+CTRL+/
+Toggle Line Comment
+
+ALT+SHIFT+A
+Toggle Block Comment
+
+ALT+Z
+Toggle Word Wrap
+
+CTRL+SPACE
+Trigger Suggest
+
+CTRL+SHIFT+SPACE
+Trigger Parameter Hints
+
+ALT+SHIFT+F
+Format Document
+
+CTRL+K  CTRL+F
+Format Selection
+
+F12
+Go to Definition
+
+CTRL+K  CTRL+I
+Show Hover
+
+ALT+F12
+Peek Definition
+
+CTRL+K  F12
+Open Definition to the Side
+
+CTRL+.
+Quick Fix
+
+SHIFT+F12
+Go to References
+
+F2
+Rename Symbol
+
+CTRL+SHIFT+.
+Replace with Next Value
+
+CTRL+SHIFT+,
+Replace with Previous Value
+
+ALT+SHIFT+RIGHT
+Expand AST Selection
+
+ALT+SHIFT+LEFT
+Shrink AST Selection
+
+CTRL+K  CTRL+X
+Trim Trailing Whitespace
+
+CTRL+K  M
+Change Language Mode
+
+CTRL+T
+Show All Symbols
+
+CTRL+G
+Go to Line...
+
+CTRL+P
+Go to File..., Quick Open
+
+CTRL+SHIFT+O
+Go to Symbol...
+
+CTRL+SHIFT+M
+Show Problems
+
+F8
+Go to Next Error or Warning
+
+SHIFT+F8
+Go to Previous Error or Warning
+
+CTRL+SHIFT+P ORF1
+Show All Commands
+
+CTRL+TAB
+Navigate Editor Group History
+
+ALT+LEFT
+Go Back
+
+ALT+LEFT
+Go back in Quick Input
+
+ALT+RIGHT
+Go Forward
+
+CTRL+M
+Toggle Use of Tab Key for Setting Focus
+
+CTRL+SHIFT+N
+New Window
+
+CTRL+W
+Close Window
+
+CTRL+F4
+Close Editor
+
+CTRL+K  F
+Close Folder
+
+CTRL+\
+Split Editor
+
+CTRL+1
+Focus into First Editor Group
+
+CTRL+2
+Focus into Second Editor Group
+
+CTRL+3
+Focus into Third Editor Group
+
+CTRL+SHIFT+PAGEUP
+Move Editor Left
+
+CTRL+SHIFT+PAGEDOWN
+Move Editor Right
+
+CTRL+K  LEFT
+Move Active Editor Group Left
+
+CTRL+K  RIGHT
+Move Active Editor Group Right
+
+CTRL+ALT+RIGHT
+Move Editor into Next Group
+
+CTRL+ALT+LEFT
+Move Editor into Previous Group
+
+CTRL+N
+New File
+
+CTRL+O
+Open File...
+
+CTRL+S
+Save
+
+CTRL+K  S
+Save All
+
+CTRL+SHIFT+S
+Save As...
+
+CTRL+F4
+Close
+
+CTRL+K  W
+Close Group
+
+CTRL+K  CTRL+W
+Close All
+
+CTRL+SHIFT+T
+Reopen Closed Editor
+
+CTRL+K  ENTER
+Keep Open
+
+CTRL+K  P
+Copy Path of Active File
+
+CTRL+K  R
+Reveal Active File in Windows
+
+CTRL+K  O
+Show Opened File in New Window
+
+F11
+Toggle Full Screen
+
+CTRL+K  Z
+Toggle Zen Mode
+
+ESC  ESC
+Leave Zen Mode
+
+CTRL+=
+Zoom in
+
+CTRL+-
+Zoom out
+
+CTRL+NUMPAD0
+Reset Zoom
+
+CTRL+B
+Toggle Sidebar Visibility
+
+CTRL+SHIFT+E
+Show Explorer / Toggle Focus
+
+CTRL+SHIFT+F
+Show Search
+
+CTRL+SHIFT+G
+Show Source Control
+
+CTRL+SHIFT+D
+Show Run
+
+CTRL+SHIFT+X
+Show Extensions
+
+CTRL+SHIFT+U
+Show Output
+
+CTRL+Q
+Quick Open View
+
+CTRL+SHIFT+C
+Open New Command Prompt
+
+CTRL+SHIFT+V
+Toggle Markdown Preview
+
+CTRL+K  V
+Open Preview to the Side
+
+CTRL+`
+Toggle Integrated Terminal
+
+CTRL+F
+Find
+
+CTRL+H
+Replace
+
+ENTER
+Find Next
+
+SHIFT+ENTER
+Find Previous
+
+ALT+ENTER
+Select All Occurrences of Find Match
+
+CTRL+D
+Add Selection To Next Find Match
+
+CTRL+K  CTRL+D
+Move Last Selection To Next Find Match
+
+ALT+C
+Toggle Find Case Sensitive
+
+ALT+R
+Toggle Find Regex
+
+ALT+W
+Toggle Find Whole Word
+
+CTRL+SHIFT+F
+Show Search
+
+CTRL+SHIFT+H
+Replace in Files
+
+CTRL+SHIFT+J
+Toggle Search Details
+
+F4
+Focus Next Search Result
+
+SHIFT+F4
+Focus Previous Search Result
+
+DOWN
+Show Next Search Term
+
+UP
+Show Previous Search Term
+
+ALT+ENTER
+Open Results In Editor
+
+ESC
+Focus Search Editor Input
+
+CTRL+SHIFT+R
+Search Again
+
+CTRL+SHIFT+BACKSPACE
+Delete File Results
+
+CTRL+,
+Open Settings
+
+CTRL+K  CTRL+S
+Open Keyboard Shortcuts
+
+CTRL+K  CTRL+T
+Select Color Theme
+
+F9
+Toggle Breakpoint
+
+F5
+Start
+
+F5
+Continue
+
+CTRL+F5
+Start (without debugging)
+
+F6
+Pause
+
+F11
+Step Into
+
+SHIFT+F11
+Step Out
+
+F10
+Step Over
+
+SHIFT+F5
+Stop
+
+CTRL+K  CTRL+I
+Show Hover
+
+CTRL+ALT+DOWN
+Insert Cursor Below
+
+CTRL+ALT+UP
+Insert Cursor Above
+
+CTRL+U
+Undo last cursor operation
+
+ALT+SHIFT+I
+Insert cursor at end of each line selected
+
+CTRL+SHIFT+L
+Select all occurrences of current selection
+
+CTRL+F2
+Select all occurrences of current word
+
+CTRL+L
+Select current line

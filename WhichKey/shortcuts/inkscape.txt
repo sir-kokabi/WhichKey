@@ -1,0 +1,422 @@
+F1 OR S
+Selector
+
+SPACE
+Selector (temporary)
+
+F2 OR N
+Node tool
+
+F3 OR Z
+Zoom tool
+
+M
+Measure tool
+
+F4 OR R
+Ractangle tool
+
+SHIFT+F4 OR X
+3D box tool
+
+F5 OR E
+Ellipse/arc tool
+
+SHIFT+F9 OR*
+Star tool
+
+F9 OR I
+Spiral tool
+
+F6 OR P
+Pencil (Freehand) tool
+
+SHIFT+F6 OR B
+Pen (Bezier) tool
+
+CTRL+F6 OR C
+Calligraphic tool
+
+F8 OR T
+Text tool
+
+SHIFT+F3 OR A
+Spray tool
+
+SHIFT+E
+Eraser tool
+
+SHIFT+F7 OR U
+Paint bucket tool
+
+CTRL+F1 OR G
+Gradient tool
+
+F7 OR D
+Dropper tool
+
+CTRL+F2 OR O
+Connector tool
+
+CTRL+SHIFT+F
+Fill and Stroke
+
+CTRL+SHIFT+W
+Swatches
+
+CTRL+SHIFT+T
+Text and font
+
+CTRL+SHIFT+M
+Transform
+
+CTRL+SHIFT+L
+Layers
+
+CTRL+SHIFT+A
+Align and Distribute
+
+CTRL+SHIFT+O
+Object Properties
+
+CTRL+SHIFT+H
+Undo history
+
+CTRL+SHIFT+X
+XML editor
+
+CTRL+SHIFT+D
+Document preferences
+
+CTRL+SHIFT+P
+Inkscape preferences
+
+CTRL+SHIFT+E
+Export to PNG
+
+CTRL+F
+Find
+
+ALT+SHIFT+B
+Trace bitmap
+
+CTRL+SHIFT+7
+Path Effects
+
+CTRL+ALT+K
+Check Spelling
+
+F12
+Toggle dialogs
+
+ESC
+Return to the canvas
+
+CTRL+F4 OR CTRL+W
+Close the dialog
+
+TAB
+Jump to the next widget
+
+SHIFT+TAB
+Jump to previous widget
+
+ENTER
+Set the new value
+
+SPACE OR ENTER
+Activate current button or list
+
+CTRL+PAGEUP OR CTRL+PAGEDOWN
+In a multi-tab dialog, switch tabs
+
+CTRL+F
+Open a search field in a dialog with a list
+
+*
+expand all children and subchildren of the currently selected element
+
+PLUS
+expand direct children of the currently selected element
+
+-
+collapse the currently selected element
+
+HOME OR END
+select the topmost/lowermost visible element in the list
+
+UP OR DOWN
+select the previous/next visible element in the list
+
+PAGEUP OR PAGEDOWN
+select element on previous/next page of list
+
+CTRL+ENTER
+set the attribute's value
+
+ALT+X
+Jump to the first editable filed
+
+TAB
+Jump to next field
+
+SHIFT+TAB
+Jump to previous field
+
+UP OR DOWN
+Change value by 0.1
+
+PAGEUP OR PAGEDOWN
+Change value by 5.0
+
+ENTER
+Accept the new value
+
+ESC
+Cancel changes, return to canvas
+
+CTRL+Z
+Cancel changes
+
+PLUS
+Zoom in
+
+-
+Zoom out
+
+ALT+Z
+Activate zoon field
+
+1
+Zoom 1:1
+
+2
+Zoom 1:2
+
+3
+Zoom to selection
+
+4
+Zoom to drawing
+
+5
+Zoom to page
+
+CTRL+E OR 6
+Zoom to page width
+
+`
+Previous zoom
+
+SHIFT+'
+Next zoom
+
+CTRL+UP OR CTRL+DOWN OR CTRL+RIGHT OR CTRL+LEFT
+Scroll canvas
+
+SHIFT+\
+Toggle guides and snapping to guides
+
+SHIFT+3
+Toggle grids and snapping to grids
+
+%
+Toggle snapping on and off
+
+CTRL+SHIFT+R
+resize page to current selection, or to the drawing if nothing is selected
+
+CTRL+N
+Create new document
+
+CTRL+O
+Open an SVG document
+
+CTRL+SHIFT+E
+Export to PNG
+
+CTRL+I
+Import bitmap or SVG
+
+CTRL+P
+Print document
+
+CTRL+S
+Save document
+
+CTRL+SHIFT+S
+Save under a new name
+
+CTRL+ALT+SHIFT+S
+Save a copy
+
+CTRL+Q
+Exit inkscape
+
+CTRL+R
+Toggle rulers
+
+CTRL+B
+Toggle scrollbars
+
+ALT+SHIFT+P
+toggle palette
+
+F11
+Toggle fullscreen
+
+SHIFT+F11
+Toggle toolbars
+
+CTRL+F11
+Toggle toolbars and fullscreen
+
+F10
+Main menu
+
+SHIFT+F10
+Drop-down menu
+
+CTRL+F4 OR CTRL+W
+Close document window
+
+CTRL+TAB
+Next document window
+
+CTRL+SHIFT+TAB
+Previous document window
+
+CTRL+SHIFT+N
+Create new layer
+
+SHIFT+PAGEUP
+Move to layer above
+
+SHIFT+PAGEDOWN
+Move to layer below
+
+CTRL+SHIFT+PAGEUP
+Raise layer
+
+CTRL+SHIFT+PAGEDOWN
+Lower layer
+
+CTRL+SHIFT+HOME
+Raise layer to top
+
+CTRL+SHIFT+END
+Lower layer to bottom
+
+CTRL+SHIFT+Y OR CTRL+Z
+Undo
+
+CTRL+SHIFT+Z OR CTRL+Y
+Redo
+
+CTRL+C
+Copy selection
+
+CTRL+X
+Cut selection
+
+CTRL+V
+Paste clipboard
+
+CTRL+ALT+V
+Paste in place
+
+CTRL+SHIFT+V
+Paste style
+
+CTRL+7
+Paste path effect
+
+CTRL+D
+Duplicate selection
+
+ALT+D
+Clone object
+
+ALT+SHIFT+D
+Unlink clone
+
+SHIFT+D
+Select original
+
+ALT+B
+Create a bitmap copy
+
+ALT+SHIFT+B
+Trace bitmap
+
+ALT+I
+Object to pattern
+
+ALT+SHIFT+I
+Pattern to objects
+
+CTRL+SHIFT+U OR CTRL+G
+Group selected objects
+
+CTRL+SHIFT+G OR CTRL+U
+Ungroup selected objects
+
+HOME
+Raise selection to top
+
+END
+Lower selection to bottom
+
+PAGEUP
+Raise selection one step
+
+PAGEDOWN
+Lower selection one step
+
+SHIFT+M OR SHIFT+0
+move mode
+
+SHIFT+I OR SHIFT+1
+move in/out mode
+
+SHIFT+Z OR SHIFT+2
+move jitter mode
+
+SHIFT+< OR SHIFT+> OR SHIFT+3
+scale mode
+
+SHIFT+[ OR SHIFT+] OR SHIFT+4
+rotate mode
+
+SHIFT+D OR SHIFT+5
+duplicate/delete mode
+
+SHIFT+P OR SHIFT+6
+push path mode
+
+SHIFT+S OR SHIFT+7
+shrink/grow path mode
+
+SHIFT+A OR SHIFT+8
+attract/repel path mode
+
+SHIFT+R OR SHIFT+9
+roughen mode
+
+SHIFT+C
+color paint mode
+
+SHIFT+J
+color jitter mode
+
+SHIFT+B
+blur mode
+
+LEFT OR RIGHT
+Adjust brush width by
+
+HOME OR END
+Set brush width to its minimum or maximum
+
+UP OR DOWN
+Adjust tweaking force

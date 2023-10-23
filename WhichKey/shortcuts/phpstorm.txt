@@ -1,0 +1,590 @@
+CTRL+/
+Comment with Line Comment
+
+CTRL+SHIFT+/
+Comment with Block Comment
+
+CTRL+Q
+Quick Documentation Look-up
+
+CTRL+Q
+Show Table Data
+
+CTRL+ALT+SHIFT+H
+Pop-up Hector
+
+CTRL+P
+Parameter Info
+
+ALT+Q
+Context Info
+
+CTRL+F1
+Error Description
+
+SHIFT+F1
+External Documentation
+
+CTRL+O
+Override Methods...
+
+CTRL+ALT+T
+Surround with...
+
+CTRL+SPACE
+Basic Code Completion
+
+CTRL+SHIFT+SPACE
+SmartType Code Completion
+
+ALT+/
+Expand Word
+
+CTRL+J
+Insert Live Template...
+
+CTRL+ALT+J
+Surround with Live Template...
+
+TAB
+Next Template Variable
+
+SHIFT+TAB
+Previous Template Variable
+
+ENTER
+Enter
+
+TAB
+Tab
+
+DEL
+Delete
+
+BACKSPACE
+Backspace
+
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+CTRL+X
+Cut
+
+CTRL+C
+Copy
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+V
+Paste from History
+
+UP
+Up
+
+SHIFT+UP
+Up with Selection
+
+DOWN
+Down
+
+SHIFT+DOWN
+Down with Selection
+
+LEFT
+Left
+
+SHIFT+LEFT
+Left with Selection
+
+RIGHT
+Right
+
+SHIFT+RIGHT
+Right with Selection
+
+CTRL+PAGEDOWN
+Go to Page Bottom
+
+CTRL+SHIFT+PAGEDOWN
+Go to Page Bottom with Selection
+
+CTRL+PAGEUP
+Go to Page Top
+
+CTRL+SHIFT+PAGEUP
+Go to Page Top with Selection
+
+PAGEDOWN
+Page Down
+
+SHIFT+PAGEDOWN
+Page Down with Selection
+
+PAGEUP
+Page Up
+
+SHIFT+PAGEUP
+Page Up with Selection
+
+CTRL+DOWN
+Scroll Down
+
+CTRL+M
+Scroll to Center
+
+CTRL+UP
+Scroll Up
+
+END
+Move to Line End
+
+SHIFT+END
+Move to Line End with Selection
+
+HOME
+Move to Line Start
+
+SHIFT+HOME
+Move to Line Start with Selection
+
+CTRL+RIGHT
+Move to Next Word
+
+CTRL+SHIFT+RIGHT
+Move to Next Word with Selection
+
+CTRL+LEFT
+Move to Previous Word
+
+CTRL+SHIFT+LEFT
+Move to Previous Word with Selection
+
+CTRL+END
+Move to Text End
+
+CTRL+SHIFT+END
+Move to Text End with Selection
+
+CTRL+HOME
+Move to Text Start
+
+CTRL+SHIFT+HOME
+Move to Text Start with Selection.
+
+CTRL+A
+Select All
+
+CTRL+Y
+Delete Line at Caret
+
+CTRL+DEL
+Delete to Word End
+
+CTRL+BACKSPACE
+Delete to Word Start
+
+INS
+Toggle Insert/Overwrite
+
+CTRL+D
+Duplicate Line or Block
+
+CTRL+SHIFT+U
+Toggle Case
+
+CTRL+]
+Move to Code Block End
+
+CTRL+SHIFT+]
+Move to Code Block End with Selection
+
+CTRL+[
+Move to Code Block Start
+
+CTRL+SHIFT+[
+Move to Code Block Start with Selection
+
+SHIFT+ENTER
+Start New Line
+
+CTRL+ALT+ENTER
+Start New Line Before Current One
+
+CTRL+SHIFT+J
+Join Lines
+
+CTRL+ENTER
+Split Line
+
+CTRL+W
+Select Word at Caret
+
+CTRL+SHIFT+W
+Unselect Word at Caret
+
+TAB
+Indent Selection
+
+SHIFT+TAB
+Unindent Selection
+
+CTRL+ALT+I
+Auto-Indent Lines
+
+CTRL+NUM-PLUS
+Expand
+
+CTRL+NUM-
+Collapse
+
+CTRL+ALT+NUM-PLUS
+Expand Recursively
+
+CTRL+ALT+NUM-
+Collapse Recursively
+
+CTRL+SHIFT+NUM-PLUS
+Expand All
+
+CTRL+SHIFT+NUM-
+Collapse All
+
+CTRL+NUM*  1
+Expand to level 1
+
+CTRL+SHIFT+NUM*  1
+Expand all to level 1
+
+CTRL+.
+Fold Selection / Remove region
+
+SHIFT+F10
+Run
+
+ALT+SHIFT+F10
+Choose configuration and run
+
+CTRL+F5
+Rerun
+
+SHIFT+F10
+Rerun without loosing focus in the editor
+
+SHIFT+F9
+Debug
+
+ALT+SHIFT+F9
+Choose configuration and debug
+
+F8
+Step Over
+
+F7
+Step Into
+
+SHIFT+F7
+Smart Step Into
+
+SHIFT+F8
+Step Out
+
+ALT+SHIFT+F8
+Force Step Over
+
+ALT+SHIFT+F7
+Force Step Into
+
+ALT+F9
+Run to Cursor
+
+CTRL+ALT+F9
+Force Run To Cursor
+
+F9
+Resume Program
+
+CTRL+PAUSE
+Pause Program
+
+SHIFT+F2
+Stop Program
+
+ALT+F8
+Evaluate Expression
+
+CTRL+ALT+F8
+Quick Evaluate Expression
+
+CTRL+F8
+Toggle breakpoint at the current line.
+
+CTRL+SHIFT+F8
+View Breakpoints
+
+CTRL+SHIFT+F4
+Close Active Tab
+
+CTRL+F4
+Close Editor
+
+F4
+Edit Source
+
+ESC
+Escape
+
+ALT+O
+Export to Text File
+
+ALT+INS
+New...
+
+CTRL+S
+Save All
+
+ALT+RIGHT
+Select Next Tab
+
+ALT+LEFT
+Select Previous Tab
+
+ALT+ENTER
+Show Intention Action
+
+CTRL+ALT+Y
+Reload All from Disk
+
+SHIFT  SHIFT
+Search everywhere
+
+CTRL+F
+Find
+
+CTRL+R
+Replace
+
+F3 OR SHIFT+F3
+Search for next/previous occurrence
+
+CTRL+F3
+Next Occurrence of the Word at Caret
+
+CTRL+F
+Incremental Search
+
+CTRL+SHIFT+F
+Find in Path
+
+CTRL+SHIFT+R
+Replace in Path
+
+ALT+F7
+Find Usages
+
+CTRL+F7
+Find Usages in File
+
+CTRL+SHIFT+F7
+Highlight Usages in File
+
+CTRL+ALT+F7
+Show Usages
+
+CTRL+SHIFT+A
+Find Action
+
+CTRL+NUMBER
+Go to Bookmark <number>
+
+F11
+Toggle Bookmark
+
+CTRL+F11
+Toggle Bookmark with Mnemonic
+
+SHIFT+F11
+Show Bookmarks
+
+ALT+1
+Show Project window
+
+ALT+2
+Show Favorites window
+
+ALT+3
+Show Find window
+
+ALT+4
+Show Run window
+
+ALT+5
+Show Debug window
+
+ALT+6
+Show Problems window
+
+ALT+7
+Show Structure window
+
+ALT+8
+Show Services window
+
+ALT+9
+Show Version Control window
+
+ALT+0
+Show Commit window
+
+ALT+F12
+Show Terminal window
+
+ALT+F1
+Select Target
+
+CTRL+NUM-
+Collapse all
+
+CTRL+NUM-PLUS
+Expand all
+
+CTRL+TAB
+Switcher
+
+SHIFT+ESC
+Hide Active Window
+
+F12
+Jump to Last Window
+
+CTRL+SHIFT+F12
+Hide all tool windows
+
+F7
+Move to Next Difference
+
+SHIFT+F7
+Move to Previous Difference
+
+SHOR TCUT
+Function
+
+CTRL+F12
+File Structure Popup
+
+ALT+F1
+Select target
+
+CTRL+E
+Recent Files
+
+N/A
+Recently Changed Files
+
+CTRL+H
+Type Hierarchy
+
+CTRL+N
+Navigate to Class
+
+CTRL+SHIFT+N
+Navigate to File
+
+CTRL+E
+Navigate to Recently Opened File
+
+N/A
+Navigate to Recently Changed File
+
+CTRL+G
+Navigate to Line
+
+CTRL+B
+Navigate to Declaration
+
+CTRL+ALT+B
+Navigate to Implementation
+
+CTRL+SHIFT+B
+Navigate to Type Declaration
+
+CTRL+U
+Navigate to Super Method
+
+CTRL+SHIFT+T
+Navigate to Test/Test Subject
+
+CTRL+ALT+HOME
+Navigate to Related Symbol
+
+F10
+Go to Header/Source
+
+ALT+DOWN
+Navigate to Next Method
+
+ALT+UP
+Navigate to Previous Method
+
+CTRL+[
+Navigate to Opening Brace
+
+CTRL+]
+Navigate to Closing Brace
+
+CTRL+ALT+LEFT
+Back
+
+CTRL+ALT+RIGHT
+Forward
+
+CTRL+ALT+UP
+Navigate to Previous Occurrence
+
+CTRL+ALT+DOWN
+Navigate to Next Occurrence
+
+CTRL+SHIFT+BACKSPACE
+Last Edit Location
+
+F2
+Navigate to Next Highlighted Error
+
+SHIFT+F2
+Navigate to Previous Highlighted Error
+
+SHIFT+F6
+Rename
+
+CTRL+F6
+Change Method Signature
+
+F6
+Move
+
+F5
+Copy
+
+ALT+DEL
+Safe Delete
+
+CTRL+ALT+M
+Extract Method
+
+CTRL+ALT+V
+Introduce Variable
+
+CTRL+ALT+F
+Introduce Field
+
+CTRL+ALT+C
+Introduce Constant
+
+CTRL+ALT+P
+Introduce Parameter
+
+CTRL+ALT+N
+Inline

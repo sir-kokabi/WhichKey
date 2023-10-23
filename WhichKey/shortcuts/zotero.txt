@@ -1,0 +1,137 @@
+CTRL+SHIFT+S
+Save to Zotero
+
+CTRL+SHIFT+N
+Create a New Item by Hand
+
+CTRL+SHIFT+O
+Create a New Note
+
+CTRL+SHIFT+I
+Import
+
+CTRL+ALT+SHIFT+I
+Import from Clipboard
+
+SHIFT+ENTER
+Add Another Author/Creator when Editing Creator
+
+SHIFT+ENTER
+Save Abstract or Extra field
+
+DEL
+Move to Trash
+
+SHIFT+DEL
+Move to Trash without Confirmation Dialog
+
+DEL
+Delete Collection (Keep Items in Library and Others Collections)
+
+SHIFT+DEL
+Delete Collection and Move Items to Trash
+
+CTRL+SHIFT+A
+Copy Selected Item Citations to Clipboard
+
+CTRL+SHIFT+C
+Copy Selected Items to Clipboard
+
+CTRL+SHIFT+L
+Focus Libraries (Left) Pane
+
+TAB/SHIFT+TAB
+Move through Panes and Fields
+
+RIGHT OR LEFT OR CTRL+TAB OR CTRL+SHIFT+TAB OR CTRL+PAGUP OR CTRL+PAGEDOWN
+Move through Info/Notes/Tags/Related Tabs
+
+CTRL+SHIFT+K
+Quick Search
+
+CTRL+F
+Quick Search
+
+CTRL+SHIFT+K
+Quick Search
+
+CTRL+F
+Quick Search
+
+HOLD  DOWN  CTRL  (WINDOWS) OR ALT  (LINUX)
+Find/Highlight Collection(s) an Item belongs to
+
+CTRL+SHIFT+T
+Toggle Tag Selector
+
+1 OR 2 OR 3 OR 4 OR 5 OR 6
+Assign Colored Tag to an Item
+
+CTRL+SHIFT+R
+Mark All Feed Items as Read/Unread
+
+CTRL+SHIFT+`
+Mark Feed as Read/Unread
+
+PLUS OR-
+Expand/Collapse Collections or Items List
+
+CTRL OR ALT
+Highlight All Collections an Item is in
+
+CTRL+A
+Count Items (Result Appears in Right-Hand Pane)
+
+F2
+Edit Collection Names (Left Pane)
+
+CTRL+B
+Bold
+
+CTRL+I
+Italic
+
+CTRL+U
+Underline
+
+CTRL+A
+Select All
+
+CTRL+Z
+Undo
+
+CTRL+Y OR CTRL+SHIFT+Z
+Redo
+
+CTRL+X
+Cut
+
+CTRL+C
+Copy
+
+CTRL+V
+Paste
+
+CTRL+SHIFT+V
+Paste without formatting
+
+ALT+SHIFT+1/6
+Format Heading 1 to 6
+
+ALT+SHIFT+7
+Format as Paragraph
+
+ALT+SHIFT+8
+Format as Div
+
+ALT+SHIFT+9
+Format as Address
+
+CTRL+F
+Find and Replace
+
+CTRL+K
+Insert Link
+
+ALT+F10
+Focus/jump to toolbar

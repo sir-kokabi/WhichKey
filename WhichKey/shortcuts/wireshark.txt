@@ -1,0 +1,257 @@
+CTRL+O
+Open a capture file
+
+CTRL+W
+Close this capture file
+
+CTRL+S
+Save this capture file
+
+CTRL+SHIFT+S
+Save as a different file
+
+CTRL+SHIFT+X
+Export Packet Bytes…
+
+CTRL+P
+Print…
+
+CTRL+Q
+Quit Wireshark
+
+CTRL+N
+Find the next packet
+
+CTRL+F
+Find a packet
+
+CTRL+B
+Find the previous packet
+
+CTRL+M
+Mark or unmark each selected packet
+
+CTRL+SHIFT+M
+Mark all displayed packets
+
+CTRL+ALT+M
+Unmark all displayed packets
+
+CTRL+SHIFT+N
+Go to the next marked packet
+
+CTRL+SHIFT+B
+Go to the previous marked packet
+
+CTRL+D
+Ignore or unignore each selected packet
+
+CTRL+SHIFT+D
+Ignore all displayed packets
+
+CTRL+ALT+D
+Unignore all displayed packets
+
+CTRL+T
+Set or unset a time reference for this packet
+
+CTRL+ALT+T
+Remove all time references
+
+CTRL+ALT+N
+Go to the next time reference
+
+CTRL+ALT+B
+Go to the previous time reference
+
+CTRL+SHIFT+T
+Shift+ or change packet timestamps
+
+CTRL+ALT+C
+Add or change a packet comment
+
+CTRL+SHIFT+A
+Manage your configuration profiles
+
+CTRL+SHIFT+P
+Manage Wireshark's preferences
+
+F11
+Full Screen
+
+SHIFT+LEFT
+Collapse the current packet detail
+
+SHIFT+RIGHT
+Expand the current packet detail
+
+CTRL+RIGHT
+Expand packet details
+
+CTRL+LEFT
+Collapse all packet details
+
+CTRL+SHIFT+W
+Reset appearance layout to default size
+
+CTRL+SHIFT+R
+Resize packet list columns to fit contents
+
+CTRL+SHIFT+F
+Reload as File Format/Capture
+
+CTRL+R
+Reload this file
+
+CTRL+G
+Go to specified packet
+
+CTRL+DOWN
+Go to the next packet
+
+CTRL+UP
+Go to the previous packet
+
+CTRL+HOME
+Go to the first packet
+
+CTRL+END
+Go to the last packet
+
+CTRL+.
+Go to the next packet in this conversation
+
+CTRL+,
+Go to the previous packet in this conversation
+
+ALT+RIGHT
+Go to the next packet in your selection history
+
+ALT+LEFT
+Go to the previous packet in your selection history
+
+CTRL+K
+Capture options
+
+CTRL+E
+Start capturing packets
+
+CTRL+E
+Stop capturing packets
+
+CTRL+R
+Restart current capture
+
+F5
+Refresh interfaces
+
+CTRL+SHIFT+I
+Create a packet list column from the selected field.
+
+CTRL+SHIFT+E
+Enable and disable specific protocols
+
+CTRL+SHIFT+U
+Change the way packets are dissected
+
+CTRL+SHIFT+L
+Reload Lua plugins
+
+CTRL+ALT+SHIFT+T
+TCP Stream
+
+CTRL+ALT+SHIFT+U
+UDP Stream
+
+CTRL+ALT+SHIFT+S
+TLS Stream
+
+CTRL+ALT+SHIFT+H
+HTTP Stream
+
+CTRL+SHIFT+O
+Show Packet Bytes…
+
+F1
+Help contents
+
+CTRL+ALT+SHIFT+D
+Copy this item's description
+
+CTRL+ALT+SHIFT+F
+Copy this item's field name
+
+CTRL+ALT+SHIFT+V
+Copy this item's value
+
+CTRL+ALT+SHIFT+A
+All Visible Items
+
+CTRL+SHIFT+C
+Copy this item as a display filter
+
+CTRL+ALT+SHIFT+C
+Capture file properties
+
+CTRL+SPACE
+Reset colorized conversations.
+
+CTRL+1
+Mark the current conversation with its own color.
+
+CTRL+2
+Mark the current conversation with its own color.
+
+CTRL+3
+Mark the current conversation with its own color.
+
+CTRL+4
+Mark the current conversation with its own color.
+
+CTRL+5
+Mark the current conversation with its own color.
+
+CTRL+6
+Mark the current conversation with its own color.
+
+CTRL+7
+Mark the current conversation with its own color.
+
+CTRL+8
+Mark the current conversation with its own color.
+
+CTRL+9
+Mark the current conversation with its own color.
+
+CTRL+ALT+1
+Show packet times as the date and time of day.
+
+CTRL+ALT+2
+Show packet times as the date and time of day.
+
+CTRL+ALT+3
+Show packet times as seconds since the UNIX epoch (1970-01-01).
+
+CTRL+ALT+4
+Show packet times as the date and time of day.
+
+CTRL+ALT+5
+Show packet times as seconds since previous captured packet.
+
+CTRL+ALT+6
+Show packet times as seconds since previous displayed packet.
+
+CTRL+ALT+7
+Show packet times as the UTC date and time of day.
+
+CTRL+ALT+8
+Show packet times as the UTC time of day.
+
+CTRL+PLUS
+Enlarge the main window text
+
+CTRL+-
+Shrink the main window text
+
+CTRL+0
+Return the main window text to its normal size

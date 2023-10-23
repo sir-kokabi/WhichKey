@@ -1,0 +1,590 @@
+CTRL+2
+Move cursor to Console
+
+CTRL+L
+Clear console
+
+HOME
+Move cursor to beginning of line
+
+END
+Move cursor to end of line
+
+UP OR DOWN
+Navigate command history
+
+CTRL+UP
+Popup command history
+
+ESC
+Interrupt currently executing command
+
+CTRL+SHIFT+H
+Change working directory
+
+CTRL+.
+Go to File/Function
+
+CTRL+1
+Move cursor to Source Editor
+
+CTRL+SHIFT+O
+Toggle document outline
+
+CTRL+SHIFT+N
+New document (except on Chrome/Windows)
+
+CTRL+ALT+SHIFT+N
+New document (Chrome only)
+
+CTRL+O
+Open document
+
+CTRL+S
+Save active document
+
+CTRL+ALT+S
+Save all documents
+
+CTRL+W
+Close active document (except on Chrome)
+
+CTRL+ALT+W
+Close active document (Chrome only)
+
+CTRL+SHIFT+W
+Close all open documents
+
+CTRL+ALT+SHIFT+W
+Close other documents
+
+CTRL+SHIFT+K
+Preview HTML (Markdown and HTML)
+
+CTRL+SHIFT+K
+Knit Document (knitr)
+
+CTRL+SHIFT+K
+Compile Notebook
+
+CTRL+SHIFT+K
+Compile PDF (TeX and Sweave)
+
+CTRL+ALT+I
+Insert chunk (Sweave and Knitr)
+
+CTRL+SHIFT+R
+Insert code section
+
+CTRL+ENTER
+Run current line/selection
+
+ALT+ENTER
+Run current line/selection (retain cursor)
+
+CTRL+ALT+P
+Re-run previous region
+
+CTRL+ALT+R
+Run current document
+
+CTRL+ALT+B
+Run from document beginning to current line
+
+CTRL+ALT+E
+Run from current line to document end
+
+CTRL+ALT+F
+Run the current function definition
+
+CTRL+ALT+T
+Run the current code section
+
+CTRL+ALT+SHIFT+P
+Run previous Sweave/Rmd code
+
+CTRL+ALT+C
+Run the current Sweave/Rmd chunk
+
+CTRL+ALT+N
+Run the next Sweave/Rmd chunk
+
+CTRL+ALT+G
+Source a file
+
+CTRL+SHIFT+S
+Source the current document
+
+CTRL+SHIFT+ENTER
+Source the current document (with echo)
+
+CTRL+ALT+ENTER
+Send current line/selection to terminal
+
+ALT+L
+Fold Selected
+
+ALT+SHIFT+L
+Unfold Selected
+
+ALT+O
+Fold All
+
+ALT+SHIFT+O
+Unfold All
+
+ALT+SHIFT+G
+Go to line
+
+ALT+SHIFT+J
+Jump to
+
+CTRL+SHIFT+UP
+Expand selection
+
+CTRL+SHIFT+DOWN
+Shrink selection
+
+CTRL+PAGEDOWN
+Next section
+
+CTRL+PAGEUP
+Previous section
+
+CTRL+ALT+A
+Split into lines
+
+CTRL+ALT+SHIFT+A
+Edit lines from start
+
+CTRL+SHIFT+.
+Switch to tab
+
+CTRL+F11
+Previous tab
+
+CTRL+SHIFT+TAB
+Previous tab (desktop)
+
+CTRL+F12
+Next tab
+
+CTRL+TAB
+Next tab (desktop)
+
+CTRL+SHIFT+F11
+First tab
+
+CTRL+SHIFT+F12
+Last tab
+
+CTRL+F9
+Navigate back
+
+CTRL+F10
+Navigate forward
+
+CTRL+ALT+X
+Extract function from selection
+
+CTRL+ALT+V
+Extract variable from selection
+
+CTRL+I
+Reindent lines
+
+CTRL+SHIFT+C
+Comment/uncomment current line/selection
+
+CTRL+SHIFT+/
+Reflow Comment
+
+CTRL+SHIFT+A
+Reformat Selection
+
+CTRL+ALT+SHIFT+D
+Show Diagnostics
+
+N/A
+Transpose Letters
+
+ALT+UP OR ALT+DOWN
+Move Lines Up/Down
+
+ALT+SHIFT+UP OR ALT+SHIFT+DOWN
+Copy Lines Up/Down
+
+CTRL+P
+Jump to Matching Brace/Paren
+
+CTRL+ALT+SHIFT+E
+Expand to Matching Brace/Paren
+
+CTRL+ALT+UP
+Add Cursor Above Current Cursor
+
+CTRL+ALT+DOWN
+Add Cursor Below Current Cursor
+
+CTRL+ALT+SHIFT+UP
+Move Active Cursor Up
+
+CTRL+ALT+SHIFT+DOWN
+Move Active Cursor Down
+
+CTRL+F
+Find and Replace
+
+F3 OR CTRL+G
+Find Next
+
+SHIFT+F3 OR CTRL+SHIFT+G
+Find Previous
+
+CTRL+F3
+Use Selection for Find
+
+CTRL+SHIFT+J
+Replace and Find
+
+CTRL+SHIFT+F
+Find in Files
+
+F7
+Check Spelling
+
+CTRL+ALT+SHIFT+M
+Rename Symbol in Scope
+
+CTRL+ALT+SHIFT+R
+Insert Roxygen Skeleton
+
+CTRL+Z
+Undo
+
+CTRL+SHIFT+Z
+Redo
+
+CTRL+X
+Cut
+
+CTRL+C
+Copy
+
+CTRL+V
+Paste
+
+CTRL+A
+Select All
+
+CTRL+LEFT OR CTRL+RIGHT
+Jump to Word
+
+CTRL+HOME OR CTRL+END OR CTRL+UP OR CTRL+DOWN
+Jump to Start/End
+
+CTRL+D
+Delete Line
+
+SHIFT+UP OR SHIFT+RIGHT OR SHIFT+DOWN OR SHIFT+LEFT
+Select
+
+CTRL+SHIFT+LEFT OR CTRL+SHIFT+RIGHT
+Select Word
+
+ALT+SHIFT+LEFT
+Select to Line Start
+
+ALT+SHIFT+RIGHT
+Select to Line End
+
+SHIFT+PAGEUP OR SHIFT+PAGEDOWN
+Select Page Up/Down
+
+CTRL+SHIFT+HOME OR CTRL+SHIFT+END OR ALT+SHIFT+UP OR ALT+SHIFT+UP
+Select to Start/End
+
+CTRL+BACKSPACE
+Delete Word Left
+
+N/A
+Delete Word Right
+
+N/A
+Delete to Line End
+
+N/A
+Delete to Line Start
+
+TAB
+Indent (at beginning of line)
+
+SHIFT+TAB
+Outdent
+
+CTRL+U
+Yank line up to cursor
+
+CTRL+K
+Yank line after cursor
+
+CTRL+Y
+Insert currently yanked text
+
+ALT+-
+Insert assignment operator
+
+CTRL+SHIFT+M
+Insert pipe operator
+
+F1
+Show help for function at cursor
+
+F2
+Show source code for function at cursor
+
+CTRL+ALT+U
+Find usages for symbol at cursor (C++)
+
+TAB OR CTRL+SPACE
+Attempt completion
+
+UP OR DOWN
+Navigate candidates
+
+ENTER OR TAB OR RIGHT
+Accept selected candidate
+
+ESC
+Dismiss completion popup
+
+CTRL+1
+Move focus to Source Editor
+
+CTRL+SHIFT+1
+Zoom Source Editor
+
+CTRL+2
+Move focus to Console
+
+CTRL+SHIFT+2
+Zoom Console
+
+CTRL+3
+Move focus to Help
+
+CTRL+SHIFT+3
+Zoom Help
+
+ALT+SHIFT+T
+Move focus to Terminal
+
+CTRL+4
+Show History
+
+CTRL+SHIFT+4
+Zoom History
+
+CTRL+5
+Show Files
+
+CTRL+SHIFT+5
+Zoom Files
+
+CTRL+6
+Show Plots
+
+CTRL+SHIFT+6
+Zoom Plots
+
+CTRL+7
+Show Packages
+
+CTRL+SHIFT+7
+Zoom Packages
+
+CTRL+8
+Show Environment
+
+CTRL+SHIFT+8
+Zoom Environment
+
+CTRL+9
+Show Viewer
+
+CTRL+SHIFT+9
+Zoom Viewer
+
+CTRL+F1
+Show Git/SVN
+
+CTRL+SHIFT+F1
+Zoom Git/SVN
+
+CTRL+F2
+Show Build
+
+CTRL+SHIFT+F2
+Zoom Build
+
+CTRL+F5
+Show Connections
+
+CTRL+SHIFT+F5
+Zoom Connections
+
+CTRL+F6
+Show Find in Files Results
+
+CTRL+SHIFT+F6
+Zoom Tutorial
+
+CTRL+F8
+Sync Editor & PDF Preview
+
+N/A
+Global Options
+
+N/A
+Project Options
+
+ALT+SHIFT+K
+Show Keyboard Shortcut Reference
+
+CTRL+ALT+F1
+Search R Help
+
+CTRL+F
+Find in Help Topic
+
+ALT+SHIFT+F2
+Previous Help Topic
+
+ALT+SHIFT+F3
+Next Help Topic
+
+CTRL+SHIFT+P
+Show Command Palette
+
+CTRL+SHIFT+B
+Build and Reload
+
+CTRL+SHIFT+L
+Load All (devtools)
+
+CTRL+SHIFT+T
+Test Package (Desktop)
+
+CTRL+ALT+F7
+Test Package (Web)
+
+CTRL+SHIFT+E
+Check Package
+
+CTRL+SHIFT+D
+Document Package
+
+SHIFT+F9
+Toggle Breakpoint
+
+F10
+Execute Next Line
+
+SHIFT+F4
+Step Into Function
+
+SHIFT+F6
+Finish Function/Loop
+
+SHIFT+F5
+Continue
+
+SHIFT+F8
+Stop Debugging
+
+CTRL+ALT+F11
+Previous plot
+
+CTRL+ALT+F12
+Next plot
+
+CTRL+ALT+D
+Diff active source document
+
+CTRL+ALT+M
+Commit changes
+
+CTRL+UP OR CTRL+DOWN
+Scroll diff view
+
+SPACE
+Stage/Unstage (Git)
+
+ENTER
+Stage/Unstage and move to next (Git)
+
+CTRL+Q
+Quit Session (desktop only)
+
+CTRL+SHIFT+F10
+Restart R Session
+
+ALT+SHIFT+R
+New Terminal
+
+ALT+SHIFT+T
+Move Focus to Terminal
+
+ALT+SHIFT+F11
+Previous Terminal
+
+ALT+SHIFT+F12
+Next Terminal
+
+ALT+SHIFT+F
+File Menu
+
+ALT+SHIFT+E
+Edit Menu
+
+ALT+SHIFT+C
+Code Menu
+
+ALT+SHIFT+V
+View Menu
+
+ALT+SHIFT+P
+Plots Menu
+
+CTRL+ALT+SHIFT+S
+Session Menu
+
+ALT+SHIFT+B
+Build Menu
+
+ALT+SHIFT+U
+Debug Menu
+
+ALT+SHIFT+I
+Profile Menu
+
+ALT+SHIFT+S
+Tools Menu
+
+ALT+SHIFT+H
+Help Menu
+
+ALT+SHIFT+/
+Toggle Screen Reader Support
+
+CTRL+ALT+SHIFT+T
+Toggle Tab Key Always Moves Focus
+
+CTRL+ALT+SHIFT+B
+Speak Text Editor Location
+
+ALT+SHIFT+Y
+Focus Main Toolbar
+
+ALT+SHIFT+2
+Focus Console Output
