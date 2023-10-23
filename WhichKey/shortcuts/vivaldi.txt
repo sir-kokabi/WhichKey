@@ -78,11 +78,7 @@ Select All
 
 CTRL+SHIFT+V
 Paste and Go
-
-N/A
-Hide Vivaldi
-
-F11
+F11
 Fullscreen Mode
 
 CTRL+SHIFT+B

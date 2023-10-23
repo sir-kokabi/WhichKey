@@ -165,11 +165,7 @@ Pencil
 
 B
 Paint Bucket (While editing a shape)
-
-N/A
-Bend Tool (While editing a shape)
-
-ALT+/
+ALT+/
 Remove Fill
 
 SHIFT+/

@@ -480,11 +480,7 @@ Select target
 
 CTRL+E
 Recent Files
-
-N/A
-Recently Changed Files
-
-CTRL+H
+CTRL+H
 Type Hierarchy
 
 CTRL+N
@@ -495,11 +491,7 @@ Navigate to File
 
 CTRL+E
 Navigate to Recently Opened File
-
-N/A
-Navigate to Recently Changed File
-
-CTRL+G
+CTRL+G
 Navigate to Line
 
 CTRL+B

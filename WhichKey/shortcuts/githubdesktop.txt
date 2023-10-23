@@ -1,13 +1,6 @@
 CTRL+,
 Go to Preferences
-
-N/A
-Hide the GitHub Desktop application
-
-N/A
-Hide all other applications
-
-ALT+F4
+ALT+F4
 Quit GitHub Desktop
 
 F11

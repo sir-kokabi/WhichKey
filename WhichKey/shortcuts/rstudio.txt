@@ -204,11 +204,7 @@ Reformat Selection
 
 CTRL+ALT+SHIFT+D
 Show Diagnostics
-
-N/A
-Transpose Letters
-
-ALT+UP OR ALT+DOWN
+ALT+UP OR ALT+DOWN
 Move Lines Up/Down
 
 ALT+SHIFT+UP OR ALT+SHIFT+DOWN
@@ -306,17 +302,7 @@ Select to Start/End
 
 CTRL+BACKSPACE
 Delete Word Left
-
-N/A
-Delete Word Right
-
-N/A
-Delete to Line End
-
-N/A
-Delete to Line Start
-
-TAB
+TAB
 Indent (at beginning of line)
 
 SHIFT+TAB
@@ -441,14 +427,7 @@ Zoom Tutorial
 
 CTRL+F8
 Sync Editor & PDF Preview
-
-N/A
-Global Options
-
-N/A
-Project Options
-
-ALT+SHIFT+K
+ALT+SHIFT+K
 Show Keyboard Shortcut Reference
 
 CTRL+ALT+F1

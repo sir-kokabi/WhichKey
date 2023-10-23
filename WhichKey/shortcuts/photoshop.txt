@@ -69,11 +69,7 @@ Search across Photoshop
 
 F1
 Start Help
-
-N/A
-Undo/Redo
-
-F2
+F2
 Cut
 
 F3

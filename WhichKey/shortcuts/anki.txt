@@ -18,14 +18,7 @@ Exit
 
 CTRL+Z
 Undo
-
-N/A
-Start Dictation...
-
-N/A
-Emoji & Symbols
-
-/
+/
 Study Deck
 
 F

@@ -27,11 +27,7 @@ Zoom in
 
 CTRL+-
 Zoom out
-
-N/A
-Return to default zoom
-
-CTRL+1 OR CTRL+SHIFT+1
+CTRL+1 OR CTRL+SHIFT+1
 Open Activity
 
 CTRL+2 OR CTRL+SHIFT+2

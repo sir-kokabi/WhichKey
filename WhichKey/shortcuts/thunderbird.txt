@@ -222,17 +222,7 @@ Developer Tools
 
 F8
 Toggle Message Pane
-
-N/A
-Minimize current window (Mac only)
-
-N/A
-Hide Thunderbird (Mac only)
-
-N/A
-Hide Other Windows (Mac only)
-
-CTRL+W
+CTRL+W
 Close window or tab
 
 CTRL+SHIFT+T

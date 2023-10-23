@@ -1,9 +1,3 @@
-N/A
-Show/hide Todoist
-
-N/A
-Open task Quick Add
-
 @
 Add a label
 
@@ -27,11 +21,7 @@ Open full task editor
 
 M
 Open or close menu
-
-N/A
-Go to start page
-
-SHIFT+CLICK
+SHIFT+CLICK
 Select and change multiple tasks at once
 
 M
@@ -51,11 +41,7 @@ Add a section
 
 CTRL+F
 Open search
-
-N/A
-Switch to the Board view
-
-F5
+F5
 Manually sync
 
 HOME
@@ -72,20 +58,7 @@ Cancel current changes
 
 ENTER
 Save a newly created task and create a new one below it
-
-N/A
-Save changes to an existing task and create a new task below it
-
-N/A
-Save a new task or save changes to an existing one and create a new task above it
-
-N/A
-Move to the task above the task currently being edited (inside projects)
-
-N/A
-Move to the task below the task currently being edited (inside projects)
-
-ALT+SHIFT+RIGHT
+ALT+SHIFT+RIGHT
 Increase task indent (inside projects)
 
 ALT+SHIFT+LEFT

@@ -3,17 +3,9 @@ Open new window
 
 CTRL+O
 Show "Quick Open" dialog
-
-N/A
-Show "Quick Actions" dialog
-
-CTRL+D
+CTRL+D
 Open external diff tool for current view
-
-N/A
-Show Activity window
-
-F11
+F11
 Full screen mode
 
 F5
@@ -57,11 +49,7 @@ Stage/unstage selected file(s)
 
 CTRL+SHIFT+A
 Stage all current changes
-
-N/A
-Unstage all current changes
-
-CTRL+S
+CTRL+S
 Save to Stash
 
 CTRL+SHIFT+S

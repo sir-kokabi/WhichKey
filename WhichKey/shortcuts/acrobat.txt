@@ -228,11 +228,7 @@ Move to previous open document window (when focus is on document pane)
 
 CTRL+F4
 Close current document
-
-N/A
-Close all open documents
-
-TAB
+TAB
 Move focus to next comment, link, or form field in the document pane
 
 F5

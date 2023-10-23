@@ -78,11 +78,7 @@ Jump to the next match to your Find Bar search
 
 SHIFT+ENTER OR CTRL+SHIFT+G
 Jump to the previous match to your Find Bar search
-
-N/A
-When Find Bar is open, search for selected text
-
-CTRL+SHIFT+J
+CTRL+SHIFT+J
 Open Developer Tools
 
 CTRL+SHIFT+DEL
@@ -93,11 +89,7 @@ Open the Chrome Help Center in a new tab
 
 CTRL+SHIFT+M
 Log in as a different user, browse as a Guest, or access payment and password info
-
-N/A
-Jump to the main menu bar
-
-ALT+SHIFT+I
+ALT+SHIFT+I
 Open a feedback form
 
 CTRL+L

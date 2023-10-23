@@ -372,11 +372,7 @@ Select In
 
 CTRL+E
 Recent Files
-
-N/A
-Recently Changed Files
-
-CTRL+H
+CTRL+H
 Type Hierarchy
 
 CTRL+SHIFT+H

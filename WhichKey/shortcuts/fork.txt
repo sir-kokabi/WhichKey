@@ -120,11 +120,7 @@ New tag
 
 CTRL+SHIFT+H
 Create stash
-
-N/A
-Quick Stash
-
-CTRL+ALT+O
+CTRL+ALT+O
 Open in File Explorer
 
 CTRL+ALT+T

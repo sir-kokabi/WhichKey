@@ -45,14 +45,7 @@ Close the current tab
 
 CTRL+SHIFT+W
 Close the current window
-
-N/A
-Minimize window
-
-N/A
-Minimize all windows of the front app
-
-CTRL+J
+CTRL+J
 Open Downloads in a new tab
 
 CTRL+SHIFT+L
@@ -75,11 +68,7 @@ Open a file from your computer in Edge
 
 CTRL+SHIFT+O
 Open Favorites management
-
-N/A
-Search the typed query in new tab
-
-CTRL+SHIFT+B
+CTRL+SHIFT+B
 Show or hide the favorites bar
 
 ALT+SHIFT+B
@@ -93,11 +82,7 @@ Save all open tabs as favorites in a new folder
 
 CTRL+SHIFT+I OR F12
 Open Developer Tools
-
-N/A
-Open the JavaScript Console
-
-CTRL+U
+CTRL+U
 View source
 
 ALT+SHIFT+I
@@ -171,11 +156,7 @@ Open a search query in the address bar
 
 CTRL+F
 Find on page
-
-N/A
-Search the web
-
-CTRL+G
+CTRL+G
 Jump to the next match to your Find Bar search
 
 CTRL+SHIFT+G
@@ -186,11 +167,7 @@ Move cursor to beginning of first word in same line
 
 END
 Move cursor to the end of last word in same line
-
-N/A
-Delete entire text field / entire line of text
-
-CTRL+\
+CTRL+\
 Toggle PDF between fit to page / fit to width
 
 CTRL+[

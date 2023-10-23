@@ -66,11 +66,7 @@ Show rename source files
 
 CTRL+8
 Show files from submodules
-
-N/A
-Set Anchor Commit
-
-ALT+PAGEDOWN
+ALT+PAGEDOWN
 Pull
 
 ALT+SHIFT+PAGEDOWN
@@ -186,20 +182,7 @@ Blame
 
 CTRL+ALT+SHIFT+L
 Investigate
-
-N/A
-Create Pull Request...
-
-N/A
-Next Comment
-
-N/A
-Previous Comment
-
-N/A
-Review Sync
-
-CTRL+N
+CTRL+N
 New window
 
 CTRL+SHIFT+N
@@ -234,11 +217,7 @@ Commit
 
 CTRL+SHIFT+7
 Output
-
-N/A
-Comments
-
-CTRL+ALT+1
+CTRL+ALT+1
 Main perspective
 
 CTRL+ALT+2
