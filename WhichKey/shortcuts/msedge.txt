@@ -1,52 +1,59 @@
-CTRL+PAGEDOWN OR CTRL+TAB
-Switch to the next tab
+CTRL+SHIFT+B
+Show or hide the favorites bar
 
-CTRL+PAGEUP OR CTRL+SHIFT+TAB
-Switch to the previous tab
+ALT+SHIFT+B
+Set focus on the first item in the favorites bar
 
-CTRL+R OR F5
-Reload the current page
+CTRL+D
+Save the current tab as a favorite
 
-CTRL+SHIFT+R OR SHIFT+F5
-Reload the current page, ignoring cached content
+CTRL+SHIFT+D
+Save all open tabs as favorites in a new folder
 
-F6
-Switch focus to next pane
+CTRL+SHIFT+E
+Open search in sidebar
 
-SHIFT+F6
-Switch focus to previous pane
+ALT+D
+Select the URL in the address bar to edit
 
-ALT+F4
-Close the current window
+CTRL+E
+Open a search query in the address bar
 
-F11
-Enter full screen (toggle)
+ALT+E
+Open the Settings and more  menu
 
-CTRL+1 OR CTRL+2 OR CTRL+8
-Switch to a specific tab
+CTRL+F
+Open find on page
 
-CTRL+9
-Switch to the last tab
+ALT+F
+Open the Settings and more  menu
+
+CTRL+G
+Jump to the next result for find on page
+
+CTRL+SHIFT+G
+Jump to the previous result for find on page
+
+CTRL+H
+Open History 
+
+CTRL+SHIFT+I
+Open Developer Tools
+
+ALT+SHIFT+I
+Open the Send feedback dialog
+
+CTRL+J
+Open Downloads 
+
+CTRL+K
+Open a search query in the address bar
 
 CTRL+SHIFT+K
-Duplicate current tab
+Duplicate the current tab
 
-CTRL+T
-Open a new tab and switch to it
-
-CTRL+SHIFT+T
-Reopen the last closed tab, and switch to it
-
-ALT+SHIFT+T
-Set focus on the first item in the toolbar
-
-CTRL+W
-Close the current tab
-
-CTRL+SHIFT+W
-Close the current window
-CTRL+J
-Open Downloads in a new tab
+CTRL+L
+Select the URL in the address bar to edit
 
 CTRL+SHIFT+L
 Paste and search or Paste and go (if it's a URL)
@@ -67,35 +74,169 @@ CTRL+O
 Open a file from your computer in Edge
 
 CTRL+SHIFT+O
-Open Favorites management
-CTRL+SHIFT+B
-Show or hide the favorites bar
+Open Favorites 
 
-ALT+SHIFT+B
-Set focus on the first item in the favorites bar
+CTRL+P
+Print the current page
 
-CTRL+D
-Save the current tab as a favorite
+CTRL+SHIFT+P
+Print using the system dialog
 
-CTRL+SHIFT+D
-Save all open tabs as favorites in a new folder
+CTRL+R
+Reload the current page
 
-CTRL+SHIFT+I OR F12
-Open Developer Tools
-CTRL+U
+CTRL+SHIFT+R
+Reload the current page, ignoring cached content
+
+CTRL+S
+Save the current page
+
+CTRL+T
+Open a new tab and switch to it
+
+CTRL+SHIFT+T
+Reopen the last closed tab, and switch to it
+
+ALT+SHIFT+T
+Set focus on the first item in the app bar toolbar
+
+CTRL+U
 View source
 
-ALT+SHIFT+I
-Open the Send feedback dialog
+CTRL+SHIFT+U
+Start or stop Read Aloud
 
-CTRL+PLUS
-Zoom in
+CTRL+SHIFT+V
+Paste without formatting
 
-CTRL+-
-Zoom out
+CTRL+W
+Close the current tab
+
+CTRL+SHIFT+W
+Close the current window
+
+CTRL+SHIFT+Y
+Open Collections
+
+CTRL+0(ZERO)
+Reset page zoom level
+
+CTRL+1,2,...8
+Switch to a specific tab
+
+CTRL+9
+Switch to the last tab
 
 CTRL+ENTER
 Add www. to the beginning and .com to the end of text typed in the address bar
+
+CTRL+TAB
+Switch to the next tab
+
+CTRL+SHIFT+TAB
+Switch to the previous tab
+
+CTRL+PLUS(+)
+Zoom in
+
+CTRL+MINUS(-)
+Zoom out
+
+CTRL+\(INAPDF)
+Toggle PDF between fit to page / fit to width
+
+CTRL+[(INAPDF)
+Rotate PDF counter-clockwise 90*
+
+CTRL+](INAPDF)
+Rotate PDF clockwise 90*
+
+CTRL+SHIFT+DELETE
+Open clear browsing data options
+
+ALT
+Set focus on the Settings and more  button
+
+ALT+LEFTARROW
+Go back
+
+ALT+RIGHTARROW
+Go forward
+
+ALT+HOME
+Open your home page in the current tab
+
+ALT+F4
+Close the current window
+
+F1
+Open Help
+
+F3
+Find in the current tab
+
+F4
+Select the URL in the address bar
+
+CTRL+F4
+Close the current tab
+
+F5
+Reload the current tab
+
+SHIFT+F5
+Reload the current tab, ignoring cached content
+
+F6
+Move focus to next pane
+
+SHIFT+F6
+Move focus to previous pane
+
+CTRL+F6
+Move focus to the web content pane
+
+F7
+Turn caret browsing on or off
+
+F9
+Enter or exit Immersive Reader
+
+F10
+Set focus on the Settings and more  button
+
+F10+ENTER
+Open Setting and more  menu
+
+SHIFT+F10
+Open context menu
+
+F11
+Enter full screen (toggle)
+
+F12
+Open Developer Tools
+
+ESC
+Stop loading page; close dialog or pop-up
+
+SPACEBAR
+Scroll down webpage, one screen at a time
+
+SHIFT+SPACEBAR
+Scroll up webpage, one screen at a time
+
+PGDN
+Scroll down webpage, one screen at a time
+
+CTRL+PGDN
+Switch to the next tab
+
+PGUP
+Scroll up webpage, one screen at a time
+
+CTRL+PGUP
+Switch to the previous tab
 
 HOME
 Go to the top of the page, Move keyboard focus to first item of pane
@@ -108,103 +249,3 @@ Go to next tab stop
 
 SHIFT+TAB
 Go to previous tab stop
-
-ESC
-Stop loading page; close dialog or pop-up
-
-PAGEUP OR SHIFT+SPACE
-Scroll up webpage, one screen at a time
-
-PAGEDOWN OR SPACE
-Scroll down webpage, one screen at a time
-
-CTRL+F4
-Close the current page in the current tab
-
-F3
-Find in the current tab
-
-F4
-Select the URL in the address bar
-
-CTRL+SHIFT+Y
-Open Collections
-
-CTRL+0
-Reset zoom level
-
-CTRL+P
-Print the current page
-
-CTRL+SHIFT+P
-Print using the system dialog
-
-CTRL+S
-Save the current page
-
-CTRL+SHIFT+V
-Paste without formatting
-
-CTRL+SHIFT+U
-Start or stop Read Aloud
-
-ALT+D OR CTRL+L
-Select the URL in the address bar to edit
-
-CTRL+E OR CTRL+K
-Open a search query in the address bar
-
-CTRL+F
-Find on page
-CTRL+G
-Jump to the next match to your Find Bar search
-
-CTRL+SHIFT+G
-Jump to the previous match to your Find Bar search
-
-HOME
-Move cursor to beginning of first word in same line
-
-END
-Move cursor to the end of last word in same line
-CTRL+\
-Toggle PDF between fit to page / fit to width
-
-CTRL+[
-Rotate PDF counter-clockwise 90*
-
-CTRL+]
-Rotate PDF clockwise 90*
-
-CTRL+SHIFT+DEL
-Open clear browsing data options
-
-ALT+LEFT
-Go back
-
-ALT+RIGHT
-Go forward
-
-ALT+HOME
-Open your home page in the current tab
-
-CTRL+H
-Open History in a new tab (web UI)
-
-F1
-Open Help
-
-F7
-Turn caret browsing on or off
-
-F9
-Enter or exit Immersive Reader
-
-SHIFT+F10
-Open context menu
-
-ALT+F OR ALT+E OR F10  ENTER
-Open the Settings and more "..." menu
-
-ALT OR F10
-Set focus on the Settings and more "…" button
