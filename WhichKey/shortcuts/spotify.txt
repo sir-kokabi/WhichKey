@@ -1,0 +1,71 @@
+CTRL+N
+Create a new playlist
+
+CTRL+X
+Cut a song to paste elsewhere
+
+CTRL+C or CTRL+ALT+C
+Copy a song to paste elsewhere
+
+CTRL+V
+Paste a song into a playlist
+
+CTRL+A
+Select all songs in a playlist
+
+DEL
+Delete
+
+SPACEBAR
+Play or pause the current track
+
+CTRL+R
+Set the current track or playlist to repeat
+
+CTRL+S
+Set the current playlist to shuffle
+
+CTRL+RIGHTARROWKEY
+Skip to the next track
+
+CTRL+LEFTARROWKEY
+Skip to the previous track
+
+CTRL+UPARROWKEY
+Increase volume
+
+CTRL+DOWNARROWKEY
+Decrease volume
+
+CTRL+SHIFT+DOWNARROWKEY
+Mute
+
+CTRL+SHIFT+UPARROWKEY
+Raise the volume to its maximum
+
+F1
+Open the Help menu
+
+CTRL+F
+Select the "Filter" bar
+
+CTRL+L
+Select the search bar
+
+ALT+LEFTARROWKEY
+Go back
+
+ALT+RIGHTARROWKEY
+Go forward
+
+ENTER
+Play the track you've selected
+
+CTRL+P
+Set your preferences
+
+CTRL+SHIFT+W
+Log out of your Spotify account
+
+ALT+F4
+Close the Spotify window
