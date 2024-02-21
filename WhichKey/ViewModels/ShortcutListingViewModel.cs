@@ -40,7 +40,7 @@ namespace WhichKey.ViewModels
             List<ShortcutViewModel> shortcutViewModels = new();
 
 
-            foreach (var shortcutViewModel in GetShortcutViewModels())
+            foreach (var shortcutViewModel in GetShortcutViewModels(AppName))
             {
                 shortcutViewModels.Add(shortcutViewModel);
             }
@@ -61,27 +61,21 @@ namespace WhichKey.ViewModels
             return false;
         }
 
-        private static IEnumerable<ShortcutViewModel> GetShortcutViewModels()
+        private static IEnumerable<ShortcutViewModel> GetShortcutViewModels(string appName)
         {
-            var dataFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "shortcuts");
+            var dataFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "shortcuts"); 
+            var filePath = Path.Combine(dataFolderPath, appName + ".txt");
+            var content = File.ReadAllText(filePath);
 
-            foreach (var file in Directory.GetFiles(dataFolderPath))
+            var entries = content.Split(new[] { Environment.NewLine + Environment.NewLine }, StringSplitOptions.None);
+
+            foreach (var entry in entries)
             {
-                var appName = Path.GetFileNameWithoutExtension(file).ToLower();
-                var filePath = Path.Combine(dataFolderPath, appName + ".txt");
-                var content = File.ReadAllText(filePath);
-
-                var entries = content.Split(new[] { Environment.NewLine + Environment.NewLine }, StringSplitOptions.None);
-
-                foreach (var entry in entries)
-                {
-                    var parts = entry.Split(Environment.NewLine);
-                    var shortcut = parts[0].Trim();
-                    var desc = parts[1].Trim();
-                    yield return new ShortcutViewModel(appName, shortcut, desc);
-                }
+                var parts = entry.Split(Environment.NewLine);
+                var shortcut = parts[0].Trim();
+                var desc = parts[1].Trim();
+                yield return new ShortcutViewModel(appName, shortcut, desc);
             }
         }
-
     }
 }
