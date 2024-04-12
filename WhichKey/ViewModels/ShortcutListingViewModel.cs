@@ -37,13 +37,7 @@ namespace WhichKey.ViewModels
         {
             AppName = appName;
 
-            List<ShortcutViewModel> shortcutViewModels = new();
-
-
-            foreach (var shortcutViewModel in GetShortcutViewModels(AppName))
-            {
-                shortcutViewModels.Add(shortcutViewModel);
-            }
+            List<ShortcutViewModel> shortcutViewModels = [.. GetShortcutViewModels(AppName)];
 
             ShortcutsCollectionView = CollectionViewSource.GetDefaultView(shortcutViewModels.Where(vm => vm.AppName == appName));
 
