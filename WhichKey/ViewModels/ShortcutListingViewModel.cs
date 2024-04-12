@@ -65,17 +65,28 @@ namespace WhichKey.ViewModels
         {
             var dataFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "shortcuts"); 
             var filePath = Path.Combine(dataFolderPath, appName + ".txt");
+
+            if (!File.Exists(filePath))
+            {
+                return Enumerable.Empty<ShortcutViewModel>();
+            }
+
             var content = File.ReadAllText(filePath);
 
             var entries = content.Split(new[] { Environment.NewLine + Environment.NewLine }, StringSplitOptions.None);
+
+            var shortcutViewModels = new List<ShortcutViewModel>();
 
             foreach (var entry in entries)
             {
                 var parts = entry.Split(Environment.NewLine);
                 var shortcut = parts[0].Trim();
                 var desc = parts[1].Trim();
-                yield return new ShortcutViewModel(appName, shortcut, desc);
+                shortcutViewModels.Add(new ShortcutViewModel(appName, shortcut, desc));
             }
+
+            return shortcutViewModels;
+
         }
     }
 }
